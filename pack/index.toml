@@ -19,19 +19,7 @@ file = "config/crunchy_crunchy_advancements.toml"
 file = "config/emi.css"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-
-[[files]]
-file = "config/fallflyingrestrictions.json5"
-
-[[files]]
-file = "config/familiar_friends.json"
-
-[[files]]
 file = "config/fireblanket/fireblanket.txt"
-
-[[files]]
-file = "config/getDown.json5"
 
 [[files]]
 file = "config/glowcase.toml"
@@ -40,19 +28,7 @@ file = "config/glowcase.toml"
 file = "config/hoofprint.toml"
 
 [[files]]
-file = "config/immersive_mc-server.json"
-
-[[files]]
-file = "config/inventory_tabs.toml"
-
-[[files]]
 file = "config/item-descriptions.json"
-
-[[files]]
-file = "config/lmft.json"
-
-[[files]]
-file = "config/magiclib.json"
 
 [[files]]
 file = "config/meret.toml"
@@ -67,40 +43,16 @@ file = "config/modfest_sync/behaviour.properties"
 file = "config/modmenu.json"
 
 [[files]]
-file = "config/pfm.json"
-
-[[files]]
 file = "config/polymer/common.json"
 
 [[files]]
-file = "config/portable_crafting.toml"
-
-[[files]]
-file = "config/quickerconnectbutton.json5"
-
-[[files]]
-file = "config/rocks.json"
-
-[[files]]
 file = "config/roles.json"
-
-[[files]]
-file = "config/simplefog.json"
-
-[[files]]
-file = "config/simpleupdatechecker_modpack.json"
-
-[[files]]
-file = "config/sky-aesthetics.json"
 
 [[files]]
 file = "config/snapper.json"
 
 [[files]]
 file = "config/sodium-options.json"
-
-[[files]]
-file = "config/stfu.json5"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -124,12 +76,6 @@ file = "config/surveyor.toml"
 file = "config/teabridge.json"
 
 [[files]]
-file = "config/trickster-config.json5"
-
-[[files]]
-file = "config/vanillin.json"
-
-[[files]]
 file = "config/waila/blacklist.json5"
 
 [[files]]
@@ -137,9 +83,6 @@ file = "config/waila/waila.json5"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
-
-[[files]]
-file = "config/wwizardry.json"
 
 [[files]]
 file = "mods/area-tools.pw.toml"
@@ -178,15 +121,7 @@ file = "mods/demobox.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/dont-do-that.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/drogstyle.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
 metafile = true
 
 [[files]]
@@ -202,16 +137,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/glowcase.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/hoofprint.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-metafile = true
+file = "mods/glowcase-2.3.0+1.21.jar"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
@@ -234,10 +160,6 @@ file = "mods/meret.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modfest-role-sync.pw.toml"
 metafile = true
 
@@ -255,10 +177,6 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/quicker-connect-button.pw.toml"
 metafile = true
 
 [[files]]
@@ -306,15 +224,7 @@ file = "mods/styledplayerlist.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/teabridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/timelock.pw.toml"
 metafile = true
 
 [[files]]
@@ -323,10 +233,6 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui.pw.toml"
 metafile = true
 
 [[files]]
@@ -512,12 +418,6 @@ file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
 
 [[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/assets/minecraft/texts/splashes.txt"
-
-[[files]]
-file = "resources/resourcepack/required/blanketcon-splashes/pack.mcmeta"
-
-[[files]]
 file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
 
 [[files]]
@@ -528,6 +428,9 @@ file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.j
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/credits.json"
+
+[[files]]
+file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/splashes.txt"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
