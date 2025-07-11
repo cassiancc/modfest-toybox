@@ -22,6 +22,7 @@
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             packwiz
+            jdk21
             (python3.withPackages (python-pkgs: [
               python-pkgs.tomli-w
               python-pkgs.requests
