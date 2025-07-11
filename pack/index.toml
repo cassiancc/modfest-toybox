@@ -109,6 +109,10 @@ file = "mods/ballotbox.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cantilever.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
