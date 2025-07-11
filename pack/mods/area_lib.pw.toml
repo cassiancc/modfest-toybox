@@ -1,0 +1,13 @@
+name = "Area Lib"
+filename = "area_lib-0.3.6+1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IBuXDbma/versions/P2ufpXDp/area_lib-0.3.6%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "d5b73d047edd114f4e369e8689438c36e62c20d38a8862bb006477438c7678a656c18bd108679f7a7c86e14e8f0b77f6334ab4d0de0958eaba925845bff7e283"
+
+[update]
+[update.modrinth]
+mod-id = "IBuXDbma"
+version = "P2ufpXDp"

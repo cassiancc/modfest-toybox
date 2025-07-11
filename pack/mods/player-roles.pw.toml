@@ -1,0 +1,13 @@
+name = "Player Roles"
+filename = "player-roles-1.6.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rt1mrUHm/versions/aX5ZEmN4/player-roles-1.6.15.jar"
+hash-format = "sha512"
+hash = "32763f394c6511f10fd73ed88b364924f4027c83dbc42a5b1f2b738be8025f4e956c47fb9716c1f469da84d29900430fa17b0b7c75ceb85f64f2f914ad547a86"
+
+[update]
+[update.modrinth]
+mod-id = "Rt1mrUHm"
+version = "aX5ZEmN4"

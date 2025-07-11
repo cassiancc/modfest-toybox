@@ -1,0 +1,19 @@
+name = "ModFest: Toybox"
+author = "ModFest"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.7"
+unsup = "1.1.5"
+unsup-experimental = "1.2.0-pre1"
+unsup-stable = "1.1.5"
+
+[options]
+datapack-folder = "resources/datapack/required"
+no-internal-hashes = true
