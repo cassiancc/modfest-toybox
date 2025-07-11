@@ -4,5 +4,7 @@
 		"translate": "modfest.music.stereo.prologue"
 	},
 	"length_in_seconds": 261.0,
-	"sound_event": "modfest:music.stereo.prologue"
+	"sound_event": {
+		"sound_id": "modfest:music.stereo.prologue"
+	}
 }

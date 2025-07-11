@@ -4,5 +4,7 @@
 		"translate": "modfest.music.dormant"
 	},
 	"length_in_seconds": 174.0,
-	"sound_event": "modfest:music.dormant"
+	"sound_event": {
+		"sound_id": "modfest:music.dormant"
+	}
 }
