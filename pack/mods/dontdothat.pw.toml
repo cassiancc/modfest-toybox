@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/sisby-folk/dontDoThat/releases/download/1.21.7_1.3.0/dontDoThat-1.21.4_1.3.0.jar"
 hash-format = "sha256"
-hash = "b16130177827f93f0324caca12bc810ab04a5c2808a0e1db04d347cb7f9604c1"
+hash = "01a180d03ad70cd41de07f349bb455a95db49ba317da21fdb7a85e4102b23fd7"
 
 [update]
 [update.github]
