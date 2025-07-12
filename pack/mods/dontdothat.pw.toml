@@ -1,0 +1,15 @@
+name = "dontDoThat"
+filename = "dontDoThat-1.21.4_1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/sisby-folk/dontDoThat/releases/download/1.21.7_1.3.0/dontDoThat-1.21.4_1.3.0.jar"
+hash-format = "sha256"
+hash = "b16130177827f93f0324caca12bc810ab04a5c2808a0e1db04d347cb7f9604c1"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "sisby-folk/dontDoThat"
+tag = "1.21.7_1.3.0"
