@@ -1,8 +1,20 @@
 {
-	"shard_type.modfest.visitor.description": "Visitor Shard",
-	"shard_type.modfest.bonus_1.description": "Bonus Shard",
-	"shard_type.modfest.bonus_2.description": "Bonus Shard",
-	"shard_type.modfest.bonus_3.description": "Bonus Shard",
+	"item.scattered_shards.shard_tablet": "Virtual Pet Case",
+
+	"key.scattered_shards.collection": "View Virtual Pet Collection",
+
+	"menu.scattered_shards.collection": "Virtual Pet Collection",
+
+	"toast.scattered_shards.collected": "Virtual Pet Collected!",
+
+	"gui.scattered_shards.tablet.tooltip.global_collection": "%s of players have this virtual pet",
+
+	"gui.scattered_shards.tablet.click_on_a_shard": "Click on a Virtual Pet to the left",
+
+	"shard_type.modfest.visitor.description": "First-Generation Virtual Pet",
+	"shard_type.modfest.bonus_1.description": "Step-Counting Virtual Pet",
+	"shard_type.modfest.bonus_2.description": "Color-Screen Virtual Pet",
+	"shard_type.modfest.bonus_3.description": "Internet-Enabled Virtual Pet",
 
 	"shard_pack.cantilever.name": "Cantilever"
 }
