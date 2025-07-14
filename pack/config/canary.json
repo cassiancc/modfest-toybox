@@ -1,3 +1,9 @@
 {
-  "desync_diagnostics_permission_level": 0
+  "tracked_data_whitelist": [
+    "com.example.mymod.Utilities"
+  ],
+  "state_builder_whitelist": [
+    "net.example.examplemod.Utils"
+  ],
+  "break_legacy_fabric_dependency": false
 }
