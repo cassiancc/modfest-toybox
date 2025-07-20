@@ -2,590 +2,778 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ballotbox.toml"
+hash = "6d5473851ec2ee7fc9f58edfff7064efc047c397c506f79bbff18abd522ce26b"
 
 [[files]]
 file = "config/bobby-block-entity-allowlist.conf"
+hash = "b3e942b7c4a29aefef20734b0991bfeeec395b18c8612f72bd86ff472d49bd02"
 
 [[files]]
 file = "config/bobby.conf"
+hash = "6ff4da9a5e3a1a7668630318e46fa0bd8917ab1006e1133a0aaa891d9c13a67a"
 
 [[files]]
 file = "config/canary.json"
+hash = "af64ed1e3a5713e496bf587491307342b4b2a60bfa3696acff015b51ca34da2a"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
+hash = "a1199f9550254b79a543783d7e3d46e2e13726051331e900caf8971662159d09"
 
 [[files]]
 file = "config/default-hotkeys.json"
+hash = "d4ae7ec886c782fa92e8cf47eb99bd088fdb525754029b87bfb120e3af783cd9"
 
 [[files]]
 file = "config/emi.css"
+hash = "206ec811351dc351a4a795f5adeb041e0901c171c2909d5d8504bd01ffacc398"
 
 [[files]]
 file = "config/fireblanket/fireblanket.txt"
+hash = "1a092b55ec3cc6bd33fae3bd2dd52363b70675e24a67386a81287a2b96ebdccb"
 
 [[files]]
 file = "config/glowcase.toml"
+hash = "dfe19c2ac8a10a44b66c9186062d8fcb95ecda20eda7b6187c1955c9f164c028"
 
 [[files]]
 file = "config/hoofprint.toml"
+hash = "1bc6ac412ce0c40fb7b08828f7131fa64353ce17bbe669db0d9cf84734e53340"
 
 [[files]]
 file = "config/item-descriptions.json"
+hash = "18c30583b175840ef32182c39b02fca4b86fa5515f10d7199b5a574edc2c2ef2"
 
 [[files]]
 file = "config/meret.toml"
+hash = "4c6ff82f48097eb0d356278abf2ae112fdef99f92dd0bfd6772ffcbd65a478c4"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
+hash = "de852b4a1872a91b15892951eff3c895cdadd5880a4713d77f703cfd2a57537f"
 
 [[files]]
 file = "config/modfest_sync/behaviour.properties"
+hash = "c1e0e101dcaf6879af8df0ecbc8a376fefa5f0e6445a6c8e7eba9a5d64249647"
 
 [[files]]
 file = "config/modmenu.json"
+hash = "06be0e1698e6e1e18b26c323f3714f0758aa8059bf6d152de4c791f54981f756"
 
 [[files]]
 file = "config/polymer/common.json"
+hash = "b88ac84771660be05b68bbdf6b260402494df9fe78c1ae7626365f6c76694f1e"
 
 [[files]]
 file = "config/roles.json"
+hash = "2d218fa7ecbfae1d9d76ee37389a3369467518e8427d86b7fbf9d895717badd3"
 
 [[files]]
 file = "config/snapper.json"
+hash = "e4388956cc55d8ad38d413881d5ba59b8dfcd2246e2c3c2b3dc1df97cf7b5541"
 
 [[files]]
 file = "config/sodium-options.json"
+hash = "535f2f0a496677258abe9d07df591df729a88bcd5f5db5bb54b36063102e10a0"
 
 [[files]]
 file = "config/styled-chat.json"
+hash = "379ccc65c30977423e581df9fb327e93a6427e2a39ae2c313aad5f8c8177d55f"
 
 [[files]]
 file = "config/styled-nicknames.json"
+hash = "9fa03ad9daf2ba21dc03eb8b1ebd822a87472aca463574840e88d9ae6195564a"
 
 [[files]]
 file = "config/styled_chat_emoji.json"
+hash = "5e19f895d890a5113786f3adae7ad642e0be31361584843c3a7967bb8874139a"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
+hash = "30dac5a3065e2c759e89d7864945e5180f62b037996edc4e6b07955147f7793a"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
+hash = "b4336efb4552c5e83d0983057086728d00fde27f8fcf301e9278bb8ecee1df56"
 
 [[files]]
 file = "config/surveyor.toml"
+hash = "891a91137c7352eb9ebabb088e14c2fe1e8c89faf7dfc52edbe265de0b2f4e4e"
 
 [[files]]
 file = "config/teabridge.json"
+hash = "cbbe48bc1c540422f2dde290736bca59b4497e6c63f7c33f4f86706a66a75767"
 
 [[files]]
 file = "config/waila/blacklist.json5"
+hash = "d1bd03fae229d737bce2ef397655a8f19e2eb2a64adbce5bd20b428351afcf86"
 
 [[files]]
 file = "config/waila/waila.json5"
+hash = "ddf330108acb535fd4d8598b8fd09b96d26cdc806dc5c0d4feac63dcb0ed0938"
 
 [[files]]
 file = "config/waila/waila_plugins.json5"
+hash = "11344c9b823ad2604d91863e829ab1e4c3833ee2aa9e873dda5b99a915d8a44f"
 
 [[files]]
 file = "mods/area-tools.pw.toml"
+hash = "176b245e9c57eedebc42b334ec1c83fd80635390921bd9bd3184709dd7d5c37e"
 metafile = true
 
 [[files]]
 file = "mods/area_lib.pw.toml"
+hash = "f4de2aa0945e82c9a8859df997694298cac083e05475338a9ab0b2748b82d866"
 metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
+hash = "fc8a37e2b0977425661b29cef02751bcd16549adbec9f90a164e429bc28e8056"
 metafile = true
 
 [[files]]
 file = "mods/axiom-client.pw.toml"
+hash = "0520c8e2f04092af2b49cd3dfee42589879d9976da2510777c2068e4c490594f"
 metafile = true
 
 [[files]]
 file = "mods/axiom-server.pw.toml"
+hash = "62f080e7f837044ca498d5df20ac34663e5bb52e77309fed8818fc16381ae529"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
+hash = "ab608dc348e5a47bc1005c04925140942feeb2519f5ed6a9b01be74da790835b"
+metafile = true
+
+[[files]]
+file = "mods/badstdout.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
 file = "mods/ballotbox.pw.toml"
+hash = "d84457dcebfc4b0ed1f6764952f58c85653f92706ba55d5d4115963941cf86b4"
 metafile = true
 
 [[files]]
 file = "mods/canary-safety.pw.toml"
+hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
 metafile = true
 
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "d6d210a5fee1b4595fdcb120a76b980549e4d1efc1c8228c2fb30f9273749298"
 metafile = true
 
 [[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
+hash = "d648af594d632a6b6e93a1561fccf9a2fbfae58fbd1afc57610a2e1e810b1231"
 metafile = true
 
 [[files]]
 file = "mods/dontdothat.pw.toml"
+hash = "37ebdcb182c283c08e5ee00a439cda43f1afcc8ce053d831e23a5e271833726c"
 metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
+hash = "060981d6866a73e34cdd2236ec18d7ed291840590611923b25af9880fb14b288"
 metafile = true
 
 [[files]]
 file = "mods/ears-platform-modern-fabric-2.0.0.jar"
+hash = "8b5b0277700b5a89071445978be5f0f04c27a1d9fc2c317c5baa62b605b60db8"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
 file = "mods/glowcase-2.3.0+1.21.jar"
+hash = "1f2685ae33272a3c7d1cf08a0a8ebd8306ee963c3fd33f77f001f308a4830d9f"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
+hash = "262d393c6071a784dab0719a314caaa885a90236f168236b9a7b8081efa7fcdd"
 metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
+hash = "66fd35f82fe779ccb250ab34543fb6e01cc67d5245dfcb815bf783968df18a46"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
 file = "mods/map-utils.pw.toml"
+hash = "324a557461e34921bd57bca21094949f6e313dec637d115d8da5a106900fdd4e"
 metafile = true
 
 [[files]]
 file = "mods/mcqoy.pw.toml"
+hash = "cc43f113dffb7f6b4a93b8f7603d59c0ab113fd6a211224bb87938ba68be72a4"
 metafile = true
 
 [[files]]
 file = "mods/meret.pw.toml"
+hash = "81e61c2ffcd2d75ae39ac7a08299b8a7b5c0e9cb58e315d9eb96d9827fd58d37"
 metafile = true
 
 [[files]]
 file = "mods/modfest-role-sync.pw.toml"
+hash = "19cc7ef168aa78f5a599b3ac73bb01089e8de53106bd23cdf237fce736b72b61"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
+hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
 file = "mods/player-pronouns.pw.toml"
+hash = "3dfced2bf7880c00779ddb903c01b1e8ed1edafa17eac7b1a12b0255e01ad42d"
 metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
+hash = "b57f15fb06ab96dfbaccce3c2deb6c6060c3033a9ab301683d52e1085e72d2f9"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
 file = "mods/scattered-shards.pw.toml"
+hash = "0a0990ee2b5e8095a2c2ad6db90cd9843ef9db5798e7c4b3b08ff977f6111980"
 metafile = true
 
 [[files]]
 file = "mods/shuttfup.pw.toml"
+hash = "66416188b5740de89f533e11b7e0f9fdcad6d353456d8adda1999e3cc1ac19d0"
 metafile = true
 
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
+hash = "c8b5a1924109b9103d1fd65c23ae18b00fc3b20720a0060d83e1ae3b5fda86e8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
 metafile = true
 
 [[files]]
 file = "mods/spawnanywhere.pw.toml"
+hash = "d911e83287ac668d3e6beb0804a53cfe026cfda4bf23e0a6be8dd3dfaa4aedbe"
 metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
+hash = "383631340e96b5eff78109ee3c8529ddc8db70f8801931914f87e07eac5adc0e"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
+hash = "d22b4c8d987adf567eeafe9e198c2bb035cbaf9bfc8dbc17084cd04d6ea73bf1"
 metafile = true
 
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
+hash = "b9ef9c6c4f4f49824ab0d09cb0fc15d77dce56eee7b7f1841890f9a7973ff3fa"
 metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
+hash = "616a5d0efef70af6b4bdf64867afa6a959edc1e3ec2ed6d23bab49519c487a85"
 metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
+hash = "e43602f14756a3e4683de8fced0769fe849550284a95873c72eddf485de10774"
 metafile = true
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
+hash = "b6d8786f5d7981b8730ef0814f3840cda1cf8703dbc3743266acda4901a3bc07"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+hash = "a3814c912ea010a099724b04339c16f2912da575869ca336eb861473009b022a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
 
 [[files]]
 file = "options.txt"
+hash = "3519cf02e02b732ea0cc433c08c4ff3daec96678e95a71e9358872373ae58c44"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
+hash = "ad681b2dcfb562eb9b7e4c5834139a90ab768ca263f774660fe8006dba2fce8b"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
+hash = "142b0824ebc2f8177fc0d34a3f63981eb543596bd7a4f403ceaa66946d607a06"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/dormant.json"
+hash = "d2dfd40a9dc8cd5924ed21d9eb592ee7833dc1cfbad4c4cb68288e6ea5e7ae77"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/prologue.json"
+hash = "f6c8d74ffd07c289fe7cff830c5ec3615df01af506ab1713fa2a75b664baa808"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
+hash = "7bee779b3b6b542fc745cb1ca06aeae66340fce02c6f0b3df67cafa7ac5b9ddb"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/dormant.ogg"
+hash = "276149b2f8cca43f6402a5bcc4969eade5371a4f19e68a75b382ddf85323c8ea"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/prologue.ogg"
+hash = "2c8361a8db94f012df07650536f485506208f305a51a3b4b006b512640fc0590"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dormant.ogg"
+hash = "bdfd72360cccb9b6b1dc332859b1df50a902302d86c490b73b6710d7d8e93b4a"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/prologue.ogg"
+hash = "3a29a9b8e500b2dc7dabd47223bbb3c8a0b0c910d98058f03c61dab6d289af1b"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant.png"
+hash = "82ec33e0b3b36e65faf03350da4510831403d30004b0fedb3b269e7f8f5b04d4"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/prologue.png"
+hash = "9bc55b06727ba9652a5a71a598efea37cad407dd6144fedabcf51d9e0aacd372"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/dormant.json"
+hash = "1ede84bb38e0ed6cfad703baec9e75b8aaea98a8e253d856d1298d4be23304c5"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/prologue.json"
+hash = "86742877c3056832d36ae8c0ab909d7c56aa7112e0237f7df60d66fcee111752"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dormant.json"
+hash = "5843ea618ac20aa16d98a216084b120cd84ce195ff8da0ddace4d6e51a02fceb"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/prologue.json"
+hash = "fbfc62166fdd26405cb25f92a77a64cd98873ecc6e6ea7bd96c7eabf019ad63b"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.mcmeta"
+hash = "68762c23af076bd5b4c9b166d753b03144122200414d832283485e7c2cbcd086"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.png"
+hash = "03370ec37ab5616f011f6772acb6a1513972decf577882951f7c293f0870c262"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/lang/en_us.json"
+hash = "fc653a6168aeb19680d2d13e4b8caf40dd38d716ba01b3f7aa99478c46397c69"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_backing.png"
+hash = "9c225da2277f3d446628c737c9f790cdd8f1708728dd729573a02431b222b455"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_front.png"
+hash = "718ce6536fa231a73e6f557dcf3e7b016e4952e6f4a393f38d9408da5d653a66"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_backing.png"
+hash = "f19538f56f1829591884c04b26e0d251e56636198c358687502da6fd88b441fc"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_front.png"
+hash = "bb70b63fadf01e9b377c06cf142b74a6fad3a249d6e0dfe4940fb60e9b3baefb"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_backing.png"
+hash = "adf615ae5b128740ca45af879e148f6241348483a01b642a3ba076f61f36b477"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_front.png"
+hash = "bd64d6be0ecf86fd2587f7d0c8f12c5b8922d859d4c5f7396ff42daf701105ea"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_backing.png"
+hash = "f45de9ac371a2a1de59d92488478b619826eae72054e2215576519074b189318"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_front.png"
+hash = "50e34efaec1f221f1003d5bd888cee73606ea14fda48d98a60364cecb4134dd4"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_backing.png"
+hash = "bc137777c67b0a68baafa1b1c69c559e5e6523d22c00373d6dd76fbbdccebeef"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_front.png"
+hash = "582aa2f34555d1406a504725ce17d9f230d1ab90f0822dabb6cacd9f8814c204"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_backing.png"
+hash = "db479ffe8e479882137adba4446f5915223ac893c132a53d1f75d64307a1171f"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_front.png"
+hash = "d2687a5492dba13a3b9e0b3078e536e80f295ba5c44c999b4e0f96d92d76de90"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mini_outline.png"
+hash = "9e7231747bbbe25b7e70d7e20781c19eea37a310f8338f6dfde1bc6643bcb5e4"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mini_outline_slight.png"
+hash = "fd94014c949d69133c7f910a235d5ef3798983724a62ee25252131caa7a78501"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_backing.png"
+hash = "f798c6e4cf636eaefc4758d1cc93dc70e1925feb32c271d28d78c3f6a9c8d39d"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_front.png"
+hash = "3da2c149cd7b3abc3d18415ebb2f5c2eb930c37a48c92d1a5f4b2d4c6563ed5b"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_backing.png"
+hash = "47badc0322c56e36ce01d0494640ddba1c453adbc62cd8a57c676063efd71d86"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front.png"
+hash = "0aa145cb808d233a5ceca62e69cbe3505d4e21684e0bb8196bcade3edd55797f"
 
 [[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
+hash = "46ceb9355e14018d08d4050ebd6a733338ef92e3d96d1e0599939aa0594f959e"
 
 [[files]]
 file = "resources/common/required/mf_shards/pack.mcmeta"
+hash = "857f4b62a8e010047e3469294d6e4062dabf4a94cdcda9f95c94df9dfaa5a154"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
+hash = "f171c90e5540d56f6269f2d6a10364fe37fd6c1fde6aed83a83e61eac125dd7b"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/options.json"
+hash = "8335e049a6e848769d5ae9c5a8d7382a91d607504276c8a67681db305263edbe"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/pack.mcmeta"
+hash = "8070cd3602ce7c44530f59f7049316ff448ac759abf7119de342a17db5699b72"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/block/block_interaction_restricted.json"
+hash = "b99310da583633b789833fbf9f151bcb76ebf8b71923ec7983b1b34b58c6d338"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/entity_type/entity_attack_restricted.json"
+hash = "d0e1769e808526527562dca8a214af04ae1100f991f67bbef5a3605c7d83edc4"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/entity_type/entity_interaction_restricted.json"
+hash = "8acd3cdaa3835efb0490e09c34ff2b45c36e680ef3d90631a00db48e9cb86c89"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/item_interaction_restricted.json"
+hash = "f511cf7b4eff12a18be2f396b5abe0d7f327f8671e11e5f6fe44430d15a2c5ed"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
+hash = "094b88fe8a504258aea02e491658b9c67ef9027b9b82ce741081aec5b609c169"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
+hash = "e084554363fb7afc8235ce75fead2358351c08667f73a2197b2c72595dc25b18"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png.mcmeta"
+hash = "09f5581b3f13a8b77ab4d61c58c16168f539c3ca99044a77d1d07cdd8e34614c"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
+hash = "838ba99530ad00014cc79d218e1e3bf2ff7a0a06fbd84f571d2a1536924f90fa"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/credits.json"
+hash = "d46f01f9034796abfd7f1e799e5119ef2885cce253b735ae1bb67a180f470260"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/texts/splashes.txt"
+hash = "c78588723614d7409968b6d08136ac91fdcc10d490abbf17dd05412991652fc2"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "b61347c642becb978936534d9ce8ffd16949b03ae2a8554132569d15a14533cb"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "f3fc8d8e09761c32b3a1a2b6add56bcc6f4e77e3dd078c524a8be6acd267a1e7"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "f6f4d458c8b72c13edb5f05271af546ec22044186d83fbfcd0ff8b80f9de05b5"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "49468b8ed516ded9b5d6226818c3d53769d05506609a7d8368b5a9e3b49740f1"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "8db38309fceb097a6eb7fa689071bff5ae0a262dc027a0e3ee056bb4ea25c385"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "f6e21841f725346060029f7098ee21b625a6be9e0fadafc98945db81b76b407d"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/edition.png"
+hash = "63e573fd6dce0d2df75365bed4bb75875392f4059644c04c66df26ca5e1ff0c5"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "9eff598e1e50fce579b56b22d0f01aa58b155def3522174d499fc9ee6afb32e3"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "da58caf53a1a62800986e5b9ace6b5b071341cfc1aea2252dc70fea95ed00219"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/minecraft/textures/misc/forcefield.png"
+hash = "5aaf6f95e7d25ef88fc280c8a58e4e5f2abf33af461834933b774fc0acfeca92"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/graphics/background-lockup.png"
+hash = "ce81da6345da37ed0ea32ec2775698fb0016254d0e6bd8b159a03a3331dab086"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/graphics/lockup-transparent.png"
+hash = "e084554363fb7afc8235ce75fead2358351c08667f73a2197b2c72595dc25b18"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/modfest/textures/art/icon/transparent-modfest.png"
+hash = "0b84984484f070795d80d89e66cc32ee05e23fd39746944c4e1045b57bddf8ba"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/pack.mcmeta"
+hash = "954b50135450c0b13df80eef9192219c1d5e213d886406d020481ae3a3df2838"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/font/emoji.json"
+hash = "d1a841ffa696907440b0010aa355cfe0c42b45fb79a791c13c49abd95a376e3c"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/font/icons.json"
+hash = "88ce5a54dd4bad8c543b8d94b10685d7a27f7e1df96f265f432a56d8560af74c"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ace_heart.png"
+hash = "91962f620f843e5876873cbc6bc425bceabcee0f9777d426d15dcf7164890f5c"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/agender_heart.png"
+hash = "01483c782af5bcb8ad75bf190461e6886804b2b797a99225e09202284a7c4888"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_good.png"
+hash = "01acf1974640f5e3f75a1269275e3674ca1d90ccd81dbf5862eeae20aa640051"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_great.png"
+hash = "70de5d2343ee7f041a3c25b84d2bb27675a2df88ff0a02d5bd9c54aa35ce8415"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_none.png"
+hash = "2c845443c0cc46f75d6812ef4fd82001b4431be7f5e3fd3e69cad4255766c846"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ananas_question.png"
+hash = "612fb894339086898aa82f36b5e0b27f2f0cd69abf7843954a702017c45675fe"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aro_heart.png"
+hash = "ca1eb24863913d914b5663b25d798190e39eed00b61598017aae01fbe0017abc"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/aroace_heart.png"
+hash = "ecabc3babf47a3ba511246c04501109b971f1e0d5eaf65cd9c632120b8d4ff07"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/bi_heart.png"
+hash = "5d56fc98bcb4e7c35aa9d1469e2e1947961fcbb95ef8ddba73de9f403c459042"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/blanketcon.png"
+hash = "af7eb5da230e02650e42735fb0d4bdf84c74d527d1f8f3c02f0fb4eebd858d7c"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/blob_waaaaa.png"
+hash = "e7c95bffd2011deb7d499b06908442b29be0877069b318211311a52ffc1afe6e"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/demi_heart.png"
+hash = "2c3c4292a8d39a961ef82913a18ed42c1cc218f8ced6f6c2463da54b83b79e13"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/femboy_heart.png"
+hash = "a19bff1c13fb2c2e32871099280ad4701115458b6b58e832e0e0a6d11a35e179"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/furry_pride.png"
+hash = "54e4f10ae6554fd09d6dbbc68885c67c459fd68f4c9fade7a555d17cd73eda02"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderfluid_heart.png"
+hash = "e39cab1aa75e5b76c111d34c7e3fa0fdf4f81cfc0affd592976ed8111700b775"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderflux_heart.png"
+hash = "00a043d26d8f2e387d3f046821e80b960f3e994e66d5eb4320d6953721a25b50"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/genderqueer_heart.png"
+hash = "bf626401a45f6186c5b65a9e0b522d3f5a55f8736af2fc5aa913691fb5fd272b"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/intersex_heart.png"
+hash = "ef2790a714e97db20ddffad681abdc5f6dbb6b704b7642d56e2e386d1f63d052"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lesbian_heart.png"
+hash = "52db7df3ac622ae7cb6ac9faea5c235b5e389804fed44eeed225b4ebb438a2f8"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/lil_pineapple.png"
+hash = "62620b616a5d6187058389948ccea42af58c12d1c13ae7b29176922346056742"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/modfest.png"
+hash = "291611fe2635a8f42a29c4e4e6cc28bbd3887a74aeeb975ad838bbf8b99263e4"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/nb_heart.png"
+hash = "24f80c4047f1a23f801be7b8b9f2ab1c8f765a5c4e886395e37f357d8b41a82d"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/neurodiversity_heart.png"
+hash = "35d4f50adcaa461c9258e581bf9f1f992f119cddcd9b6ce7d71dcb48457f1e63"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/ohno.png"
+hash = "289158f5a72fa49b9b889ef40a490f262b2fdfe6b6259447d6c725f141ca5ec5"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/pan_heart.png"
+hash = "461e11413268cfc522602a264a07cb647b0f82777143a39e3b51f8c86243886b"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/pineapple.png"
+hash = "627d7975b30a173bc05bddfa0d88ca375cc71628f9ea199223cd84c0814ca714"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/plural_heart.png"
+hash = "5c0483d1c7f44517fe4308567cfd6b82d88a51d3b9dfce63c52a5a23ee69b8a5"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/queer_heart.png"
+hash = "3a3cbb9db4faf24bcae3391fdfcb1a37859e05634bac9fc115d32849b7daa783"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/queer_prog_heart.png"
+hash = "57340f63f6e7ce33bf3784e133bd7b101611d8da4e436ecdeceb4ca9dcfac510"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/trans_heart.png"
+hash = "35fdac808d78ee864fe9a3c24f0e3805e0ffbb5d5e2fd4537a2a838408e1d405"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/uh.png"
+hash = "f752b0745e11f31a459db4ffdd4cbe21f890dd0f9206f2a46dd81176335106a1"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/vincian_heart.png"
+hash = "a4ccfe2662889698487ed7b6d3556e4e8d254068cc652d2778820b7926147384"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/whyfest.png"
+hash = "d2c3a022fd0994fb2daa1b07fcbd3d542086e5def54089b7e73461047346eae0"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/winnger.png"
+hash = "7fc813e4f8ed3574531da39848907e7021104126faca24787f18169b85a6a507"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/yeefuckinghaw.png"
+hash = "f23dd11734c0f881cf2caa2c1d9ee91842cf9f3e7ed1cf0871a1d0b3f2eabbd8"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
+hash = "a19d13d586761b36481319d938786892cbe665db678c763a71d75d0ca007dc5b"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
+hash = "70ae1cff39f1b689009f1cc5b5b444b05f9e62cba515ffd7bf0b66c84e12f1bc"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"
+hash = "c95b7d6a2b427e21f8bac87810b52206b1d16c3f5f15aa768001558b8e0a57b2"
 
 [[files]]
 file = "server-icon.png"
+hash = "1e1d8d236c8dc1bae25dfa13b86f80d6bf2bb90f7259d12a437445874e87bc1f"
 
 [[files]]
 file = "server.properties"
+hash = "6a34946873171415ba3d3ca7798e5b5317d5dc35d299ecb721a6a3fe6dea7819"
 
 [[files]]
 file = "servers.dat"
+hash = "80f595697fa62d28d4ff982bd5db44302fff489f4e009f8263c254717f0174fc"
 
 [[files]]
 file = "unsup.toml"
+hash = "69d0dda3b2d374608b4843fc2de3a071af987d122abba43e5f696c971034d7ba"
