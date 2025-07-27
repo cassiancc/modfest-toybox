@@ -1,0 +1,13 @@
+name = "pbwarps"
+filename = "pbwarps-1.0.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZ2XMKfr/versions/zTXk456H/pbwarps-1.0.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "60f86768b5b40da3c4f68dd595af987b393273b639d7cca6277efb859e71be4e26546a36d8fb740c9bf48b508efce670693043d864c5b18d117ec4875f3a8033"
+
+[update]
+[update.modrinth]
+mod-id = "DZ2XMKfr"
+version = "zTXk456H"
