@@ -118,12 +118,10 @@ hash = "11344c9b823ad2604d91863e829ab1e4c3833ee2aa9e873dda5b99a915d8a44f"
 
 [[files]]
 file = "mods/area-tools.pw.toml"
-hash = "176b245e9c57eedebc42b334ec1c83fd80635390921bd9bd3184709dd7d5c37e"
 metafile = true
 
 [[files]]
 file = "mods/area_lib.pw.toml"
-hash = "f4de2aa0945e82c9a8859df997694298cac083e05475338a9ab0b2748b82d866"
 metafile = true
 
 [[files]]
@@ -187,7 +185,6 @@ hash = "8b5b0277700b5a89071445978be5f0f04c27a1d9fc2c317c5baa62b605b60db8"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -211,12 +208,10 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
 file = "mods/map-utils.pw.toml"
-hash = "324a557461e34921bd57bca21094949f6e313dec637d115d8da5a106900fdd4e"
 metafile = true
 
 [[files]]
@@ -274,7 +269,6 @@ metafile = true
 
 [[files]]
 file = "mods/shuttfup.pw.toml"
-hash = "66416188b5740de89f533e11b7e0f9fdcad6d353456d8adda1999e3cc1ac19d0"
 metafile = true
 
 [[files]]
@@ -284,7 +278,6 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8b5a1924109b9103d1fd65c23ae18b00fc3b20720a0060d83e1ae3b5fda86e8"
 metafile = true
 
 [[files]]
@@ -294,7 +287,6 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
 metafile = true
 
 [[files]]
@@ -329,7 +321,6 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
-hash = "b6d8786f5d7981b8730ef0814f3840cda1cf8703dbc3743266acda4901a3bc07"
 metafile = true
 
 [[files]]

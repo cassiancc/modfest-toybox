@@ -1,13 +1,13 @@
 name = "Stfu"
-filename = "Stfu-2.5.3-1.21.6.jar"
+filename = "Stfu-2.5.4-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/mi7zZl4O/Stfu-2.5.3-1.21.6.jar"
+url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/vloSXbeN/Stfu-2.5.4-1.21.8.jar"
 hash-format = "sha512"
-hash = "3464c0951bdff58b1582dac94dbf4ffff3e654a5ad7236aa50feb05a26f72fa4e572678597656735895af8197d0ad374e605ed08662a0e02d2c79cbb577d1b65"
+hash = "9e78e6fcc9c042ae06c884b5acd761cfeab8df792f991a8173f9bcda8bd45cf7a9fa4c0119a0cd54e77cee1867b4df3d29313bfd16ac06ffeb5c1c39121d49e9"
 
 [update]
 [update.modrinth]
 mod-id = "Rg9WdvvR"
-version = "mi7zZl4O"
+version = "vloSXbeN"
