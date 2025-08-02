@@ -6,12 +6,12 @@
     "",
     "<font:'modfest:icons'>-0</> <font:'unsanded:default'>ModFest: Toybox",
     "",
-    "<font:'unsanded:default'><gr #0d414e #003441><st>              </>[ </><#ffffff>%server:online%<#003441>/</>%server:max_players%</><gr #003441 #0d414e> ]<st>              </>"
+    "<font:'unsanded:default'><gr #341216 #1f060c><st>              </>[ </><#ffffff>%server:online%<#1f060c>/</>%server:max_players%</><gr #1f060c #341216> ]<st>              </>"
   ],
   "list_footer": [
-    "<font:'unsanded:default'><gr #0d414e #003441 #0d414e><st>                                       </st>",
+    "<font:'unsanded:default'><gr #341216 #1f060c #341216><st>                                       </st>",
     "",
-    "<#ffdf93>TPS: %server:tps_colored% <#003441>|</> <#ffdf93>Ping: <#ffffff>%player:ping_colored%</>",
+    "<#d8c2a3>TPS: %server:tps_colored% <#1f060c>|</> <#d8c2a3>Ping: <#ffffff>%player:ping_colored%</>",
     ""
   ],
   "hidden_in_commands": false

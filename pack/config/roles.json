@@ -1,6 +1,7 @@
 {
 	"team": {
 		"level": 100,
+		"includes": ["builder", "participant"],
 		"overrides": {
 			"permission_level": 4,
 			"permission_keys": {
@@ -18,15 +19,20 @@
 			}
 		}
 	},
-	"fixer": {
-		"level": 10
-	},
 	"participant": {
 		"level": 5,
+		"includes": ["builder"],
+		"overrides": {
+			"permission_keys": {
+				"modfest.participant": "allow"
+			}
+		}
+	},
+	"builder": {
+		"level": 3,
 		"overrides": {
 			"permission_level": 2,
 			"permission_keys": {
-				"modfest.participant": "allow",
 				"modfest.builder": "allow",
 				"worldedit.*": "allow",
 				"scattered_shards.command.award": "allow",

@@ -85,20 +85,7 @@
         "permission": "modfest.organizer"
       },
       "message_formats": {
-        "chat": "<c:#e74c3c>\\<</c>${player}<c:#e74c3c>\\></c> ${message}"
-      },
-      "formatting": {},
-      "emoticons": {},
-      "custom_message_types": {}
-    },
-    {
-      "require": {
-        "type": "permission",
-        "permission": "modfest.builder"
-      },
-      "display_name": "${default}",
-      "message_formats": {
-        "chat": "<c:#aaff97>\\<</c>${player}<c:#aaff97>\\></c> ${message}"
+        "chat": "<c:#b33831>\\<</c>${player}<c:#b33831>\\></c> ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -111,7 +98,20 @@
       },
       "display_name": "${default}",
       "message_formats": {
-        "chat": "<c:#49c2e0>\\<</c>${player}<c:#49c2e0>\\></c> ${message}"
+        "chat": "<c:#d8c2a3>\\<</c>${player}<c:#d8c2a3>\\></c> ${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    },
+    {
+      "require": {
+        "type": "permission",
+        "permission": "modfest.builder"
+      },
+      "display_name": "${default}",
+      "message_formats": {
+        "chat": "<c:#f3adf0>\\<</c>${player}<c:#f3adf0>\\></c> ${message}"
       },
       "formatting": {},
       "emoticons": {},
