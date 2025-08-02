@@ -3,7 +3,7 @@
 
 	"key.scattered_shards.collection": "View Virtual Pet Collection",
 
-	"menu.scattered_shards.collection": "Virtual Pet Collection",
+	"menu.scattered_shards.collection": "Virtual Pets",
 
 	"toast.scattered_shards.collected": "Virtual Pet Collected!",
 
@@ -18,3 +18,4 @@
 
 	"shard_pack.cantilever.name": "Cantilever"
 }
+
