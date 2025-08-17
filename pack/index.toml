@@ -131,12 +131,10 @@ metafile = true
 
 [[files]]
 file = "mods/axiom-client.pw.toml"
-hash = "0520c8e2f04092af2b49cd3dfee42589879d9976da2510777c2068e4c490594f"
 metafile = true
 
 [[files]]
 file = "mods/axiom-server.pw.toml"
-hash = "62f080e7f837044ca498d5df20ac34663e5bb52e77309fed8818fc16381ae529"
 metafile = true
 
 [[files]]
@@ -203,7 +201,6 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "66fd35f82fe779ccb250ab34543fb6e01cc67d5245dfcb815bf783968df18a46"
 metafile = true
 
 [[files]]
