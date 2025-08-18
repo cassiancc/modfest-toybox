@@ -320,6 +320,10 @@ hash = "616a5d0efef70af6b4bdf64867afa6a959edc1e3ec2ed6d23bab49519c487a85"
 metafile = true
 
 [[files]]
+file = "mods/worldborderfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldedit-cui.pw.toml"
 hash = "e43602f14756a3e4683de8fced0769fe849550284a95873c72eddf485de10774"
 metafile = true
