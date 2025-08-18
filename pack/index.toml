@@ -158,6 +158,10 @@ hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
 metafile = true
 
 [[files]]
+file = "mods/cantilever.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "d6d210a5fee1b4595fdcb120a76b980549e4d1efc1c8228c2fb30f9273749298"
 metafile = true
