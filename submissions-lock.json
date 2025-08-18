@@ -738,16 +738,16 @@
 			},
 			"mods/mica-runes.pw.toml": {
 				"download": {
-					"hash": "6d97672e4147c7ee677a0083acdd892cb800011ad93a1de086071a763619a20e53b9fc1442b0d15989ba719377b4657aacc363ba210fc8c4da8008b41b9a5e55",
+					"hash": "a2bbe3e3e7fa6717fe8db40eec56fed4071feac610a034164bd3d50f3d8aabd138a689639a6879884b153661bd79811a95337255a7ec040297b82467b010c04c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/EHgLss6x/mica-0.0.4.jar"
+					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/XQBZG8Kk/mica-0.0.5.jar"
 				},
-				"filename": "mica-0.0.4.jar",
+				"filename": "mica-0.0.5.jar",
 				"name": "Mica",
 				"side": "both"
 			}
 		},
-		"key": "c0ed6d19eab19c7c76d08f7afdee47c36b173c5788616ebf226c078e0dc5c4cb"
+		"key": "c71aa59426390b5bcc70cd8c3af9fa430641ad5bd3a170728f4e25949f6d407a"
 	},
 	"mob-mystery-dollhouse": {
 		"files": {
