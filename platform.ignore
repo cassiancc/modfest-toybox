@@ -6,9 +6,6 @@
 dronebox# DroneControllerItem
 action-mobs# ActionMobBlock
 
-# mixin transformation failed
-volo-volare# @Shadow field client was not located in the target class net.minecraft.class_329
-
 # polymer sync causes custom_payload kick on join
 paintbrush-mod
 
@@ -20,6 +17,3 @@ newinbox
 
 # needs sandboxing
 dronebox
-
-# extra classes config has illegal char, but should just drop this and add classes normally
-mica-runes

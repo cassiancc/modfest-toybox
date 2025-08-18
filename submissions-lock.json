@@ -258,16 +258,16 @@
 		"files": {
 			"mods/densha-no-omocha.pw.toml": {
 				"download": {
-					"hash": "50b620ef92f52efc2512df115d392d8a184a204f4e92c60863feeecde9fff5fdba97e6bf8f14bf502c01798eb4fdff87095f6329d0f8cfcb407171d242103a12",
+					"hash": "fa27e3170c6fdcb9da049268fc06ea55d889a53663dd69a76de2e453ee6e271cd377444b05f36796a92c348a765b61a3436625caf4a89ac393dfc19c56f9e75f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/penQLloD/versions/dGvyoN7l/densha-no-omocha-1.21.8-v0.1.0-EXPERIMENTAL.jar"
+					"url": "https://cdn.modrinth.com/data/penQLloD/versions/2NFw8usA/densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar"
 				},
-				"filename": "densha-no-omocha-1.21.8-v0.1.0-EXPERIMENTAL.jar",
+				"filename": "densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar",
 				"name": "Densha no Omocha",
 				"side": "both"
 			}
 		},
-		"key": "ca537cab0c6711aa4823fbb081e110ca6de6a843a48f613aedc9c845c4035a47"
+		"key": "28f0709bdd561ddcb8cbdcb60999700015513025a32e60e1fc82a0172ff067cb"
 	},
 	"diy-die": {
 		"files": {
@@ -378,16 +378,16 @@
 		"files": {
 			"mods/googun.pw.toml": {
 				"download": {
-					"hash": "7d849ba90caf36ba3df70dcc3f8111f94d3f294db2d9d66d392cac8c353bab47ba4b15c6bc7df0415a917e6a92866bcfc556cdb698c5220da061c9d25ec3c8e5",
+					"hash": "c9d393eaf9d8bb477b8dce0920762f6396f2703fcf469b7136d46f283b253e5a3d4a2a5997844c1c907fc564ccc8c2a2e71e1a62fe01d169e23a163fd014e181",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/m0opCGQL/googun-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/TYF86bEF/googun-0.1.1.jar"
 				},
-				"filename": "googun-0.1.0.jar",
+				"filename": "googun-0.1.1.jar",
 				"name": "Googun",
 				"side": "both"
 			}
 		},
-		"key": "9d478e176a3694d56fd0122b08330b8c322c434f0fac4fa6ae2edaea046e289f"
+		"key": "202a973595fc3a2854b5960f6584550e907789f919d26bf6eac17c569d7a98ee"
 	},
 	"grand-indestructible-kingdom": {
 		"files": {
@@ -523,16 +523,16 @@
 			},
 			"mods/hero-statue.pw.toml": {
 				"download": {
-					"hash": "3823c34851537f1d06afcfa347b2a541a502e00c19171418add00209ff4276ac6545f40aca612ccb3b8440f6cd15d7d813178f03b7e3226c3ace25ac13aa800d",
+					"hash": "aa04a8e9f33550add594b0a66ffa94188730c1dfda8160869b365853137845af20560a8c6dc2a3bb58c2a3ee14ed04e5255f88bff3f5110960b11490ddb28c8f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/1SCS7Tvg/hero-statue-1.0.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/5lLCZgSk/hero-statue-1.0.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "hero-statue-1.0.0+fabric-1.21.8.jar",
+				"filename": "hero-statue-1.0.1+fabric-1.21.8.jar",
 				"name": "Hero Statue",
 				"side": "both"
 			}
 		},
-		"key": "929a26e496c030f6bf16b1b3d218e771b6dc146a01dd2483e14c87645147ee04"
+		"key": "e206495822bbfa199003e261372e2ed1b5c6a3d92f53009261ff002d11ad25f3"
 	},
 	"hyper-silt": {
 		"files": {
@@ -726,28 +726,38 @@
 				"name": "Cardinal Components API",
 				"side": "server"
 			},
+			"mods/krysztal-language-scala.pw.toml": {
+				"download": {
+					"hash": "67353b7e36681468ff015b105df3870cb222f2b5d0207f18f018483d5ccb1b144e287a5ea9916d356891a18f81aa238d6b43bb64d4ef5bcca6b74c9e8f6e91bc",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/Ptd0Ha1s/versions/wA3wa80W/krysztal-language-scala-3.3.0%2Bscala.3.3.0.jar"
+				},
+				"filename": "krysztal-language-scala-3.3.0+scala.3.3.0.jar",
+				"name": "Krysztal's Language Scala",
+				"side": "both"
+			},
 			"mods/mica-runes.pw.toml": {
 				"download": {
-					"hash": "c162d38c145fbcf710caf19bec23659260009c91cbb85e3e9fc3b7f97f178dbd6b0bd967136ea230d6e59d0f36ef08b7b9d55214efbe3fcaa6006d4f99c6224a",
+					"hash": "6d97672e4147c7ee677a0083acdd892cb800011ad93a1de086071a763619a20e53b9fc1442b0d15989ba719377b4657aacc363ba210fc8c4da8008b41b9a5e55",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/oGlWDi7F/mica-0.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/EHgLss6x/mica-0.0.4.jar"
 				},
-				"filename": "mica-0.0.3.jar",
+				"filename": "mica-0.0.4.jar",
 				"name": "Mica",
 				"side": "both"
 			}
 		},
-		"key": "4d3a93d29cfc6c580e05db6f39c44f55a665faf8536531cf89af482365e0025c"
+		"key": "c0ed6d19eab19c7c76d08f7afdee47c36b173c5788616ebf226c078e0dc5c4cb"
 	},
 	"mob-mystery-dollhouse": {
 		"files": {
 			"mods/mob-mystery-dollhouse.pw.toml": {
 				"download": {
-					"hash": "451d54645342d9bda8f6d1e167ac7dd082ae3286f12e905aa18d273f1210068a747b0febea0c4c1c17c359b70ab95dfc992667f3b5eaeaabf74b75a1dd889df0",
+					"hash": "6a30f4c53740626313530a4b34638520b9e8f8155cf397ecdfb5f4367886492d0c7fe544e3640ae5ead003ad864880c837f280fc28929b821d7136f63dbb490e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/59noaiUf/versions/E2s7ldyI/mmdollhouse-0.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/59noaiUf/versions/9hxaRwX9/MobMysteryDollhouse-0.1.1.jar"
 				},
-				"filename": "mmdollhouse-0.0.1.jar",
+				"filename": "MobMysteryDollhouse-0.1.1.jar",
 				"name": "Mob Mystery Dollhouse",
 				"side": "both"
 			},
@@ -762,7 +772,7 @@
 				"side": "server"
 			}
 		},
-		"key": "9a7e898e10004c018b2c88fc215c6df3895c33d00b63bff8b6f02dbb2bf8dcb7"
+		"key": "3882cc9426dd50dbd226442362917c30c5d75bdd746a672f8f91cb7338dd9f36"
 	},
 	"more_than_a_foxbox": {
 		"files": {
@@ -838,16 +848,16 @@
 			},
 			"mods/not-a-toy.pw.toml": {
 				"download": {
-					"hash": "bcc21bdcb1a479ea44f22d2dc1a43581ca98c76ee6eb55f813ba8b0d18bef4d8ec454ba30f4ebcf785ab120491792e70970a034cebd0fc011d57a58fe0ab5608",
+					"hash": "6f6048b6c9233b0b8545de0d78a4c0e6d939f6c0d4a30310c5666f6f37eb59fd0f6fe481b2643437767d1f086f93fb797e32eda6b6e49997204b6e89d7f38721",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/2utRFuIF/notatoy-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/VB8MVgEF/notatoy-1.1.1.jar"
 				},
-				"filename": "notatoy-1.1.0.jar",
+				"filename": "notatoy-1.1.1.jar",
 				"name": "Not A Toy",
 				"side": "both"
 			}
 		},
-		"key": "f119eba6fdc3cc30723bff652c680692b1882582c57011bf28bfe8100da46584"
+		"key": "8f1f95def499dae97a1291939b12ca89c3a789723d6ea4058b2a78cf71d08e15"
 	},
 	"notenoughminecraft": {
 		"files": {
@@ -863,11 +873,11 @@
 			},
 			"mods/notenoughminecraft.pw.toml": {
 				"download": {
-					"hash": "d81cf0a3d56167722d2ed0c22ed1fee020788dfc4fc5cc3fc6813821b07377b8da9a84caf844c6ac2dcad5edcb080366e15eee3910116870cd8c4bcba0259943",
+					"hash": "b803086d0875fe53fb794c5f78774579b94f1a1d92784b6098f0244bea4dc4aaf5a93f993fb968a29d58f39887257773482eae1b746b4e8a84c25ab80e20f428",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/P6dyPgUw/not-enough-minecraft-1.2.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/FEa6aCCw/not-enough-minecraft-1.2.2%2B1.21.8.jar"
 				},
-				"filename": "not-enough-minecraft-1.2.0+1.21.8.jar",
+				"filename": "not-enough-minecraft-1.2.2+1.21.8.jar",
 				"name": "NotEnoughMinecraft",
 				"side": "both"
 			},
@@ -882,7 +892,7 @@
 				"side": "server"
 			}
 		},
-		"key": "f0a5872c263be9019b35cf0bbe0698fef8f8d0c43176b62a13622f26740d5c11"
+		"key": "bf87b54ff5632ae516105c2d58c1685bd6f4f9c27074d2c0cb3e54b65eee06a5"
 	},
 	"occipital-metonymy": {
 		"files": {
@@ -898,16 +908,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "fd0b8630e8248dc93e3a7d77822acd408810456cfdc458efcc56f864b6b322a3ee8ad2ec0049d1aba8dea5f62d0b23df59703e74644c222cc5e8a4bfefc45f34",
+					"hash": "ccbda7b1193693412bdc4e98cd669b648b6cdb55737ce2486550f3056d416ec588bd5bc8caff2b1ba51a4afde57f235445107a681f87f5668a994735ec8f3acd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/4DOYIfx1/occmy-F.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/7PDeTBt7/occmy-G.jar"
 				},
-				"filename": "occmy-F.jar",
+				"filename": "occmy-G.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "7dbf28d1e63d7db08228f71a0ccd594bc0f7f93125517c9e0e195e0895e40c82"
+		"key": "25a0dda41297c969cbedaffeaa88441f6771ad297f331a0c9d8cd944565c010c"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -963,16 +973,16 @@
 		"files": {
 			"mods/potato-head.pw.toml": {
 				"download": {
-					"hash": "e4f88dd20dff5ac5c97c1b34ec785224e7ed88d885bb1cd0df1cb1a29407c317be4f88ff93594489cd8ec7f34525bfb914ee33b11a0ee677daecd1c029eeb4cc",
+					"hash": "17adf02a09fb0c94a421118055684799f66f80905ce0485125a0a36fb461e01ddcae51a1a374ac90888245ea16edcc95374cd0af804a6d1a9ab3e74ebe5c010a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J3SheaLo/versions/AcTctjgk/potatohead-0.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/J3SheaLo/versions/goMj3iWc/potatohead-0.0.3.jar"
 				},
-				"filename": "potatohead-0.0.2.jar",
+				"filename": "potatohead-0.0.3.jar",
 				"name": "Mr. Potato Head",
 				"side": "both"
 			}
 		},
-		"key": "9abafafdbaa2656e262645186e1b48a4c04f260f175d384ddf8c6aa834130d2e"
+		"key": "5bb5b0567dc0e5559ef28eca945c1943981737f3d8c9d0d471937cad2743540a"
 	},
 	"power-towel": {
 		"files": {
@@ -1018,16 +1028,16 @@
 		"files": {
 			"mods/showtime.pw.toml": {
 				"download": {
-					"hash": "fd62f3203eaa9b50d2d9d7946c38cdc0890e57c283b910b5c19f353215948f2520d3d5e3cd44cfef6beff5bb9f3f2ba8671b7fb7376299014804072e186d0a18",
+					"hash": "9694329a101d85b4e8e74cf1470f8eb32c4fbc13bdbd3930e634a5f03d5147dfbe673b005446ea5d84acf371c12483a5d634d0cd3908bb3fa21d1597a821f5a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/t5rdXZkZ/versions/K6l60Ul0/showtime-1.0.0-ModFest.jar"
+					"url": "https://cdn.modrinth.com/data/t5rdXZkZ/versions/RjoGpLVX/showtime-1.0.2-ModFest.jar"
 				},
-				"filename": "showtime-1.0.0-ModFest.jar",
+				"filename": "showtime-1.0.2-ModFest.jar",
 				"name": "Showtime",
 				"side": "both"
 			}
 		},
-		"key": "1aa25b2b92b178ec325681ca2ca4f6f6bea8ed81527c5dac5345244942d1abd5"
+		"key": "9057365e49efce867eb8e31c877d79b8583097cf05f949dcd7f37db74491438a"
 	},
 	"simply-slingshot": {
 		"files": {
@@ -1043,16 +1053,16 @@
 			},
 			"mods/simply-slingshot.pw.toml": {
 				"download": {
-					"hash": "8105260aff13824a684ca12ae4f8c1300a93af44912ee31f521125d5977bab709e25a8d71375fc56ab3cc729e7352a9ecc2e689f712ee5e0c0af4b8ee4d92c19",
+					"hash": "76784e50f850c40f62faf5b77495923802b49f7050b533bd860a24fafe225a5481c3da72ec749b2e523aff06523c520a78e4a26234ba3ea2c62e4c6f6c179613",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/VX15xtUz/simply-slingshot-0.1.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/KdG4aAEL/simply-slingshot-0.1.1%2B1.21.8.jar"
 				},
-				"filename": "simply-slingshot-0.1.0+1.21.8.jar",
+				"filename": "simply-slingshot-0.1.1+1.21.8.jar",
 				"name": "Simply Slingshot",
 				"side": "server"
 			}
 		},
-		"key": "23343906f7e2561efd7772ae1df2c2f334598b123c2a591de14bc0747daf8c09"
+		"key": "30a23eff5ad6fe6cf9fd3825b940e88a63246363b0dfd7f061b71f1cdb82ff5b"
 	},
 	"slotcars": {
 		"files": {
@@ -1118,6 +1128,31 @@
 			}
 		},
 		"key": "fd49f29ddf236ae9cdec5f7cc1fcc65d9846df8e68813642f50bd2a9b953cebd"
+	},
+	"stickerbomb": {
+		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+				},
+				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
+			"mods/stickerbomb.pw.toml": {
+				"download": {
+					"hash": "f9ec8e03a6f111165e4e45b75145a7de0268ae955e7ca733d1d69471a3723b2a77017d15f68589c451036a14d8443cc19d39b80a70689a426e06fd4499aa51f4",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/7BqZ5FbI/versions/EPeoNJco/stickerbomb-0.1.0%2Bfabric-1.21.8.jar"
+				},
+				"filename": "stickerbomb-0.1.0+fabric-1.21.8.jar",
+				"name": "StickerBomb!",
+				"side": "both"
+			}
+		},
+		"key": "a3adfd112e1cb1b8abec3c1900567d1f19708059ec4f1e74fdb66d0b1aa01769"
 	},
 	"surpuncher": {
 		"files": {
@@ -1318,11 +1353,11 @@
 			},
 			"mods/volo-volare.pw.toml": {
 				"download": {
-					"hash": "da3537e328c19ac52c68ae7ae3596a63fdd6c1af464c5b3d2f1bc885ce599c9ecffc3753b707ec1d90e1b3bb0952997f4a1273000aff6f3c5786b2868347f1cc",
+					"hash": "1ff270be307caddb8ef6f5773ee3977a1c46d4272d63c6a9bf97880a4a9c06b375487070d9ece642631203c790bb2b83c8ed25223d4febfe966d74bf344f1ae8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/7mWAOPDC/volo-volare-0.1.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/FCIJbreL/volo-volare-0.1.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "volo-volare-0.1.0+fabric-1.21.8.jar",
+				"filename": "volo-volare-0.1.1+fabric-1.21.8.jar",
 				"name": "Volo Volare",
 				"side": "both"
 			},
@@ -1337,7 +1372,7 @@
 				"side": "both"
 			}
 		},
-		"key": "7aba779144250cd58731b3b0acc0b819ca2d5ebb8b1db7bc7f65309c4ee0d546"
+		"key": "33343ecab74581d964aa3227b19ab37d5d6b869a8a5bb4dd76aa1914e2b0604c"
 	},
 	"wabbajack-staff": {
 		"files": {
@@ -1378,6 +1413,21 @@
 			}
 		},
 		"key": "28d29d76f6c8c86c3f4fe47e404293fa7154fce37c75aca1f6e9b9e2aa3c3333"
+	},
+	"yamaxanadu": {
+		"files": {
+			"mods/yamaxanadu.pw.toml": {
+				"download": {
+					"hash": "0d9fe007a55ee05a5eeb2c6fc6677f0ee86393254de70a1fb134e2c5187e3ad0992b3eb6d5c7313fc371650184123147c220aa021642a8e7fdabfa7518c7cf21",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/wBd5ep0D/yamaxanadu-0.3.1.jar"
+				},
+				"filename": "yamaxanadu-0.3.1.jar",
+				"name": "yamaxanadu",
+				"side": "both"
+			}
+		},
+		"key": "b21a8c5824a4e8f1467e25e4635ad6d460f701f9d196589895a9b7d2dee403fc"
 	},
 	"zip-to-it": {
 		"files": {
