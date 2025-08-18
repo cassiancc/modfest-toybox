@@ -374,6 +374,21 @@
 		},
 		"key": "c541f73a37edefee5291b84a31a6feed49392a15283ca6642b4b22f64c79c496"
 	},
+	"flying-frisbees": {
+		"files": {
+			"mods/geckolib.pw.toml": {
+				"download": {
+					"hash": "d0a94ad32bdee4a2147462085908dde67f9286b4c66981238391f4106a534e0fefb44bdf0fc502499f3107c6ed745054c4eb4b595ccf91e7da215b58adfb6e95",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/k4Azk0wN/geckolib-fabric-1.21.8-5.2.2.jar"
+				},
+				"filename": "geckolib-fabric-1.21.8-5.2.2.jar",
+				"name": "Geckolib",
+				"side": "both"
+			}
+		},
+		"key": "b7ccc4f4bed6d00d4f244a1cf4f2831efba85ebbdab3f939c49867f3cb5d27bd"
+	},
 	"googun": {
 		"files": {
 			"mods/googun.pw.toml": {
