@@ -15,6 +15,9 @@ paintbrush-mod
 # crash when opening creative inventory from getOrThrow at WindupMusicBoxMod#68
 windup-music-box
 
+# not your fault - broken by a dependency of chat bridge (specter)
+newinbox
+
 # needs sandboxing
 dronebox
 
