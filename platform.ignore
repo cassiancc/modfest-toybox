@@ -20,3 +20,6 @@ dronebox
 
 # causes cardinal components to load client class on server
 stickerbomb
+
+# placed rune crashes clients
+mica-runes
