@@ -204,6 +204,10 @@ file = "mods/item-descriptions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/krysztal-language-scala.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 

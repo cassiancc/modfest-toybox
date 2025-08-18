@@ -2,3 +2,21 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
+# loading client classes on server
+dronebox# DroneControllerItem
+action-mobs# ActionMobBlock
+
+# mixin transformation failed
+volo-volare# @Shadow field client was not located in the target class net.minecraft.class_329
+
+# polymer sync causes custom_payload kick on join
+paintbrush-mod
+
+# crash when opening creative inventory from getOrThrow at WindupMusicBoxMod#68
+windup-music-box
+
+# needs sandboxing
+dronebox
+
+# extra classes config has illegal char, but should just drop this and add classes normally
+mica-runes
