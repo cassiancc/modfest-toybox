@@ -17,3 +17,6 @@ newinbox
 
 # needs sandboxing
 dronebox
+
+# causes cardinal components to load client class on server
+stickerbomb
