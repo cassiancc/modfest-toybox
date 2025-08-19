@@ -344,6 +344,21 @@
 		},
 		"key": "169aaa5f2d962d7f7b36e02d2fa5a64aca8975da488fc837d8ee1bf9e660a6f3"
 	},
+	"evl-toys": {
+		"files": {
+			"mods/evl-toys.pw.toml": {
+				"download": {
+					"hash": "810f783bc136d4d21ce720f7f2c8210be54f599f7b56b967b85cb036e0ddf6d036408a681e06a5483555390627f9fa63c04f33ff44d28add7e34325bb70b0cb9",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/6tH37PX2/versions/PtxeXVyC/mr_scoot-1.0.0-1.21.8-pa2.jar"
+				},
+				"filename": "mr_scoot-1.0.0-1.21.8-pa2.jar",
+				"name": "EVL Toys",
+				"side": "both"
+			}
+		},
+		"key": "5acd54ecc0d3403212ada59371b315f01ae72cffc7cdca9d96a36e79324befbc"
+	},
 	"eye_of_dreams": {
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
@@ -538,16 +553,16 @@
 			},
 			"mods/hero-statue.pw.toml": {
 				"download": {
-					"hash": "aa04a8e9f33550add594b0a66ffa94188730c1dfda8160869b365853137845af20560a8c6dc2a3bb58c2a3ee14ed04e5255f88bff3f5110960b11490ddb28c8f",
+					"hash": "2d78171f565aab88948e1f1222f9458207cf2f3521307edb8d91eb46945b7f5b461dc95a7606a7561700093ebf3aa51504c99383c07e9a6f1465f8aeef01f04d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/5lLCZgSk/hero-statue-1.0.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/gwNLze0g/hero-statue-1.0.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "hero-statue-1.0.1+fabric-1.21.8.jar",
+				"filename": "hero-statue-1.0.2+fabric-1.21.8.jar",
 				"name": "Hero Statue",
 				"side": "both"
 			}
 		},
-		"key": "e206495822bbfa199003e261372e2ed1b5c6a3d92f53009261ff002d11ad25f3"
+		"key": "79fceedf07b62db41ad916f60002669fa6c74b512f5e27e30f0e42d33750a91b"
 	},
 	"hyper-silt": {
 		"files": {
@@ -603,16 +618,16 @@
 		"files": {
 			"mods/kaleidoscopes.pw.toml": {
 				"download": {
-					"hash": "d1f934594e4dc58ae5b079e464621cac1b06cdc8e9918916248243efc6b4d49d2d5e78b6cacf8363c80abf04718ac4f3d9290ae9e23ad8516df74ca8f4f91cd2",
+					"hash": "f204a2540d84992da34bcc27992dcabd552d301fec1699601127fbc8b30f8eb32ce922f3e3ccae7ced1ab256df5cd1fdd8d1b0a2e983912dd38aea44741fcf08",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/SmbOjVpX/versions/SQsLxXs7/kaleidoscopes-0.2.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/SmbOjVpX/versions/FGgKqKyc/kaleidoscopes-0.2.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "kaleidoscopes-0.2.0+fabric-1.21.8.jar",
+				"filename": "kaleidoscopes-0.2.1+fabric-1.21.8.jar",
 				"name": "Kaleidoscopes",
 				"side": "both"
 			}
 		},
-		"key": "c2fe669b55e33d5abba63d23f2e045ff7661efea06940553f4a797c7264597a5"
+		"key": "e081e51efb1e1f4f67ffe05558295bfbc6f4e0aa7e37f5a1c876d7d31ff3068d"
 	},
 	"laseredstone": {
 		"files": {
@@ -741,28 +756,18 @@
 				"name": "Cardinal Components API",
 				"side": "server"
 			},
-			"mods/krysztal-language-scala.pw.toml": {
-				"download": {
-					"hash": "67353b7e36681468ff015b105df3870cb222f2b5d0207f18f018483d5ccb1b144e287a5ea9916d356891a18f81aa238d6b43bb64d4ef5bcca6b74c9e8f6e91bc",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Ptd0Ha1s/versions/wA3wa80W/krysztal-language-scala-3.3.0%2Bscala.3.3.0.jar"
-				},
-				"filename": "krysztal-language-scala-3.3.0+scala.3.3.0.jar",
-				"name": "Krysztal's Language Scala",
-				"side": "both"
-			},
 			"mods/mica-runes.pw.toml": {
 				"download": {
-					"hash": "a2bbe3e3e7fa6717fe8db40eec56fed4071feac610a034164bd3d50f3d8aabd138a689639a6879884b153661bd79811a95337255a7ec040297b82467b010c04c",
+					"hash": "d2403f3dea0e08a36651d3b1f1df37e378cd7ff3f074d66421cc98016fd57d2bd88aaf60125997ddb070f2db7975fa37f4d6c978f47539a005ad6fe0a8cd0bfb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/XQBZG8Kk/mica-0.0.5.jar"
+					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/OkXqCpIa/mica-0.0.7.jar"
 				},
-				"filename": "mica-0.0.5.jar",
+				"filename": "mica-0.0.7.jar",
 				"name": "Mica",
 				"side": "both"
 			}
 		},
-		"key": "c71aa59426390b5bcc70cd8c3af9fa430641ad5bd3a170728f4e25949f6d407a"
+		"key": "8435134a936830fb43ebd4e81570ff1785927e01f2104f44f5687c91b4bb0293"
 	},
 	"mob-mystery-dollhouse": {
 		"files": {
@@ -803,16 +808,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "a306c3c7855a6eb817de6d2edd9699b8349182cf86590bd9fb6274aa6495aa0b360d478e8df0f45c688f43b89dba85c6af6e1795f54d16d54d8acbc252f8480f",
+					"hash": "991d3e9f6bbf652ca53c2be29e9b28b0916d96ff471ff456e3becae22d860ff0da9ea4b46de6941a3564554929e54af3ba0604a06ea2df2b8827862ca6446286",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/AKrt14Ob/more_than_a_foxbox-1.0.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/236QxKLt/more_than_a_foxbox-1.0.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.0+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.1+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "3ef981acdb7d43b87efda020384f44f933f5b3d08339899d59824e933fe3d0d7"
+		"key": "b3869124732831512334f510e6b37e21fac5d78c037c4798f16b4517e4ff2f5f"
 	},
 	"newinbox": {
 		"files": {
@@ -1028,16 +1033,16 @@
 		"files": {
 			"mods/rc-toys.pw.toml": {
 				"download": {
-					"hash": "11883593c29b96988ab458f469501ad87a3cd4c9f1271955a6bf72b22c95a50f6b453cf0b6af67118efed684686918fe7efe7c4238b89ce2999142a8bf93d935",
+					"hash": "19a9ad4bf2f2b22ae1885a9d8b3869a62a4ad32628bfdf9ebea8fb11e7700de3ba7295d28465d0bbcfbed448e55d81e6be34d10ee75dcdcfc60cabfc262ef842",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9YKCmF3w/versions/AUssEEis/rc-toys-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/9YKCmF3w/versions/c2klJlf1/rc-toys-1.0.1.jar"
 				},
-				"filename": "rc-toys-1.0.0.jar",
+				"filename": "rc-toys-1.0.1.jar",
 				"name": "RC Toys",
 				"side": "both"
 			}
 		},
-		"key": "6776d1774e0f0073e350bc03cccf0cc9e3ae63718bc55597fdc95855df1d002f"
+		"key": "ea2301a82ee7f213cc31ac6150ac1ce7597c922ca318be6baaac4385550b1d7b"
 	},
 	"showtime": {
 		"files": {
@@ -1158,16 +1163,16 @@
 			},
 			"mods/stickerbomb.pw.toml": {
 				"download": {
-					"hash": "f9ec8e03a6f111165e4e45b75145a7de0268ae955e7ca733d1d69471a3723b2a77017d15f68589c451036a14d8443cc19d39b80a70689a426e06fd4499aa51f4",
+					"hash": "6787125371c3053046fde7207dde7047a148e09d0e1146e19ee90812aa2f8e28b0bb87aaa0728f6572674dfdc0e5a6a623f98eac1baa0582e59557be2df4f0a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7BqZ5FbI/versions/EPeoNJco/stickerbomb-0.1.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/7BqZ5FbI/versions/3csfopDI/stickerbomb-0.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "stickerbomb-0.1.0+fabric-1.21.8.jar",
+				"filename": "stickerbomb-0.1.2+fabric-1.21.8.jar",
 				"name": "StickerBomb!",
 				"side": "both"
 			}
 		},
-		"key": "a3adfd112e1cb1b8abec3c1900567d1f19708059ec4f1e74fdb66d0b1aa01769"
+		"key": "3504a32a25b409692d9815d462949275e19aaca1753dfbabf0e33ce59daaf0af"
 	},
 	"surpuncher": {
 		"files": {
@@ -1368,11 +1373,11 @@
 			},
 			"mods/volo-volare.pw.toml": {
 				"download": {
-					"hash": "1ff270be307caddb8ef6f5773ee3977a1c46d4272d63c6a9bf97880a4a9c06b375487070d9ece642631203c790bb2b83c8ed25223d4febfe966d74bf344f1ae8",
+					"hash": "e919210f33f5a86eb3f30ef21295eb3408583c94a1fb250234f0902b50bf10a5a1bff76c6d007d9a21c301e6f94c054fc8941e7a651d46cb611e98337036aa2b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/FCIJbreL/volo-volare-0.1.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/p73cUAoo/volo-volare-0.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "volo-volare-0.1.1+fabric-1.21.8.jar",
+				"filename": "volo-volare-0.1.2+fabric-1.21.8.jar",
 				"name": "Volo Volare",
 				"side": "both"
 			},
@@ -1387,7 +1392,7 @@
 				"side": "both"
 			}
 		},
-		"key": "33343ecab74581d964aa3227b19ab37d5d6b869a8a5bb4dd76aa1914e2b0604c"
+		"key": "c84e65343e870dce98c0b51a00a70229b591f6206e93f497bd85c45844b3273d"
 	},
 	"wabbajack-staff": {
 		"files": {
