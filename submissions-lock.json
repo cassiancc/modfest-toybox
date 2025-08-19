@@ -298,11 +298,11 @@
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
-					"hash": "666e72ee8d0db05100b1a7e6da7bfa0d5d1cdfc110fdff2d773936d937d2cb014c57414ec4a9d785dbb585e3e5b6a0fd335a6394e262598ca5c2658c937a42ae",
+					"hash": "72b51cc7ce4b4354b50c0fed6ce1819bdecd635f57d691c66d8e9fe8969ab03f5bbf5a7a292eb179e2801b6554dae3efa072fa86cba28c70c43a875853224e12",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/oGmDwpC0/dominoes-0.5.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/wZNofNpj/dominoes-0.6.0%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dominoes-0.5.0+fabric-1.21.8.jar",
+				"filename": "dominoes-0.6.0+fabric-1.21.8.jar",
 				"name": "Dominoes",
 				"side": "both"
 			},
@@ -317,7 +317,7 @@
 				"side": "both"
 			}
 		},
-		"key": "d4cb36a630d70703069a929181cc6b44ad0f0ea2e770e386fe350f9bfd6b3b48"
+		"key": "66923d3ee165d725eec05b814c6a99deac7e5bc66961bb147ab4f34ae3f21acb"
 	},
 	"dronebox": {
 		"files": {
@@ -633,16 +633,16 @@
 		"files": {
 			"mods/laseredstone.pw.toml": {
 				"download": {
-					"hash": "ddd14113ef74a663a77728499ce0b2c62c9a193f93fe92a5ac079b33d6054184771f24d1908ae225c5051dc8e3d7aba0fd530080d86e600a2ff0a14e4020928c",
+					"hash": "b6a47859826c4c341554c07dc92d39b83ff4c2ebeadbe8496d74cc9b0066d05848948902fe5cb681e8989c540e7cf891609684fc4f7670f000b569b2637388a9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/ZfUYPRXa/laseredstone-1.0.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/2QSKX1VZ/laseredstone-1.0.2%2B1.21.8.jar"
 				},
-				"filename": "laseredstone-1.0.0+1.21.8.jar",
+				"filename": "laseredstone-1.0.2+1.21.8.jar",
 				"name": "Laseredstone",
 				"side": "both"
 			}
 		},
-		"key": "2a90035d3190192bb38f6c22c69108630591a71de4e729bfbc9952947a7b16c4"
+		"key": "b57af3f83722ccd53a0235e46024361e3e906b5df9ac9a8e2c79748637c709d5"
 	},
 	"lifelike": {
 		"files": {
@@ -1098,16 +1098,16 @@
 			},
 			"mods/slotcars.pw.toml": {
 				"download": {
-					"hash": "d7e4cd23bd90fe6afee704366b47344f3614964a880dcc27075057b46221eec8a940a5892c307c7cb09c8440440be1bfce17d7004e1144ccea634d49792212af",
+					"hash": "7bbba859afbf085f997a01e52994f77bfc6bfd630b4cd66c3f0da95fad4920c9b5daa0e9cc997a70e742999896206d10c7bd965e06090fb9f448d55d81b51ea7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aT6FRtq1/versions/pWd2JAmd/SlotCars-0.3.jar"
+					"url": "https://cdn.modrinth.com/data/aT6FRtq1/versions/l7VvbLCh/SlotCars-0.3.1.jar"
 				},
-				"filename": "SlotCars-0.3.jar",
+				"filename": "SlotCars-0.3.1.jar",
 				"name": "Slot Cars",
 				"side": "both"
 			}
 		},
-		"key": "3d3d297f52efa4691ca651a0073e73c618e7b49c978f0551cc47dacce370c0c4"
+		"key": "8707ff14b0403605a14e239961e2d7130e95e91ebb0132235a0128ad2f9f6ca5"
 	},
 	"spacey-figurines": {
 		"files": {
