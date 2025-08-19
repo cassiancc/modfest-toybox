@@ -222,7 +222,6 @@ metafile = true
 
 [[files]]
 file = "mods/meret.pw.toml"
-hash = "81e61c2ffcd2d75ae39ac7a08299b8a7b5c0e9cb58e315d9eb96d9827fd58d37"
 metafile = true
 
 [[files]]
