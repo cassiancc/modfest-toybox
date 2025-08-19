@@ -373,16 +373,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "1995bc2b93215f33de778d282473516acc6d784df2700d1b6a6616ea399f4ec197fd03d00c27a4bd3b904ba7678fa0fb504b92169a07209fed8f808239b1f45e",
+					"hash": "8efc3023110036d90213f5ac102051224ef612fca4a475c4562df7e3b556d62e2b54f5401c80e65e0fa723b9066d8cbd15000d6cc4d2f5108c682fae10c9ab71",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/3AL71Isc/eye_of_dreams-1.0.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/eHNoGhgM/eye_of_dreams-1.0.2%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.0+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.2+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "2bcb90e3cc4c0879f2e607fdd8803afe1d6aa5f1ab1f2f8b709a58474d32dad4"
+		"key": "4e1d0fb4f1b55b57bf018142bdffd17f6aa440e3523ea92c989d7b2ecefb0344"
 	},
 	"five-guys-burgers-and-fries": {
 		"files": {
@@ -1198,16 +1198,16 @@
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
-					"hash": "1da7b7103fd747e8aa3d522fc35d06153d906e7846eb9a5ea74f160803b2a5a94b98d69aeec3cc2775503811b35e410c4a4a2a8f44953fb6f4305cf12ec4a28f",
+					"hash": "d0571775f1d02de155906ebb7a6692732b3382f8390a33e46e0d2a6bbb68aae234fba1dac23e8e8ca6d3bdc5d3659d43490c4c44ca8283f8b690b64955cc7abb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/Zf7zHWHM/surpuncher-1.0.1%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/w8OXA38X/surpuncher-1.0.3.10%2B1.21.8.jar"
 				},
-				"filename": "surpuncher-1.0.1+1.21.8.jar",
+				"filename": "surpuncher-1.0.3.10+1.21.8.jar",
 				"name": "Surpuncher",
 				"side": "both"
 			}
 		},
-		"key": "e0b7779acdd4ecbe463278882aac78a70a974bb22cfedccefde81c2a58a79d22"
+		"key": "3cc569a9bf0b973c5af183ef4532b1a263bae44194e473fb7dff8c08340add79"
 	},
 	"sword-of-legend": {
 		"files": {
