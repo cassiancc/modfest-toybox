@@ -48,11 +48,11 @@
 		"files": {
 			"mods/blowing-bubbles.pw.toml": {
 				"download": {
-					"hash": "bbb2d6cf3941253c078739342410f492df9d2aead2a2ffdf27363017f59295978cc906cd04bccc2a68817da400d32ed57d9aa0e80f7297c293127cb4cab93092",
+					"hash": "db64af63fe66f0e0de90cfed599d765e0305f2ec130832d2832d30edd96e933a90ff3220d1df0a25360ca22a6b20837a3258a7e2fc1668351bf6f0dca4005df5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Bezt1FXL/versions/YzJeNpZR/blowing-bubbles-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/Bezt1FXL/versions/POL08oaD/blowing-bubbles-1.0.1.jar"
 				},
-				"filename": "blowing-bubbles-1.0.0.jar",
+				"filename": "blowing-bubbles-1.0.1.jar",
 				"name": "Blowing Bubbles",
 				"side": "both"
 			},
@@ -66,6 +66,16 @@
 				"name": "Fabric API",
 				"side": "both"
 			},
+			"mods/fusion-connected-textures.pw.toml": {
+				"download": {
+					"hash": "791e2264bace6f803e7a059690c9a9864821d3d4e8ac4d4ef54d64695ab4e17e3c73c3ea320f734cb54012620d232f72e82c7441d8546718a0d4f668953a21bf",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/p19vrgc2/versions/CI9KFmBP/fusion-1.2.10-fabric-mc1.21.6.jar"
+				},
+				"filename": "fusion-1.2.10-fabric-mc1.21.6.jar",
+				"name": "Fusion (Connected Textures)",
+				"side": "client"
+			},
 			"mods/midnightlib.pw.toml": {
 				"download": {
 					"hash": "a8868f445fa690be38251b9b10a4361a90117dd8bbc08ea17ffc174c2463c543204ccd6c0e357228b1c1c3b39f8abeefbb79ded5e73b1d82a4ede2bad4f5a4e1",
@@ -77,7 +87,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5b8960617996e22562fda3c971e460d487b300c76f53040ec78ea187f705fafe"
+		"key": "fa9ab5c1423178186215ccfca72a6b6cfebb8bce163dc63fce6ed38994ca4b54"
 	},
 	"boing!": {
 		"files": {
@@ -298,11 +308,11 @@
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
-					"hash": "72b51cc7ce4b4354b50c0fed6ce1819bdecd635f57d691c66d8e9fe8969ab03f5bbf5a7a292eb179e2801b6554dae3efa072fa86cba28c70c43a875853224e12",
+					"hash": "ffab755b47d54097668b4a1bdb3a52e65c1104945c2ed386617a6d01eb62141ec43b9a3e745a4c1756caa98a1f26edc6c31ac1a57f923035bb8c20070d12dc66",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/wZNofNpj/dominoes-0.6.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/I5Osy6nI/dominoes-0.6.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dominoes-0.6.0+fabric-1.21.8.jar",
+				"filename": "dominoes-0.6.1+fabric-1.21.8.jar",
 				"name": "Dominoes",
 				"side": "both"
 			},
@@ -317,7 +327,7 @@
 				"side": "both"
 			}
 		},
-		"key": "66923d3ee165d725eec05b814c6a99deac7e5bc66961bb147ab4f34ae3f21acb"
+		"key": "856eef01e93f3ed9997b47933a685f84a5a65e99597aac4e15c54b497b2f59b2"
 	},
 	"dronebox": {
 		"files": {
@@ -1348,16 +1358,16 @@
 			},
 			"mods/toy-water-gun.pw.toml": {
 				"download": {
-					"hash": "112d20c00ea01bed760c19874f8e1f4783ce107db18548af73e3979071ed1960e4ac11ab5d9f8845c254eaec068484da3840892219bc9417f85c039671d76a0d",
+					"hash": "3cc2f0e3a94e43cbfe60e0dc847abc50fc8d6fc3ac2e66e8c4cb70f7cca63739d6c2c91834ce38ff59869a9a56c3a818322a5d8b0e0631b7f1863117c9b54a1c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LMa5KG8r/versions/ggdAJQm6/toywatergun-1.0.0-modfest.jar"
+					"url": "https://cdn.modrinth.com/data/LMa5KG8r/versions/iwHcdZPj/toywatergun-1.0.0-hotfix-1-modfest.jar"
 				},
-				"filename": "toywatergun-1.0.0-modfest.jar",
+				"filename": "toywatergun-1.0.0-hotfix-1-modfest.jar",
 				"name": "Toy Water Gun",
 				"side": "both"
 			}
 		},
-		"key": "9859bc6bbc0deb4e21c93d0290a63e96df9433fbfd523dbfd4011be94ac604e1"
+		"key": "0f19b166002d64994a495f3fc72841a9cfc497aacd5673c7f06800fc3f3a069d"
 	},
 	"volo-volare": {
 		"files": {
@@ -1373,11 +1383,11 @@
 			},
 			"mods/volo-volare.pw.toml": {
 				"download": {
-					"hash": "e919210f33f5a86eb3f30ef21295eb3408583c94a1fb250234f0902b50bf10a5a1bff76c6d007d9a21c301e6f94c054fc8941e7a651d46cb611e98337036aa2b",
+					"hash": "d451272fdf9778d6a027ae52b25a54e2a0a149b9ad09b4eb6d04ceb010567f1d0a556271c0b01f888dd3ee259e51de27b655501532ebda00c4b209e0535117bc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/p73cUAoo/volo-volare-0.1.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/NaXetVdJ/volo-volare-0.1.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "volo-volare-0.1.2+fabric-1.21.8.jar",
+				"filename": "volo-volare-0.1.3+fabric-1.21.8.jar",
 				"name": "Volo Volare",
 				"side": "both"
 			},
@@ -1392,7 +1402,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c84e65343e870dce98c0b51a00a70229b591f6206e93f497bd85c45844b3273d"
+		"key": "a64e021f125bc14c00c34b983cd40210968c1c11e6f9c3e0c23f6c7208ec406b"
 	},
 	"wabbajack-staff": {
 		"files": {
@@ -1438,16 +1448,16 @@
 		"files": {
 			"mods/yamaxanadu.pw.toml": {
 				"download": {
-					"hash": "0d9fe007a55ee05a5eeb2c6fc6677f0ee86393254de70a1fb134e2c5187e3ad0992b3eb6d5c7313fc371650184123147c220aa021642a8e7fdabfa7518c7cf21",
+					"hash": "d3682404e282e71cdd8b635f46581eb7e3d84c8ceacdbcef3335566d8137b0616256362760df72c7f91d9b01cc48a533eca49330a99c0f3218851ac2af9b7a7d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/wBd5ep0D/yamaxanadu-0.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/a37ZMaVV/yamaxanadu-0.3.2.jar"
 				},
-				"filename": "yamaxanadu-0.3.1.jar",
+				"filename": "yamaxanadu-0.3.2.jar",
 				"name": "yamaxanadu",
 				"side": "both"
 			}
 		},
-		"key": "b21a8c5824a4e8f1467e25e4635ad6d460f701f9d196589895a9b7d2dee403fc"
+		"key": "14be062be662f3e2684fcd22fa160d94d249567790331abc5f92d36781f587d8"
 	},
 	"zip-to-it": {
 		"files": {

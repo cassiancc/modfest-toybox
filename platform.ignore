@@ -18,8 +18,8 @@ newinbox
 # needs sandboxing
 dronebox
 
-# causes cardinal components to load client class on server
-#stickerbomb
-
 # placed rune crashes clients
-mica-runes
+#mica-runes
+
+# please add dependency for fusion-connected-textures on your modrinth version
+blowing-bubbles
