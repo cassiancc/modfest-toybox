@@ -10,7 +10,7 @@ action-mobs# ActionMobBlock
 paintbrush-mod
 
 # crash when opening creative inventory from getOrThrow at WindupMusicBoxMod#68
-windup-music-box
+#windup-music-box
 
 # not your fault - broken by a dependency of chat bridge (specter)
 newinbox
@@ -19,7 +19,8 @@ newinbox
 dronebox
 
 # placed rune crashes clients
-#mica-runes
+# intentional crash meme
+mica-runes
 
 # please add dependency for fusion-connected-textures on your modrinth version
-blowing-bubbles
+#blowing-bubbles

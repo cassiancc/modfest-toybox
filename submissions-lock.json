@@ -48,11 +48,11 @@
 		"files": {
 			"mods/blowing-bubbles.pw.toml": {
 				"download": {
-					"hash": "db64af63fe66f0e0de90cfed599d765e0305f2ec130832d2832d30edd96e933a90ff3220d1df0a25360ca22a6b20837a3258a7e2fc1668351bf6f0dca4005df5",
+					"hash": "6668fcf845c2b3a9e2ce71e6ebc550ec89df0b1650c02b45714572e2d3910886d6fe3078df0d671999922f9d23071f89760e3279c3ae583561f8c6c1b0ea6cea",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Bezt1FXL/versions/POL08oaD/blowing-bubbles-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/Bezt1FXL/versions/5OT9Sc1u/blowing-bubbles-1.0.2.jar"
 				},
-				"filename": "blowing-bubbles-1.0.1.jar",
+				"filename": "blowing-bubbles-1.0.2.jar",
 				"name": "Blowing Bubbles",
 				"side": "both"
 			},
@@ -87,7 +87,7 @@
 				"side": "both"
 			}
 		},
-		"key": "fa9ab5c1423178186215ccfca72a6b6cfebb8bce163dc63fce6ed38994ca4b54"
+		"key": "f0e7dae7a9f9fa0732dbba026e5abc99a7c93f031ba37a25ead02e3ec51fa405"
 	},
 	"boing!": {
 		"files": {
@@ -513,16 +513,16 @@
 			},
 			"mods/gunner.pw.toml": {
 				"download": {
-					"hash": "e4294fc26ca2a1734fc3e181b987ea50e07483543c3db5a5a0fc31c5d425bab2b7b653d022e46a837c42e80384c9dd6b37da71e152aa97c95ba29670a3f8dafc",
+					"hash": "ecbe3c50e12ea667543d23dc8d41884bf77cc272bac93418e0f8c25c58169b0a6127e20f3f3fc7bae010461ee5973184667212ebc7678433d387b3b30e7cf790",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jEJSQV81/versions/U1dvHgBr/gunner-0.1.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jEJSQV81/versions/HBbPAtTR/gunner-0.1.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "gunner-0.1.2+fabric-1.21.8.jar",
+				"filename": "gunner-0.1.3+fabric-1.21.8.jar",
 				"name": "Confetti Gunner",
 				"side": "both"
 			}
 		},
-		"key": "6d12b72745fea1f4b36af4845b7a41b87903d874693a99e46a1330daef524e73"
+		"key": "50169a8e3bcdb3e36fa2e4df1690c20b372fbef26ce5f2c18624226d1aec60ce"
 	},
 	"hattened": {
 		"files": {
@@ -576,18 +576,28 @@
 	},
 	"hyper-silt": {
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+				},
+				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/hyper-silt.pw.toml": {
 				"download": {
-					"hash": "b3a8d1088f02ad56dd0d1615f9b5a10d3928f94aff7d6031a02a94df0908590775ff7697e6efdc199a45b75624620e56c2a7ba64d90402dd430572a90e9b2b47",
+					"hash": "d3a5fa1696d3e03465f03530c01eb51e478acbfc6481e8dca36cb7a1f50704261674edae2e6bfdb8abf8ed8f75064774cb7e44cd725f5c10136971f284e9ac47",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/894ENCfi/versions/UD9uHqBI/hyper_silt-R.jar"
+					"url": "https://cdn.modrinth.com/data/894ENCfi/versions/VPE1Z0p1/hyper_silt-S.jar"
 				},
-				"filename": "hyper_silt-R.jar",
+				"filename": "hyper_silt-S.jar",
 				"name": "Hyper Silt",
 				"side": "both"
 			}
 		},
-		"key": "7fd2847bacb42555b33dd4d9c89302deb29776c1b22f7785c551279611135601"
+		"key": "16ffd39b23b1eb8f594b2db9ed101645e64af83c9263cb19a9e02a81813f635a"
 	},
 	"jack-in-the-box": {
 		"files": {
@@ -756,28 +766,18 @@
 	},
 	"mica-runes": {
 		"files": {
-			"mods/cardinal-components-api.pw.toml": {
-				"download": {
-					"hash": "26d9fc8543249defac48cad073539668e3a116fe1ef77577f4a3b512d46e259b6b2ef4333ce0b4fce6f084dbb7e0384444c0de79b640bc6a7abc67187556a47f",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/TUd65hQI/cardinal-components-api-7.0.0-beta.1.jar"
-				},
-				"filename": "cardinal-components-api-7.0.0-beta.1.jar",
-				"name": "Cardinal Components API",
-				"side": "server"
-			},
 			"mods/mica-runes.pw.toml": {
 				"download": {
-					"hash": "d2403f3dea0e08a36651d3b1f1df37e378cd7ff3f074d66421cc98016fd57d2bd88aaf60125997ddb070f2db7975fa37f4d6c978f47539a005ad6fe0a8cd0bfb",
+					"hash": "e5c410d5b88f92f804af98adfc5e1135c1646040adadb8c8bb93e8bab4e192aa44d8c6c8efba6e78f630fba7bfe0812562e3e096f06097a8fbaf24c284727494",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/OkXqCpIa/mica-0.0.7.jar"
+					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/eC2hNlia/mica-0.0.8.jar"
 				},
-				"filename": "mica-0.0.7.jar",
+				"filename": "mica-0.0.8.jar",
 				"name": "Mica",
 				"side": "both"
 			}
 		},
-		"key": "8435134a936830fb43ebd4e81570ff1785927e01f2104f44f5687c91b4bb0293"
+		"key": "bd42b3a714a77a0aea118dda15533cbee1aed09fff0dfed4f2e5daf572e99e84"
 	},
 	"mob-mystery-dollhouse": {
 		"files": {
@@ -903,11 +903,11 @@
 			},
 			"mods/notenoughminecraft.pw.toml": {
 				"download": {
-					"hash": "b803086d0875fe53fb794c5f78774579b94f1a1d92784b6098f0244bea4dc4aaf5a93f993fb968a29d58f39887257773482eae1b746b4e8a84c25ab80e20f428",
+					"hash": "aebd60e68bae15c2a511e8c478d95545062d420c079d08af64a73e5fd722c6579388dea0e81647c34f64c2f276828549c86ff7d277fd5087f0ea2f60e868cae7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/FEa6aCCw/not-enough-minecraft-1.2.2%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/BCTtEZKH/not-enough-minecraft-1.2.3%2B1.21.8.jar"
 				},
-				"filename": "not-enough-minecraft-1.2.2+1.21.8.jar",
+				"filename": "not-enough-minecraft-1.2.3+1.21.8.jar",
 				"name": "NotEnoughMinecraft",
 				"side": "both"
 			},
@@ -922,7 +922,7 @@
 				"side": "server"
 			}
 		},
-		"key": "bf87b54ff5632ae516105c2d58c1685bd6f4f9c27074d2c0cb3e54b65eee06a5"
+		"key": "a1da3a79c2c9d2ae872bcd611d070f16bd353263a3d9b22f7905c4a6c9dadab1"
 	},
 	"occipital-metonymy": {
 		"files": {
@@ -1108,16 +1108,16 @@
 			},
 			"mods/slotcars.pw.toml": {
 				"download": {
-					"hash": "7bbba859afbf085f997a01e52994f77bfc6bfd630b4cd66c3f0da95fad4920c9b5daa0e9cc997a70e742999896206d10c7bd965e06090fb9f448d55d81b51ea7",
+					"hash": "cb9be87fba74fd309aa4ea1740939e82ae50818cb60c33553b637c6bb4421ee8a1371b77136bcf3eb975a97dca708f6100e3b7c10abf99db334c8ea0b5c4cf32",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aT6FRtq1/versions/l7VvbLCh/SlotCars-0.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/aT6FRtq1/versions/ahj1uTDM/SlotCars-0.3.2.jar"
 				},
-				"filename": "SlotCars-0.3.1.jar",
+				"filename": "SlotCars-0.3.2.jar",
 				"name": "Slot Cars",
 				"side": "both"
 			}
 		},
-		"key": "8707ff14b0403605a14e239961e2d7130e95e91ebb0132235a0128ad2f9f6ca5"
+		"key": "fa69b6dfae2d13254cf6bc66d301bdc4bd174425e505263f3503ff373dfd8178"
 	},
 	"spacey-figurines": {
 		"files": {
@@ -1161,6 +1161,16 @@
 	},
 	"stickerbomb": {
 		"files": {
+			"mods/cardinal-components-api.pw.toml": {
+				"download": {
+					"hash": "26d9fc8543249defac48cad073539668e3a116fe1ef77577f4a3b512d46e259b6b2ef4333ce0b4fce6f084dbb7e0384444c0de79b640bc6a7abc67187556a47f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/TUd65hQI/cardinal-components-api-7.0.0-beta.1.jar"
+				},
+				"filename": "cardinal-components-api-7.0.0-beta.1.jar",
+				"name": "Cardinal Components API",
+				"side": "server"
+			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
@@ -1173,16 +1183,16 @@
 			},
 			"mods/stickerbomb.pw.toml": {
 				"download": {
-					"hash": "6787125371c3053046fde7207dde7047a148e09d0e1146e19ee90812aa2f8e28b0bb87aaa0728f6572674dfdc0e5a6a623f98eac1baa0582e59557be2df4f0a9",
+					"hash": "ba6a8f88ddfca55eee5c8b9bd22830dccb438847646795c0d981de38ec336d985dce08ad4a4baef4025eeb5f1f96dbdb9468efdb73286276ab1f455d2717f8d6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/7BqZ5FbI/versions/3csfopDI/stickerbomb-0.1.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/7BqZ5FbI/versions/V5aE5CdB/stickerbomb-0.1.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "stickerbomb-0.1.2+fabric-1.21.8.jar",
+				"filename": "stickerbomb-0.1.3+fabric-1.21.8.jar",
 				"name": "StickerBomb!",
 				"side": "both"
 			}
 		},
-		"key": "3504a32a25b409692d9815d462949275e19aaca1753dfbabf0e33ce59daaf0af"
+		"key": "c7accb46987abab65468ea5b32654f3a79f0dc328c900341cba4b47662a38e92"
 	},
 	"surpuncher": {
 		"files": {
@@ -1433,31 +1443,31 @@
 			},
 			"mods/windup-music-box.pw.toml": {
 				"download": {
-					"hash": "d780ff69cae730e32b59d88e132feefe18ef5f1cca7385632d65b0446007f6e3b39a6ccd399236d9da290902fa322aaa88dc709d329e13c7ce08f4cfbd55c248",
+					"hash": "38c1c718ee448df977967888d93b24c665fe32913a9d25f8121d25d8d595f1e0c8cb48b17a03fa2db867ff1e978eef531555208c71bb07019df3001a20f863da",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/i8rzoVfa/windup_music_box-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/ZeInIegU/windup_music_box-0.2.0.jar"
 				},
-				"filename": "windup_music_box-0.1.0.jar",
+				"filename": "windup_music_box-0.2.0.jar",
 				"name": "Wind-up Music Box",
 				"side": "both"
 			}
 		},
-		"key": "28d29d76f6c8c86c3f4fe47e404293fa7154fce37c75aca1f6e9b9e2aa3c3333"
+		"key": "d2e4c0e04b98329e71e7ecf56b7fb4de99d87aa6a0f4e6475b1f49d78d53a064"
 	},
 	"yamaxanadu": {
 		"files": {
 			"mods/yamaxanadu.pw.toml": {
 				"download": {
-					"hash": "d3682404e282e71cdd8b635f46581eb7e3d84c8ceacdbcef3335566d8137b0616256362760df72c7f91d9b01cc48a533eca49330a99c0f3218851ac2af9b7a7d",
+					"hash": "06de2e41b410b18422e1e7a8632c85415541ee23ac096ebbcabaf7fcf9b22a7d63a0ae0bf5593405c4eada9a73b5ad9874969b27a95514be34b1ca975db9ea0f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/a37ZMaVV/yamaxanadu-0.3.2.jar"
+					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/Vgw2aE6h/yamaxanadu-0.3.3.jar"
 				},
-				"filename": "yamaxanadu-0.3.2.jar",
+				"filename": "yamaxanadu-0.3.3.jar",
 				"name": "yamaxanadu",
 				"side": "both"
 			}
 		},
-		"key": "14be062be662f3e2684fcd22fa160d94d249567790331abc5f92d36781f587d8"
+		"key": "6d0932685db784d4e8569f4303f60bb7c8f04533d51f1775bc577a539faa7bd7"
 	},
 	"zip-to-it": {
 		"files": {
