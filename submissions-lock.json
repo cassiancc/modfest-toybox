@@ -243,11 +243,11 @@
 		"files": {
 			"mods/crazy-pogo.pw.toml": {
 				"download": {
-					"hash": "2d491e7b6034bc9b437a3790c221faf6996ef65d5ee43120402eebc4e22d44fdea2a520ff206ba02d78c4b91576af0ef9266c1a4fb01f311b100ff80be79d264",
+					"hash": "1772c0ed49ab9b2634f1ff408a468be935fbd2bc6e6b12d8b98c995590f16f4baa974d83567277489c5cd8c99bc75d5b1aba81940e243d768c1aca460f13e0a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/usSPHjzM/versions/FeZk1yK6/crazy-pogo-0.1.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/usSPHjzM/versions/cI3PEEua/crazy-pogo-0.2.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "crazy-pogo-0.1.0+fabric-1.21.8.jar",
+				"filename": "crazy-pogo-0.2.1+fabric-1.21.8.jar",
 				"name": "Crazy Pogo",
 				"side": "both"
 			},
@@ -262,7 +262,7 @@
 				"side": "both"
 			}
 		},
-		"key": "160553a96a6cb3816e25238e31c7dca35c07a42d8ac14328e42a2c0dc0fdb729"
+		"key": "e07a8147f415d3393512b723726472ff35ab2c39ed0b295af14453356ef1d4ac"
 	},
 	"densha-no-omocha": {
 		"files": {
@@ -283,11 +283,11 @@
 		"files": {
 			"mods/diy-die.pw.toml": {
 				"download": {
-					"hash": "30341d4ebaf20c1d4d81a5a3630ee048c23f5f546c5733127c5c12b32ce1c935bd4fd268a346904f4a4e0cdf39b2dc5ecb9a66d09c3ae447bdd9a5278722dd6e",
+					"hash": "d459e1c92f627568bf2215e8c348f2cd21ce252c243661b812ea689be53019eee4bc876792171c6dcfc9b826bac6e8fa11bf3f77d920a2ba02d2819651e88810",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ZB36W58Z/versions/AGvJmmAM/diy-die-1.3.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ZB36W58Z/versions/gTG3yeCi/diy-die-1.3.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "diy-die-1.3.1+fabric-1.21.8.jar",
+				"filename": "diy-die-1.3.2+fabric-1.21.8.jar",
 				"name": "DIY-Die",
 				"side": "both"
 			},
@@ -302,7 +302,7 @@
 				"side": "both"
 			}
 		},
-		"key": "6d1fee741ffc56572c2933e7c9507d6890ff3c3bb746223264518bd9c7d9ab59"
+		"key": "784308571f9d02c8a451a73762927868746831e1ff4d69d5136d7197ea7ed455"
 	},
 	"dominoes": {
 		"files": {
@@ -401,6 +401,16 @@
 	},
 	"flying-frisbees": {
 		"files": {
+			"mods/flying-frisbees.pw.toml": {
+				"download": {
+					"hash": "9dd2e670a0b6fa6215a5625a29fc2a6d3518887923bcb78591632065567292e6ab82040fad8e3127a7ab1a90f355d57d9680361e34f1047ce7c38e0a8a38a604",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/MmvQOTIw/Flying-Frisbees-1.0.1%2Bfabric-1.21.8.jar"
+				},
+				"filename": "Flying-Frisbees-1.0.1+fabric-1.21.8.jar",
+				"name": "Flying Frisbees",
+				"side": "both"
+			},
 			"mods/geckolib.pw.toml": {
 				"download": {
 					"hash": "d0a94ad32bdee4a2147462085908dde67f9286b4c66981238391f4106a534e0fefb44bdf0fc502499f3107c6ed745054c4eb4b595ccf91e7da215b58adfb6e95",
@@ -412,22 +422,22 @@
 				"side": "both"
 			}
 		},
-		"key": "b7ccc4f4bed6d00d4f244a1cf4f2831efba85ebbdab3f939c49867f3cb5d27bd"
+		"key": "582cf4f3f0b03e459ce64bbb77f26f97e47804050c7709ed8992008171e0bb0e"
 	},
 	"googun": {
 		"files": {
 			"mods/googun.pw.toml": {
 				"download": {
-					"hash": "c9d393eaf9d8bb477b8dce0920762f6396f2703fcf469b7136d46f283b253e5a3d4a2a5997844c1c907fc564ccc8c2a2e71e1a62fe01d169e23a163fd014e181",
+					"hash": "ce98b8acce1dd30dc74a9be7d29da632ac75e207af3cd98ada7061383b1c4c42b41fe4a4afaf2b466af93047ade31f61b45d44f615d8a1b572ae37f45a02982a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/TYF86bEF/googun-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/5Fl2C3RC/googun-0.1.2.jar"
 				},
-				"filename": "googun-0.1.1.jar",
+				"filename": "googun-0.1.2.jar",
 				"name": "Googun",
 				"side": "both"
 			}
 		},
-		"key": "202a973595fc3a2854b5960f6584550e907789f919d26bf6eac17c569d7a98ee"
+		"key": "76436cb1bc6a1e3defa0ee0f89d80379b76d2abd9f00cd5e4dfb9f5e4f47c40b"
 	},
 	"grand-indestructible-kingdom": {
 		"files": {
@@ -728,16 +738,16 @@
 			},
 			"mods/maglev-minecarts.pw.toml": {
 				"download": {
-					"hash": "c0b5520d5d4cce3c28fd39b37a94f5b2839575fdcd9b7aa373777fa0d7fb47efb02f9806f42e5a62e153ff1a0bccedb73dd1340e580a6837e70a831f30a12b28",
+					"hash": "3bf5b6e528f98f4a610e40f7f4203b73235efaedc26563236748f15e71051f89e83e06dd66ee9edbedb4ba0778de97d24d6a389430399811af6c93c314ede209",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/ZRQlgysl/maglev-0.3.0%2Bmodfest.jar"
+					"url": "https://cdn.modrinth.com/data/YrqkULLr/versions/Cn3QAHjh/maglev-0.3.1%2Bmodfest.jar"
 				},
-				"filename": "maglev-0.3.0+modfest.jar",
+				"filename": "maglev-0.3.1+modfest.jar",
 				"name": "Maglev",
 				"side": "both"
 			}
 		},
-		"key": "277fb79de9351af046ed84033a87c62fbf0c4c7bf7b441e5dbc6e5773df9a302"
+		"key": "1d3a42c84c7cc660a2b53a6dfda648393cf0b746a3436f2fb84234c0537daea4"
 	},
 	"manikin": {
 		"files": {
@@ -766,18 +776,28 @@
 	},
 	"mica-runes": {
 		"files": {
+			"mods/cardinal-components-api.pw.toml": {
+				"download": {
+					"hash": "26d9fc8543249defac48cad073539668e3a116fe1ef77577f4a3b512d46e259b6b2ef4333ce0b4fce6f084dbb7e0384444c0de79b640bc6a7abc67187556a47f",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/TUd65hQI/cardinal-components-api-7.0.0-beta.1.jar"
+				},
+				"filename": "cardinal-components-api-7.0.0-beta.1.jar",
+				"name": "Cardinal Components API",
+				"side": "server"
+			},
 			"mods/mica-runes.pw.toml": {
 				"download": {
-					"hash": "e5c410d5b88f92f804af98adfc5e1135c1646040adadb8c8bb93e8bab4e192aa44d8c6c8efba6e78f630fba7bfe0812562e3e096f06097a8fbaf24c284727494",
+					"hash": "5ff7dc25127381ed54608e9d1b3d5cd59f5dbbacf17d92010fc7ce5b724dd426338b23144e3741d94871e421d341eca1afef9637ffc9c5bf6a30f067af6709db",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/eC2hNlia/mica-0.0.8.jar"
+					"url": "https://cdn.modrinth.com/data/venPrYVA/versions/Gy5NZKfx/mica-0.0.9.jar"
 				},
-				"filename": "mica-0.0.8.jar",
+				"filename": "mica-0.0.9.jar",
 				"name": "Mica",
 				"side": "both"
 			}
 		},
-		"key": "bd42b3a714a77a0aea118dda15533cbee1aed09fff0dfed4f2e5daf572e99e84"
+		"key": "30875196dc8ad7e199f3b9cd7fe5ef3ef9b00929b1cbaf92a19ce78472003cda"
 	},
 	"mob-mystery-dollhouse": {
 		"files": {
@@ -903,11 +923,11 @@
 			},
 			"mods/notenoughminecraft.pw.toml": {
 				"download": {
-					"hash": "aebd60e68bae15c2a511e8c478d95545062d420c079d08af64a73e5fd722c6579388dea0e81647c34f64c2f276828549c86ff7d277fd5087f0ea2f60e868cae7",
+					"hash": "ac80ad3f2e24f89ebafcaa0d40becc58d16a00dbc3d833e1ad9d79366ec1af94962c8dfd908c670d25f2cba2011b0df5d8bf3294588878bcc54b027e6fae80b8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/BCTtEZKH/not-enough-minecraft-1.2.3%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/wC4tXD4p/not-enough-minecraft-1.2.5%2B1.21.8.jar"
 				},
-				"filename": "not-enough-minecraft-1.2.3+1.21.8.jar",
+				"filename": "not-enough-minecraft-1.2.5+1.21.8.jar",
 				"name": "NotEnoughMinecraft",
 				"side": "both"
 			},
@@ -922,7 +942,7 @@
 				"side": "server"
 			}
 		},
-		"key": "a1da3a79c2c9d2ae872bcd611d070f16bd353263a3d9b22f7905c4a6c9dadab1"
+		"key": "719d10ba50c74473dece66f9c292792008f2a639232e61d271a3128abf47a98b"
 	},
 	"occipital-metonymy": {
 		"files": {
@@ -938,16 +958,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "ccbda7b1193693412bdc4e98cd669b648b6cdb55737ce2486550f3056d416ec588bd5bc8caff2b1ba51a4afde57f235445107a681f87f5668a994735ec8f3acd",
+					"hash": "27feaed6bfeb2d8c97cb591988036bca9e30aabe46319aa2c160b1e1424fdd1d63d2efb17dd06ec0b9606768f2ee36574f94bb5548c147d5ffb7eb091d95870b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/7PDeTBt7/occmy-G.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/STK6M14M/occmy-H.jar"
 				},
-				"filename": "occmy-G.jar",
+				"filename": "occmy-H.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "25a0dda41297c969cbedaffeaa88441f6771ad297f331a0c9d8cd944565c010c"
+		"key": "1f88b78e8a48d6e8b086c91cb204e09bebb6b26f133cc1a2bc13ebb8e28ae16e"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -1283,16 +1303,16 @@
 			},
 			"mods/toil-and-trouble.pw.toml": {
 				"download": {
-					"hash": "bba0d423bf0c8f37878333cbb3f22f36f292bd80b7f2a33fd424a1fe0842fe7633a5b91bede66cdc16ec603efe26e140040f8fb668dee0c510553a0dd9eb5fa1",
+					"hash": "ca8585a22b7113d3128a5db8174c3bd8528fb514f8a5b4c98ae62ff7750124773bf4c23be4aa00c584149c4994e0166d86146ce0e593a255b0601868fe53353f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/67iT29W2/versions/3LcnUAmv/toil_and_trouble-fabric-1.3.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/67iT29W2/versions/CWdZCub6/toil_and_trouble-fabric-1.4.0%2B1.21.8.jar"
 				},
-				"filename": "toil_and_trouble-fabric-1.3.0+1.21.8.jar",
+				"filename": "toil_and_trouble-fabric-1.4.0+1.21.8.jar",
 				"name": "Toil and Trouble",
 				"side": "both"
 			}
 		},
-		"key": "4bd9fd6c8849cff86929b4bdbf40fc7a912ae4e8aaa39cf5b799c537a2f59e78"
+		"key": "55ffb7600f128e80d66f97b6433691ae7b68ff13132fa94e763a5c0b93a87807"
 	},
 	"totoro_top": {
 		"files": {
@@ -1458,16 +1478,16 @@
 		"files": {
 			"mods/yamaxanadu.pw.toml": {
 				"download": {
-					"hash": "06de2e41b410b18422e1e7a8632c85415541ee23ac096ebbcabaf7fcf9b22a7d63a0ae0bf5593405c4eada9a73b5ad9874969b27a95514be34b1ca975db9ea0f",
+					"hash": "60b9eca9d4706ee5c0e68b310496a45d5a5c3c9dd56c2879fd311aad8324ace83cd80795364347aec1adb4dce578193f5e1356e496d82178822880a483da9fa8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/Vgw2aE6h/yamaxanadu-0.3.3.jar"
+					"url": "https://cdn.modrinth.com/data/oPQGWtHJ/versions/63whLqKs/yamaxanadu-0.3.4.jar"
 				},
-				"filename": "yamaxanadu-0.3.3.jar",
+				"filename": "yamaxanadu-0.3.4.jar",
 				"name": "yamaxanadu",
 				"side": "both"
 			}
 		},
-		"key": "6d0932685db784d4e8569f4303f60bb7c8f04533d51f1775bc577a539faa7bd7"
+		"key": "d539a104fd0217f95afbc6f759d462a8b3e33b1580e5477cf27d83082f75f2ff"
 	},
 	"zip-to-it": {
 		"files": {
