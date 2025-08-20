@@ -12,8 +12,8 @@ paintbrush-mod
 # crash when opening creative inventory from getOrThrow at WindupMusicBoxMod#68
 #windup-music-box
 
-# not your fault - broken by a dependency of chat bridge (specter)
-#newinbox
+# breaks on contact w/ cantilever(specter?) from kotlin nosuchmethoderror boolean kotlin.text.StringsKt.toBooleanStrict(java.lang.String) at GameRuleConfig:11
+newinbox
 
 # needs sandboxing
 dronebox
