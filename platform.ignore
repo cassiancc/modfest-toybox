@@ -13,7 +13,7 @@ paintbrush-mod
 #windup-music-box
 
 # not your fault - broken by a dependency of chat bridge (specter)
-newinbox
+#newinbox
 
 # needs sandboxing
 dronebox
