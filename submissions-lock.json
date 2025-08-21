@@ -108,11 +108,11 @@
 		"files": {
 			"mods/chiseled-mod.pw.toml": {
 				"download": {
-					"hash": "7ac332ab3ba7ff954cdd62b5f9b8fa859658baf86019f67fce3f357fcab19e0a9f46597855d19e3c9b0186d31e53df2fe1e3afc23747d6a6832f445c4c33de03",
+					"hash": "cd8f13e6955d18f96cacb29eb327a863717038a77fbd450ef312bbe04ac1460b173a382ca4d3fcc17451d565f2b714aad90a8e749b45ded147056c3240a19dc9",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/4W1y8cGx/chiseled-fabric-1.21.8-1.0.1-alpha.jar"
+					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/kegWkySw/chiseled-fabric-1.21.8-1.1.0-alpha.jar"
 				},
-				"filename": "chiseled-fabric-1.21.8-1.0.1-alpha.jar",
+				"filename": "chiseled-fabric-1.21.8-1.1.0-alpha.jar",
 				"name": "Chiseled",
 				"side": "both"
 			},
@@ -137,7 +137,7 @@
 				"side": "both"
 			}
 		},
-		"key": "67251cf8d860a72dd8c629fa435c6e67f398f8b6af99686fa8e1db310a566253"
+		"key": "c3510a860768f1f192bc66e4ea84b94f3546e49f9ab6c0f4fe1cf48a30ffaaa4"
 	},
 	"chorus-honey": {
 		"files": {
@@ -188,6 +188,31 @@
 			}
 		},
 		"key": "6b06fd63cc98efcb9ab21a07b91757c39c9875f2f581c336e4d3d323499e6ddc"
+	},
+	"confetti-cannon": {
+		"files": {
+			"mods/confetti-cannon.pw.toml": {
+				"download": {
+					"hash": "3238cc746c2ed07831d1180d6841f36af0b21911cc654a17f98420d16a2b8b9e304754de867cf675cca972e12145863923322c3d136bd566aa1ec5a3d0c7c5c2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/UTT8ijPB/versions/aJbR91BF/confetti-cannon-0.1.0%2Bfabric-1.21.8.jar"
+				},
+				"filename": "confetti-cannon-0.1.0+fabric-1.21.8.jar",
+				"name": "Confetti Cannon",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+				},
+				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"name": "Fabric API",
+				"side": "both"
+			}
+		},
+		"key": "180bc5ca97a031b3c02191dbd27c67e1a52b09f34ba4f21d3b6c7d9ad9d96261"
 	},
 	"confettinator": {
 		"files": {
@@ -923,26 +948,26 @@
 			},
 			"mods/notenoughminecraft.pw.toml": {
 				"download": {
-					"hash": "50202414fcf0f12f3e3b34eb25b69e528b79218327f88229c9e5b6b5dc1f63fc2cdcded35f278ddd7149862529c8b03a68f81f30cf06ccd14ee364c130807066",
+					"hash": "e58d5bd4bf5fad5c251b81a25f117b64c9767f38e0c4c0d570148f5c2df8160595a5e303f4203cbbac476b378ec8662af53d55d34434208ed09bc00eb1e61971",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/pnBcl6cV/not-enough-minecraft-1.2.6%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/XanV7A9w/not-enough-minecraft-1.3.0%2B1.21.8.jar"
 				},
-				"filename": "not-enough-minecraft-1.2.6+1.21.8.jar",
+				"filename": "not-enough-minecraft-1.3.0+1.21.8.jar",
 				"name": "NotEnoughMinecraft",
 				"side": "both"
 			},
 			"mods/polymer.pw.toml": {
 				"download": {
-					"hash": "63b032b397ea9899a81abd72197ccf0a9da6f010853f218709d2d3ba6c3e6875699acd24ed73acc4c8f7849e95cb14795d76901bf0c74236525503f275344a70",
+					"hash": "537fca6bb7d91ac86388c68a9352f45639d108bbc12c99b7ba9166b06500b8090f7aea12f0d4316d42c93178aa17f573f6e25a74cf44e640486892511af88732",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/XZhBAL2Z/polymer-bundled-0.13.10%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/6cqgmDx1/polymer-bundled-0.13.11%2B1.21.8.jar"
 				},
-				"filename": "polymer-bundled-0.13.10+1.21.8.jar",
+				"filename": "polymer-bundled-0.13.11+1.21.8.jar",
 				"name": "Polymer",
 				"side": "server"
 			}
 		},
-		"key": "dfcc9e4bd7c221ccf8f1b2d25fefee40d39ab0346fe0e00fce5068f5e6f7d631"
+		"key": "c36569d74ef1357102644ecff6d9876a25a2ee2cf06c46d941bc31e988c3e16e"
 	},
 	"occipital-metonymy": {
 		"files": {
@@ -958,16 +983,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "a5a69d8d39cd03f7a3b76952ba3a075782491340a0fcea2afcfdc35e5c69cde31e640d6cbda6f76258f5ac3eab01380d33082d786703db7fbb94061bc136f890",
+					"hash": "bb9cd6cebf3e48fef36412830c015a766fe8c82b9d125a4f999fc3c49e0867f7758539ea71c30084fe4aa7a5233a4288c1ba86424670b9d444348258b062ae37",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/gZWX4QmC/occmy-I.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/Fj7rL26K/occmy-J.jar"
 				},
-				"filename": "occmy-I.jar",
+				"filename": "occmy-J.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "b5ed92ba39fc3bb11f51dd6040568ee4c616892479669261e94be7b188684b08"
+		"key": "717d72c1735949eab3705dd772efe16af7ab7641fdaa796aecbf86f3446d0aff"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -1093,26 +1118,26 @@
 		"files": {
 			"mods/polymer.pw.toml": {
 				"download": {
-					"hash": "63b032b397ea9899a81abd72197ccf0a9da6f010853f218709d2d3ba6c3e6875699acd24ed73acc4c8f7849e95cb14795d76901bf0c74236525503f275344a70",
+					"hash": "537fca6bb7d91ac86388c68a9352f45639d108bbc12c99b7ba9166b06500b8090f7aea12f0d4316d42c93178aa17f573f6e25a74cf44e640486892511af88732",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/XZhBAL2Z/polymer-bundled-0.13.10%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/xGdtZczs/versions/6cqgmDx1/polymer-bundled-0.13.11%2B1.21.8.jar"
 				},
-				"filename": "polymer-bundled-0.13.10+1.21.8.jar",
+				"filename": "polymer-bundled-0.13.11+1.21.8.jar",
 				"name": "Polymer",
 				"side": "server"
 			},
 			"mods/simply-slingshot.pw.toml": {
 				"download": {
-					"hash": "76784e50f850c40f62faf5b77495923802b49f7050b533bd860a24fafe225a5481c3da72ec749b2e523aff06523c520a78e4a26234ba3ea2c62e4c6f6c179613",
+					"hash": "abbde8a713b35ea1c97ed9d6320955bf519cbb40d400098d90120c05607f13e4695f92da3eda08faeb08bc1edeef0d62f61a27331134577c5615eef56d2e0818",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/KdG4aAEL/simply-slingshot-0.1.1%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/msOhd0jl/versions/BwW0oaf8/simply-slingshot-0.1.2%2B1.21.8.jar"
 				},
-				"filename": "simply-slingshot-0.1.1+1.21.8.jar",
+				"filename": "simply-slingshot-0.1.2+1.21.8.jar",
 				"name": "Simply Slingshot",
 				"side": "server"
 			}
 		},
-		"key": "30a23eff5ad6fe6cf9fd3825b940e88a63246363b0dfd7f061b71f1cdb82ff5b"
+		"key": "74bdf3c2e52d6220c9857de0360651651a0a7bb57d61a7877c0dde17ece08b4e"
 	},
 	"slotcars": {
 		"files": {
