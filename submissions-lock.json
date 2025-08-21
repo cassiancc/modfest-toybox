@@ -838,16 +838,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "991d3e9f6bbf652ca53c2be29e9b28b0916d96ff471ff456e3becae22d860ff0da9ea4b46de6941a3564554929e54af3ba0604a06ea2df2b8827862ca6446286",
+					"hash": "e0e34c2caddb6e4af921d18cd5230fc974e7561259dc6d00fa8ccc3a7db59cdd309ebe6853d5e862b513a941d65bbbe3dce63ff1c46e5462311a656492fe432f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/236QxKLt/more_than_a_foxbox-1.0.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/65Ne9I4l/more_than_a_foxbox-1.0.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.1+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.2+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "b3869124732831512334f510e6b37e21fac5d78c037c4798f16b4517e4ff2f5f"
+		"key": "c054a42b3569b2890c4035eb90aa348b6bb6f6b5fe50b4173ce3752413ce1256"
 	},
 	"newinbox": {
 		"files": {
@@ -923,11 +923,11 @@
 			},
 			"mods/notenoughminecraft.pw.toml": {
 				"download": {
-					"hash": "ac80ad3f2e24f89ebafcaa0d40becc58d16a00dbc3d833e1ad9d79366ec1af94962c8dfd908c670d25f2cba2011b0df5d8bf3294588878bcc54b027e6fae80b8",
+					"hash": "50202414fcf0f12f3e3b34eb25b69e528b79218327f88229c9e5b6b5dc1f63fc2cdcded35f278ddd7149862529c8b03a68f81f30cf06ccd14ee364c130807066",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/wC4tXD4p/not-enough-minecraft-1.2.5%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/sbnEegTp/versions/pnBcl6cV/not-enough-minecraft-1.2.6%2B1.21.8.jar"
 				},
-				"filename": "not-enough-minecraft-1.2.5+1.21.8.jar",
+				"filename": "not-enough-minecraft-1.2.6+1.21.8.jar",
 				"name": "NotEnoughMinecraft",
 				"side": "both"
 			},
@@ -942,7 +942,7 @@
 				"side": "server"
 			}
 		},
-		"key": "719d10ba50c74473dece66f9c292792008f2a639232e61d271a3128abf47a98b"
+		"key": "dfcc9e4bd7c221ccf8f1b2d25fefee40d39ab0346fe0e00fce5068f5e6f7d631"
 	},
 	"occipital-metonymy": {
 		"files": {
@@ -1168,16 +1168,16 @@
 			},
 			"mods/spring-boots.pw.toml": {
 				"download": {
-					"hash": "a8e433b874b8e29bfb1a1135c46448f3058dde444d9a31662c3392b09ff5afaa5acff8f956ce9966fad245585f0401d26997f8c931a6d2c0098b8e6f58487fb6",
+					"hash": "ffc5e7135be588c39218b4bf87914e11d5cef42962b9e03789227c888ac7e135d1f0813a8d5962c84d050a4a40c450ce124ea4d90eabbef79a9ee23a59f7c0d5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/IzjOs40e/versions/3AdZwXmT/spring-boots-1.0.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/IzjOs40e/versions/1pImGY0s/spring-boots-1.0.1%2B1.21.8.jar"
 				},
-				"filename": "spring-boots-1.0.0+1.21.8.jar",
+				"filename": "spring-boots-1.0.1+1.21.8.jar",
 				"name": "Spring Boots",
 				"side": "both"
 			}
 		},
-		"key": "fd49f29ddf236ae9cdec5f7cc1fcc65d9846df8e68813642f50bd2a9b953cebd"
+		"key": "7af3a77ecd90fb3d52c2a46009353c1bacd60cfc0dbd57133338c3ea995915e0"
 	},
 	"stickerbomb": {
 		"files": {
