@@ -453,16 +453,16 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "e15057bbe6e7823fc7ac5e5e4aaa8e4d23ec86a66efc5f689d10d57a210bb90a0a42a8ba21905f4ccb7815927708818ba5170b5803c03656cdeff1ce3289f4db",
+					"hash": "d56fa6e936c22b848982f3b8f90b43ac951dc967776f37d004c64d831a0e586a2ce18175c9452f2c40d9cb3173c524cb4d1414f079ca4f7647e606cbb36ba82e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/EjeDxuVL/gik-1.4.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/ORgvpDyQ/gik-1.6.jar"
 				},
-				"filename": "gik-1.4.jar",
+				"filename": "gik-1.6.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "dd4b3cc0d747f0379708bde6182a878b5ed8c6a29c93575917e2c6aee518c885"
+		"key": "73017a74db21aa032d29c41e8069705051438ff326a92e0de6c644ee96debbab"
 	},
 	"grow-your-crystal": {
 		"files": {
@@ -663,16 +663,16 @@
 		"files": {
 			"mods/laseredstone.pw.toml": {
 				"download": {
-					"hash": "b6a47859826c4c341554c07dc92d39b83ff4c2ebeadbe8496d74cc9b0066d05848948902fe5cb681e8989c540e7cf891609684fc4f7670f000b569b2637388a9",
+					"hash": "507e4f7a11bc3b0bd51fa4fa87b16054ec5dd96c7b302f6030b82f4cb1fab3d34d76fbc00c786b1c7f6927cd4db4fda9af0dbfc8885c9a03eeb01e1c316df657",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/2QSKX1VZ/laseredstone-1.0.2%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/Voc0ZTMg/laseredstone-1.0.3%2B1.21.8.jar"
 				},
-				"filename": "laseredstone-1.0.2+1.21.8.jar",
+				"filename": "laseredstone-1.0.3+1.21.8.jar",
 				"name": "Laseredstone",
 				"side": "both"
 			}
 		},
-		"key": "b57af3f83722ccd53a0235e46024361e3e906b5df9ac9a8e2c79748637c709d5"
+		"key": "8ad26127b2b044ec34925c5216b52852e6742b88c7de780e6369cbbda84a6f12"
 	},
 	"lifelike": {
 		"files": {
@@ -958,16 +958,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "27feaed6bfeb2d8c97cb591988036bca9e30aabe46319aa2c160b1e1424fdd1d63d2efb17dd06ec0b9606768f2ee36574f94bb5548c147d5ffb7eb091d95870b",
+					"hash": "a5a69d8d39cd03f7a3b76952ba3a075782491340a0fcea2afcfdc35e5c69cde31e640d6cbda6f76258f5ac3eab01380d33082d786703db7fbb94061bc136f890",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/STK6M14M/occmy-H.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/gZWX4QmC/occmy-I.jar"
 				},
-				"filename": "occmy-H.jar",
+				"filename": "occmy-I.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "1f88b78e8a48d6e8b086c91cb204e09bebb6b26f133cc1a2bc13ebb8e28ae16e"
+		"key": "b5ed92ba39fc3bb11f51dd6040568ee4c616892479669261e94be7b188684b08"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -1218,16 +1218,16 @@
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
-					"hash": "d0571775f1d02de155906ebb7a6692732b3382f8390a33e46e0d2a6bbb68aae234fba1dac23e8e8ca6d3bdc5d3659d43490c4c44ca8283f8b690b64955cc7abb",
+					"hash": "d106ac6a0fc35844ecdfcc9a84e2edef9a3ca68117048b888ae8d53d0626a1c867967faccc4aa4674a89b4e57309a0401c372d677cdd55c4efc620554f2e0fcd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/w8OXA38X/surpuncher-1.0.3.10%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/syIScTg8/surpuncher-1.0.4%2B1.21.8.jar"
 				},
-				"filename": "surpuncher-1.0.3.10+1.21.8.jar",
+				"filename": "surpuncher-1.0.4+1.21.8.jar",
 				"name": "Surpuncher",
 				"side": "both"
 			}
 		},
-		"key": "3cc569a9bf0b973c5af183ef4532b1a263bae44194e473fb7dff8c08340add79"
+		"key": "4c978a5a3410bf617614b5216f36268bce129e79fcadc2a5d34f3e1c8f439498"
 	},
 	"sword-of-legend": {
 		"files": {
@@ -1413,11 +1413,11 @@
 			},
 			"mods/volo-volare.pw.toml": {
 				"download": {
-					"hash": "d451272fdf9778d6a027ae52b25a54e2a0a149b9ad09b4eb6d04ceb010567f1d0a556271c0b01f888dd3ee259e51de27b655501532ebda00c4b209e0535117bc",
+					"hash": "c28b8dd76947cdb78847aa412de33ae6b13cdf5f84ba3606a2d29ff5e5946cf9963bb5e02b57ff45ec48daa0db5cf5b48d52b8de66cdc40641626cf1d843065d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/NaXetVdJ/volo-volare-0.1.3%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/6vF0WWqw/versions/vm6V11uw/volo-volare-0.1.5%2Bfabric-1.21.8.jar"
 				},
-				"filename": "volo-volare-0.1.3+fabric-1.21.8.jar",
+				"filename": "volo-volare-0.1.5+fabric-1.21.8.jar",
 				"name": "Volo Volare",
 				"side": "both"
 			},
@@ -1432,7 +1432,7 @@
 				"side": "both"
 			}
 		},
-		"key": "a64e021f125bc14c00c34b983cd40210968c1c11e6f9c3e0c23f6c7208ec406b"
+		"key": "448038a014c6e1af15cae1f6e45f64ccc6f9d77642915192b582159c49f2a3e6"
 	},
 	"wabbajack-staff": {
 		"files": {
