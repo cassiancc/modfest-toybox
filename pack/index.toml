@@ -232,9 +232,6 @@ file = "config/waila/waila.json5"
 file = "config/waila/waila_plugins.json5"
 
 [[files]]
-file = "mods/Flying-Frisbees-1.0.0+fabric-1.21.8.jar"
-
-[[files]]
 file = "mods/area-tools.pw.toml"
 metafile = true
 

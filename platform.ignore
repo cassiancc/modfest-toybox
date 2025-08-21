@@ -9,22 +9,9 @@ action-mobs# ActionMobBlock
 # polymer sync causes custom_payload kick on join
 paintbrush-mod
 
-# crash when opening creative inventory from getOrThrow at WindupMusicBoxMod#68
-#windup-music-box
-
-# breaks on contact w/ cantilever(specter?) from kotlin nosuchmethoderror boolean kotlin.text.StringsKt.toBooleanStrict(java.lang.String) at GameRuleConfig:11
-newinbox
-
 # needs sandboxing
 dronebox
 
 # placed rune crashes clients
 # intentional crash meme
 mica-runes
-
-# please add dependency for fusion-connected-textures on your modrinth version
-#blowing-bubbles
-
-# not being added for some reason, added manually
-flying-frisbees
-
