@@ -1,4 +1,52 @@
 {
+	"music.three": {
+		"sounds": [
+			{
+				"name": "modfest:music/three",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.three": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/three",
+				"stream": true
+			}
+		]
+	},
+	"music.hand_me_down": {
+		"sounds": [
+			{
+				"name": "modfest:music/hand_me_down",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.hand_me_down": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/hand_me_down",
+				"stream": true
+			}
+		]
+	},
+	"music.how_i_dance": {
+		"sounds": [
+			{
+				"name": "modfest:music/how_i_dance",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.how_i_dance": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/how_i_dance",
+				"stream": true
+			}
+		]
+	},
 	"music.dormant": {
 		"sounds": [
 			{
