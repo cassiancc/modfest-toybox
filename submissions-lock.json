@@ -18,16 +18,26 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "57c9ed280ae0cde7f36ab76d2b6fdb9172e3e4fdaf70ba8b8e992892fc92508f711263006d5fb9a99424666ab3d882b6938264e68a6be4c5c2c55cdae9e8700a",
+					"hash": "b75063bd14bc23a0e6842cd132696980d0181511f5d4f43815f6493cde4cb10cd38d660d4e2a30efd8c5db69470c5dcbd6cd26df9a89f9e4574e9cf66ef2eccf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/Imii60I7/be-a-doll-1.0.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/P3RCyVx9/be-a-doll-1.0.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.0+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.1+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+				},
+				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "ebf088f2c2bac26eb8f56b01c19ddce2108d9c0f4489a885bd69a30dc9a02ed1"
+		"key": "dee7f5d868ee9f61184fb61eb5f700913653f4461e572d2a8d29299f5b6edde8"
 	},
 	"bloub4mc": {
 		"files": {
@@ -428,11 +438,11 @@
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
-					"hash": "9dd2e670a0b6fa6215a5625a29fc2a6d3518887923bcb78591632065567292e6ab82040fad8e3127a7ab1a90f355d57d9680361e34f1047ce7c38e0a8a38a604",
+					"hash": "1da13a1602fcce85b2ebdb080b9992c641e4a480de7061e47b185bd436779d5572a28f033be7587869fd5ff9ffae25b42696a5ab190a75c12bf13f5edb62a3ca",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/MmvQOTIw/Flying-Frisbees-1.0.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/ugOTwCZ6/Flying-Frisbees-1.0.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "Flying-Frisbees-1.0.1+fabric-1.21.8.jar",
+				"filename": "Flying-Frisbees-1.0.2+fabric-1.21.8.jar",
 				"name": "Flying Frisbees",
 				"side": "both"
 			},
@@ -447,7 +457,7 @@
 				"side": "both"
 			}
 		},
-		"key": "582cf4f3f0b03e459ce64bbb77f26f97e47804050c7709ed8992008171e0bb0e"
+		"key": "b429efa6b2a3b5245b87419c9d9492f8a30478e3976432619777f6ae451293db"
 	},
 	"googun": {
 		"files": {
@@ -478,16 +488,16 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "d56fa6e936c22b848982f3b8f90b43ac951dc967776f37d004c64d831a0e586a2ce18175c9452f2c40d9cb3173c524cb4d1414f079ca4f7647e606cbb36ba82e",
+					"hash": "5398f21f6a071ebc617fa14a59386afc3afe5ceac936a62a687982a61054ed8f9d03bf4a3d00eaf0970904a77ce026b1713b096753cd4b42b42dc1bb474b40db",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/ORgvpDyQ/gik-1.6.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/fEKNcrg4/gik-1.8.0.jar"
 				},
-				"filename": "gik-1.6.jar",
+				"filename": "gik-1.8.0.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "73017a74db21aa032d29c41e8069705051438ff326a92e0de6c644ee96debbab"
+		"key": "3dcb5d82466dece5fe35a3b64d48af593a04be94d417e70f18dfdeb0eb0b1d59"
 	},
 	"grow-your-crystal": {
 		"files": {
@@ -623,16 +633,16 @@
 			},
 			"mods/hyper-silt.pw.toml": {
 				"download": {
-					"hash": "d3a5fa1696d3e03465f03530c01eb51e478acbfc6481e8dca36cb7a1f50704261674edae2e6bfdb8abf8ed8f75064774cb7e44cd725f5c10136971f284e9ac47",
+					"hash": "130e6a770d85434f06bf95b552604af7ec969da68d4325d8a30cda73b5d5275735af2bded9c156988f85800157058796012ff436ea683847d5c4edcfacdf6481",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/894ENCfi/versions/VPE1Z0p1/hyper_silt-S.jar"
+					"url": "https://cdn.modrinth.com/data/894ENCfi/versions/M91eOJvN/hyper_silt-I.jar"
 				},
-				"filename": "hyper_silt-S.jar",
+				"filename": "hyper_silt-I.jar",
 				"name": "Hyper Silt",
 				"side": "both"
 			}
 		},
-		"key": "16ffd39b23b1eb8f594b2db9ed101645e64af83c9263cb19a9e02a81813f635a"
+		"key": "6cd7433bb1dfff6bb523c1674557f101374131f843616cb94c485792ba894850"
 	},
 	"jack-in-the-box": {
 		"files": {
@@ -788,16 +798,16 @@
 			},
 			"mods/manikin.pw.toml": {
 				"download": {
-					"hash": "7dc0a7889c2984042774bac4943513d2c5ca579ffe1c5f182e0f21e93df3129b3def855ebbab2b3c5d587ad064cf0dd0ff27be7c5f5abe78e3d8ae62ca72d064",
+					"hash": "4e6f57fe6d3393ded0955c15ac2a732ea988374fe3a5a4d5ce8566e4cda26de31e65678c49b790f53b6f5161e7427abb95db74b5b8904298f37b9844affaa7cd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/2liitd3J/mannequin-0.1.0-beta.jar"
+					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/ZyWoQHNX/mannequin-0.1.1-beta.jar"
 				},
-				"filename": "mannequin-0.1.0-beta.jar",
+				"filename": "mannequin-0.1.1-beta.jar",
 				"name": "Mannequin",
 				"side": "both"
 			}
 		},
-		"key": "f7ecb1da1871ff28ca26b07a2ae9173d12a4858b01ddc11adac2359bb1cba8d7"
+		"key": "20030c6f52d417ba57d9ab59e963d259eee5dbec669a99e711c6095787a0eb8f"
 	},
 	"mica-runes": {
 		"files": {
