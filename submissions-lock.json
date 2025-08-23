@@ -438,11 +438,11 @@
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
-					"hash": "1da13a1602fcce85b2ebdb080b9992c641e4a480de7061e47b185bd436779d5572a28f033be7587869fd5ff9ffae25b42696a5ab190a75c12bf13f5edb62a3ca",
+					"hash": "a25782c82012e672aec7afec1a60f4da88918cdbcd0f2c463ac2f22a37470d121b7e6ad8966f23b4a0b5ada5fd43568e1fe3b8dbb7442cf0d18a8e4b7695b454",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/ugOTwCZ6/Flying-Frisbees-1.0.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/NtCt96F5/Flying-Frisbees-1.0.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "Flying-Frisbees-1.0.2+fabric-1.21.8.jar",
+				"filename": "Flying-Frisbees-1.0.3+fabric-1.21.8.jar",
 				"name": "Flying Frisbees",
 				"side": "both"
 			},
@@ -457,7 +457,7 @@
 				"side": "both"
 			}
 		},
-		"key": "b429efa6b2a3b5245b87419c9d9492f8a30478e3976432619777f6ae451293db"
+		"key": "6990bfe2b59ff484d3e3ae8ffff07f544cea9b55d8a8b23b65cd7a902e331dd4"
 	},
 	"googun": {
 		"files": {
@@ -488,16 +488,16 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "5398f21f6a071ebc617fa14a59386afc3afe5ceac936a62a687982a61054ed8f9d03bf4a3d00eaf0970904a77ce026b1713b096753cd4b42b42dc1bb474b40db",
+					"hash": "dbc5bd361d585573d15a678981240f235cacba0c03c55878a65f05cac7709a3e9aeefa8ce62769de47e9c10f4cecb56ccdcde4356b631c3aef78687f2c53a02b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/fEKNcrg4/gik-1.8.0.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/jyRMZGAr/gik-1.8.1.jar"
 				},
-				"filename": "gik-1.8.0.jar",
+				"filename": "gik-1.8.1.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "3dcb5d82466dece5fe35a3b64d48af593a04be94d417e70f18dfdeb0eb0b1d59"
+		"key": "910ceb069b0407dfe4e6e11f67ceddd9a815a6a6d59b35e8c4b7eb343db54ff3"
 	},
 	"grow-your-crystal": {
 		"files": {
@@ -993,16 +993,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "ff0e115f5a863ee9607f1ffb80b241d08005ca1e03b630d28f70052f4d7cc1a0209ac8f73595efb1a49fde655870433062d1f8b999784059728472d9dbd4e5e7",
+					"hash": "33c339831f5bf20253e6aa099ad3a5bba4441bfd26c6bf25882220ecf273ffc90677b81abf8e229f9812a7c2eeb2590855acb994e54f9b5bdd2d6ffffeac5260",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/PFBkccPa/occmy-K.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/12P1UmhI/occmy-L.jar"
 				},
-				"filename": "occmy-K.jar",
+				"filename": "occmy-L.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "4829b4a569150f7add2c53b7bdd16d8fd4814d70976158d031bcfe0b835ff9d3"
+		"key": "fe8dc30cf5bcff42e2b29023f367e6f2d94c2269e2540732ccf9d27b4db0d8a7"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -1338,16 +1338,16 @@
 			},
 			"mods/toil-and-trouble.pw.toml": {
 				"download": {
-					"hash": "ca8585a22b7113d3128a5db8174c3bd8528fb514f8a5b4c98ae62ff7750124773bf4c23be4aa00c584149c4994e0166d86146ce0e593a255b0601868fe53353f",
+					"hash": "b87b099213a1e0420a48d9b730e9e39e7fe0d3ab842667265d1137a01f2dc4f65f3f73e70813590172e8c405e8d45d2886e1de0befb911009d5d9acd4012a5fc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/67iT29W2/versions/CWdZCub6/toil_and_trouble-fabric-1.4.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/67iT29W2/versions/74LYzFed/toil_and_trouble-fabric-1.4.1%2B1.21.8.jar"
 				},
-				"filename": "toil_and_trouble-fabric-1.4.0+1.21.8.jar",
+				"filename": "toil_and_trouble-fabric-1.4.1+1.21.8.jar",
 				"name": "Toil and Trouble",
 				"side": "both"
 			}
 		},
-		"key": "55ffb7600f128e80d66f97b6433691ae7b68ff13132fa94e763a5c0b93a87807"
+		"key": "cf84f8bd2fced2f8ebf5aa96466713b4ef77666fb047006caf0d725fb40da1b6"
 	},
 	"totoro_top": {
 		"files": {
