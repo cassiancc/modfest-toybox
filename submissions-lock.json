@@ -3,16 +3,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "62d8e0886c3052ff6224f9154eef5541a8c97152f8b7b8728636ed6970efdd95f033ad72d5de97ea874d53fe755f353b084e1b099061566c6bc90b093e027987",
+					"hash": "bb8fc7d4bdce81a26c1b652da26d1bf549b851c6f3dfb943ffd25541b531278e18c2509ac6288a9a64e4e783c73d0ff1f98a4077960b8b9be466b8cc7e765f9a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/E0MLSIMK/action_mobs-0.3.0.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/8uMboK5h/action_mobs-0.3.1.jar"
 				},
-				"filename": "action_mobs-0.3.0.jar",
+				"filename": "action_mobs-0.3.1.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "7d5b250932ca9fc30b93c17230a1ca03abf38b2beb073f7e4318f44caf1b643a"
+		"key": "285a05738b1f899f46a185c0c06db1dc63b0cc8595e909717b867af8579c88f9"
 	},
 	"be-a-doll": {
 		"files": {
@@ -503,16 +503,16 @@
 		"files": {
 			"mods/grow-your-crystal.pw.toml": {
 				"download": {
-					"hash": "b84047b9c6ad8dee928f09df31c6d1a519da0868b336db2c4cdf7bf64c84abcb5f93e7f6786bce9c33c40febeddb664c0746c8d4514ae0506a12411ef0f361c7",
+					"hash": "43a968c8871ed03e2717c5ce85bb2553442b8df8999ad05590197443f8126b546f98dda1195bf6bda0b2fc5b42d7ca7e85938baf5fc497278cc61f49d6d69385",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rn1T5YER/versions/L1nVcxt4/grow-your-crystal-1.0.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/rn1T5YER/versions/29txo1ls/grow-your-crystal-1.0.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "grow-your-crystal-1.0.0+fabric-1.21.8.jar",
+				"filename": "grow-your-crystal-1.0.2+fabric-1.21.8.jar",
 				"name": "Grow Your Crystal",
 				"side": "both"
 			}
 		},
-		"key": "df51c1e44146443086962717e9914b6cecffb4a5310e534fd4b6034ec54e9b60"
+		"key": "06b697cab4631eabd51e4efb84455c0ba348ad09c82b52be78b5cc251e9e55cb"
 	},
 	"gunner": {
 		"files": {

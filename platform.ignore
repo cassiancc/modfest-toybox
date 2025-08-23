@@ -4,7 +4,7 @@
 
 # loading client classes on server
 dronebox# DroneControllerItem
-action-mobs# ActionMobBlock
+#action-mobs# ActionMobBlock
 
 # polymer sync causes custom_payload kick on join
 paintbrush-mod
