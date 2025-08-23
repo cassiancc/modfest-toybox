@@ -488,31 +488,31 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "dbc5bd361d585573d15a678981240f235cacba0c03c55878a65f05cac7709a3e9aeefa8ce62769de47e9c10f4cecb56ccdcde4356b631c3aef78687f2c53a02b",
+					"hash": "4e5de35db609ca12df5838ed32bbac76c56eda3ad135d3f91682849c633cd22faee15a14cd6cdd58dc0e90439399fa7c2e72c7e14d7d92cead1b8565299eeb0d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/jyRMZGAr/gik-1.8.1.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/grcwGriJ/gik-1.8.2.jar"
 				},
-				"filename": "gik-1.8.1.jar",
+				"filename": "gik-1.8.2.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "910ceb069b0407dfe4e6e11f67ceddd9a815a6a6d59b35e8c4b7eb343db54ff3"
+		"key": "d66c1a625eab81d44ba41fe814c9d0f454789932eafeecf62a8b59a4abe5870c"
 	},
 	"grow-your-crystal": {
 		"files": {
 			"mods/grow-your-crystal.pw.toml": {
 				"download": {
-					"hash": "43a968c8871ed03e2717c5ce85bb2553442b8df8999ad05590197443f8126b546f98dda1195bf6bda0b2fc5b42d7ca7e85938baf5fc497278cc61f49d6d69385",
+					"hash": "9a65f13b7651c687d4e790e03f17d1ef17879da5f9137f22199d1443e41abb5316c21dba88bfb45b2ce477fbdbf511e9406bf54e3906b1f2d0940b48e459a9f0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rn1T5YER/versions/29txo1ls/grow-your-crystal-1.0.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/rn1T5YER/versions/TQPd3u3G/grow-your-crystal-1.0.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "grow-your-crystal-1.0.2+fabric-1.21.8.jar",
+				"filename": "grow-your-crystal-1.0.3+fabric-1.21.8.jar",
 				"name": "Grow Your Crystal",
 				"side": "both"
 			}
 		},
-		"key": "06b697cab4631eabd51e4efb84455c0ba348ad09c82b52be78b5cc251e9e55cb"
+		"key": "7c383841b7e9e98dd8879a93a730239748bcd124438dcd62f01aae74ce4b290b"
 	},
 	"gunner": {
 		"files": {
