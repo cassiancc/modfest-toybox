@@ -3,16 +3,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "bb8fc7d4bdce81a26c1b652da26d1bf549b851c6f3dfb943ffd25541b531278e18c2509ac6288a9a64e4e783c73d0ff1f98a4077960b8b9be466b8cc7e765f9a",
+					"hash": "d62de2738f14c7f9c243f6c0e2058019c892b23baf55b904e1f318cec3023098cb90a21b0600ecaa107e7ff50ada7a73d74208498da657140fa2f0bad0dad4c8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/8uMboK5h/action_mobs-0.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/3EuWDuhc/action_mobs-0.3.4.jar"
 				},
-				"filename": "action_mobs-0.3.1.jar",
+				"filename": "action_mobs-0.3.4.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "285a05738b1f899f46a185c0c06db1dc63b0cc8595e909717b867af8579c88f9"
+		"key": "a7f98f5aec2998452c27b09ec4e3ce84c22c15c56ec876f3541fb0f48c74bb87"
 	},
 	"be-a-doll": {
 		"files": {
@@ -118,11 +118,11 @@
 		"files": {
 			"mods/chiseled-mod.pw.toml": {
 				"download": {
-					"hash": "cd8f13e6955d18f96cacb29eb327a863717038a77fbd450ef312bbe04ac1460b173a382ca4d3fcc17451d565f2b714aad90a8e749b45ded147056c3240a19dc9",
+					"hash": "d9638cb4d1343a94983395080ae8c1895b4eae241d34d55c044e458b5528fcc39f5e95426855aad1d08f748dcf9cbdf93cef2f04eb2f86bb9e06c92db880bc95",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/kegWkySw/chiseled-fabric-1.21.8-1.1.0-alpha.jar"
+					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/Z3L1xEeP/chiseled-fabric-1.21.8-1.2.0-alpha.jar"
 				},
-				"filename": "chiseled-fabric-1.21.8-1.1.0-alpha.jar",
+				"filename": "chiseled-fabric-1.21.8-1.2.0-alpha.jar",
 				"name": "Chiseled",
 				"side": "both"
 			},
@@ -147,7 +147,7 @@
 				"side": "both"
 			}
 		},
-		"key": "c3510a860768f1f192bc66e4ea84b94f3546e49f9ab6c0f4fe1cf48a30ffaaa4"
+		"key": "2bd1855895b963357b4016e181080aa1ea949799d0e7c8ee166934a04c374809"
 	},
 	"chorus-honey": {
 		"files": {
@@ -438,11 +438,11 @@
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
-					"hash": "a25782c82012e672aec7afec1a60f4da88918cdbcd0f2c463ac2f22a37470d121b7e6ad8966f23b4a0b5ada5fd43568e1fe3b8dbb7442cf0d18a8e4b7695b454",
+					"hash": "1649860c5e2056fc6ee71c58d73b55030f75e0df3e4284270a0159c01fe34e81003bafbb3d41ec788f27c451df9d6660d7c121247b4416c20ebb13fb8b8c60a3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/NtCt96F5/Flying-Frisbees-1.0.3%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/wqjqPiQF/Flying-Frisbees-1.0.4%2Bfabric-1.21.8.jar"
 				},
-				"filename": "Flying-Frisbees-1.0.3+fabric-1.21.8.jar",
+				"filename": "Flying-Frisbees-1.0.4+fabric-1.21.8.jar",
 				"name": "Flying Frisbees",
 				"side": "both"
 			},
@@ -457,7 +457,7 @@
 				"side": "both"
 			}
 		},
-		"key": "6990bfe2b59ff484d3e3ae8ffff07f544cea9b55d8a8b23b65cd7a902e331dd4"
+		"key": "52471ea863e92aa33afce40b31119c77f021ea9376987f91377d7ff3f78e69c0"
 	},
 	"googun": {
 		"files": {
@@ -683,16 +683,16 @@
 		"files": {
 			"mods/kaleidoscopes.pw.toml": {
 				"download": {
-					"hash": "f204a2540d84992da34bcc27992dcabd552d301fec1699601127fbc8b30f8eb32ce922f3e3ccae7ced1ab256df5cd1fdd8d1b0a2e983912dd38aea44741fcf08",
+					"hash": "eae513f37e3f045cbf45876687476b27adddf74f74b9d3d202a491eefac48b02bc8729977dbc3beb00add85b958a80ccb7202b2d93a1f22fef54a516d8ab1a78",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/SmbOjVpX/versions/FGgKqKyc/kaleidoscopes-0.2.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/SmbOjVpX/versions/XG2ZZUDh/kaleidoscopes-0.2.5%2Bfabric-1.21.8.jar"
 				},
-				"filename": "kaleidoscopes-0.2.1+fabric-1.21.8.jar",
+				"filename": "kaleidoscopes-0.2.5+fabric-1.21.8.jar",
 				"name": "Kaleidoscopes",
 				"side": "both"
 			}
 		},
-		"key": "e081e51efb1e1f4f67ffe05558295bfbc6f4e0aa7e37f5a1c876d7d31ff3068d"
+		"key": "426ed944156f5ffded97cde3696ea91b97ba510c97fd1f81444aa2d9445b1514"
 	},
 	"laseredstone": {
 		"files": {
@@ -798,16 +798,16 @@
 			},
 			"mods/manikin.pw.toml": {
 				"download": {
-					"hash": "4e6f57fe6d3393ded0955c15ac2a732ea988374fe3a5a4d5ce8566e4cda26de31e65678c49b790f53b6f5161e7427abb95db74b5b8904298f37b9844affaa7cd",
+					"hash": "bd49aa5775b104a289588a0fc8491e43941939a12da97c57f8e2ae4140313ea0457921fcc365329707f66d0d4671bcc416c3e3edd5fa728ff213eb5b673ef02d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/ZyWoQHNX/mannequin-0.1.1-beta.jar"
+					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/gU5piMA8/mannequin-0.1.2-beta.jar"
 				},
-				"filename": "mannequin-0.1.1-beta.jar",
+				"filename": "mannequin-0.1.2-beta.jar",
 				"name": "Mannequin",
 				"side": "both"
 			}
 		},
-		"key": "20030c6f52d417ba57d9ab59e963d259eee5dbec669a99e711c6095787a0eb8f"
+		"key": "1b46f6fda03b0178585388243801b993a28f72d5e213c6ea7c01d08d344af1eb"
 	},
 	"mica-runes": {
 		"files": {
@@ -993,16 +993,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "33c339831f5bf20253e6aa099ad3a5bba4441bfd26c6bf25882220ecf273ffc90677b81abf8e229f9812a7c2eeb2590855acb994e54f9b5bdd2d6ffffeac5260",
+					"hash": "72d52aad31a652535ca789e5e3eb19e656329816b510a44ffa746ab47edea14ba2e81412ebe85c6b0fea935f95513699e6ae54e7f0f7a8333abbf4b191cf719a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/12P1UmhI/occmy-L.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/HsFdlyIZ/occmy-N.jar"
 				},
-				"filename": "occmy-L.jar",
+				"filename": "occmy-N.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "fe8dc30cf5bcff42e2b29023f367e6f2d94c2269e2540732ccf9d27b4db0d8a7"
+		"key": "c89c1a72e462fa4f445099bbf2a04d9147403a53452ffddaeeaaf6d419a212fe"
 	},
 	"paintbrush-mod": {
 		"files": {
@@ -1043,16 +1043,16 @@
 			},
 			"mods/playful-planes.pw.toml": {
 				"download": {
-					"hash": "aa88af9d422782acc336794fb699581cf683a0b3666252fef8257fdea006886bb01d5e2aa09d0933853f9769ba7153bafe19183f29a9dd4d6d1430035fc0ffef",
+					"hash": "76bf52bc6cc4c69c37b8dedea6d1637b3e08a1c8312985a18f80bc6da9051da08f784bce1c4bb31d8ffd9e896b4d742defdc6e632d8052668a59971d1e1db459",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/1U1JDp3u/playful-planes-0.1.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/WvjxhgxA/playful-planes-0.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "playful-planes-0.1.1+fabric-1.21.8.jar",
+				"filename": "playful-planes-0.1.2+fabric-1.21.8.jar",
 				"name": "Playful Planes",
 				"side": "both"
 			}
 		},
-		"key": "64bd2d9454694420e5d09948be2b6ed6786fa65e143e3be6e0ba0c8e5aa4b1c8"
+		"key": "375da66991c5cdfba416a742c040d34b92c9ae2f7a57fbcc37f51bf00607443e"
 	},
 	"potato-head": {
 		"files": {
@@ -1388,16 +1388,16 @@
 			},
 			"mods/toy-bricks.pw.toml": {
 				"download": {
-					"hash": "6b402640c76d8fbf24c5339df3ef3b487f51d7c9263c6f87a69f7cdf94e7ea30a15fa84db63be69ad311d4ec97996c199f14d2979e10cfed76452599a9356445",
+					"hash": "2fd01331558c351abcbf75376dfd18c96b03a142ece95bd0beb373b24e488af49b28bd121893518571ec969c4004a8655c27be9c7d02e4019b58853395ab7f95",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mEnssXmJ/versions/nKyw6REb/ToyBricks-0.2.1.jar"
+					"url": "https://cdn.modrinth.com/data/mEnssXmJ/versions/KX6SEVWh/ToyBricks-0.2.2.jar"
 				},
-				"filename": "ToyBricks-0.2.1.jar",
+				"filename": "ToyBricks-0.2.2.jar",
 				"name": "Toy Bricks",
 				"side": "both"
 			}
 		},
-		"key": "a715794ae7617107781b65b6302e913375a7a31b1a9bcb146bd4c7fd0d4f1864"
+		"key": "8cc328d6e3055acc80be24ee4a7c098d6a4802063fb096a5ddacace54afabbd4"
 	},
 	"toy-water-gun": {
 		"files": {
@@ -1423,16 +1423,16 @@
 			},
 			"mods/toy-water-gun.pw.toml": {
 				"download": {
-					"hash": "3cc2f0e3a94e43cbfe60e0dc847abc50fc8d6fc3ac2e66e8c4cb70f7cca63739d6c2c91834ce38ff59869a9a56c3a818322a5d8b0e0631b7f1863117c9b54a1c",
+					"hash": "9693ae416f18cba1d643bd2da81714d60ae53cbe6055554ad8ec73101b8788fd9fde354023043b97cac9209cb35f0313f485de2cc58d044f4c60542ab5b1203f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LMa5KG8r/versions/iwHcdZPj/toywatergun-1.0.0-hotfix-1-modfest.jar"
+					"url": "https://cdn.modrinth.com/data/LMa5KG8r/versions/uSRbN0wl/toywatergun-1.0.0-hotfix-2.jar"
 				},
-				"filename": "toywatergun-1.0.0-hotfix-1-modfest.jar",
+				"filename": "toywatergun-1.0.0-hotfix-2.jar",
 				"name": "Toy Water Gun",
 				"side": "both"
 			}
 		},
-		"key": "0f19b166002d64994a495f3fc72841a9cfc497aacd5673c7f06800fc3f3a069d"
+		"key": "4913ff72b2821032451f0472c82ec123df45057c5e57a26c6701277b93c2065b"
 	},
 	"volo-volare": {
 		"files": {
@@ -1538,15 +1538,15 @@
 			},
 			"mods/zip-to-it.pw.toml": {
 				"download": {
-					"hash": "85fe4c569a9ff83495a99b30a14cd426815aec67cf91ceeb17464f7d7b14dae5f2ad0d71a0f290ff03042d3f49a8397c424f8d402b780711864bb6ed83461fb0",
+					"hash": "8ecb324c9b323033c1e3cbdbc9fad6b593297b29fb9ca314ebfbe429546b249e34dc14c97d859daa9d3b4f5dca6b67d02a81aa3078d3796747b5cf4b91fadb85",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/vbs8bHSN/zip-to-it-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/9oojbQUK/zip-to-it-1.0.1.jar"
 				},
-				"filename": "zip-to-it-1.0.0.jar",
+				"filename": "zip-to-it-1.0.1.jar",
 				"name": "Zip To It!",
 				"side": "both"
 			}
 		},
-		"key": "3a02167211bbe7fb29eafd0a45a8d238a71634b9afe0a11b58bf976607d6e32f"
+		"key": "a63b808a8b5a02f1fdf4881662a06178c868102666d837f01f563b1773eb4282"
 	}
 }
