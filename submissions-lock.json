@@ -994,7 +994,7 @@
 	},
 	"more_than_a_foxbox": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -1146,16 +1146,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "33c339831f5bf20253e6aa099ad3a5bba4441bfd26c6bf25882220ecf273ffc90677b81abf8e229f9812a7c2eeb2590855acb994e54f9b5bdd2d6ffffeac5260",
+					"hash": "2f2801a85c9d48f4f3d1bffdbad9fc8c15499237fd33b1bdadc756821b6f0a15bb5decc7ea4045f6f00323aba8f9f22c12fb79aef5a8fdac3b049e2a5d5d235d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/12P1UmhI/occmy-L.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/6qT0IDlJ/occmy-M.jar"
 				},
-				"filename": "occmy-L.jar",
+				"filename": "occmy-M.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "fe8dc30cf5bcff42e2b29023f367e6f2d94c2269e2540732ccf9d27b4db0d8a7"
+		"key": "56e6a42fac9533180e488cae2e7c133dd7edc0877fa56db01599b5cf89fae50b"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1204,16 +1204,16 @@
 			},
 			"mods/playful-planes.pw.toml": {
 				"download": {
-					"hash": "aa88af9d422782acc336794fb699581cf683a0b3666252fef8257fdea006886bb01d5e2aa09d0933853f9769ba7153bafe19183f29a9dd4d6d1430035fc0ffef",
+					"hash": "76bf52bc6cc4c69c37b8dedea6d1637b3e08a1c8312985a18f80bc6da9051da08f784bce1c4bb31d8ffd9e896b4d742defdc6e632d8052668a59971d1e1db459",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/1U1JDp3u/playful-planes-0.1.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/WvjxhgxA/playful-planes-0.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "playful-planes-0.1.1+fabric-1.21.8.jar",
+				"filename": "playful-planes-0.1.2+fabric-1.21.8.jar",
 				"name": "Playful Planes",
 				"side": "both"
 			}
 		},
-		"key": "64bd2d9454694420e5d09948be2b6ed6786fa65e143e3be6e0ba0c8e5aa4b1c8"
+		"key": "375da66991c5cdfba416a742c040d34b92c9ae2f7a57fbcc37f51bf00607443e"
 	},
 	"potato-head": {
 		"checks": {
@@ -1783,15 +1783,15 @@
 			},
 			"mods/zip-to-it.pw.toml": {
 				"download": {
-					"hash": "85fe4c569a9ff83495a99b30a14cd426815aec67cf91ceeb17464f7d7b14dae5f2ad0d71a0f290ff03042d3f49a8397c424f8d402b780711864bb6ed83461fb0",
+					"hash": "8ecb324c9b323033c1e3cbdbc9fad6b593297b29fb9ca314ebfbe429546b249e34dc14c97d859daa9d3b4f5dca6b67d02a81aa3078d3796747b5cf4b91fadb85",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/vbs8bHSN/zip-to-it-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/9oojbQUK/zip-to-it-1.0.1.jar"
 				},
-				"filename": "zip-to-it-1.0.0.jar",
+				"filename": "zip-to-it-1.0.1.jar",
 				"name": "Zip To It!",
 				"side": "both"
 			}
 		},
-		"key": "3a02167211bbe7fb29eafd0a45a8d238a71634b9afe0a11b58bf976607d6e32f"
+		"key": "a63b808a8b5a02f1fdf4881662a06178c868102666d837f01f563b1773eb4282"
 	}
 }
