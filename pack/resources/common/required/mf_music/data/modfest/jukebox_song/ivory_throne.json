@@ -1,0 +1,10 @@
+{
+	"comparator_output": 1,
+	"description": {
+		"translate": "modfest.music.ivory_throne"
+	},
+	"length_in_seconds": 303.0,
+	"sound_event": {
+		"sound_id": "modfest:music.ivory_throne"
+	}
+}
