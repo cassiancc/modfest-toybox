@@ -1,0 +1,13 @@
+name = "Multi World Borders"
+filename = "multiworldborders-1.8.0-fabric-1.21.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7MroYMU/versions/kv3i2qaP/multiworldborders-1.8.0-fabric-1.21.5.jar"
+hash-format = "sha512"
+hash = "c51b12d70f71fb34d0684c8b685f9a65da1d2422b9d566184f1987298696bb340f98d2ec253a7630cac39277139a6ec8e860ec8d66da14072a21a86c3dc037ff"
+
+[update]
+[update.modrinth]
+mod-id = "M7MroYMU"
+version = "kv3i2qaP"

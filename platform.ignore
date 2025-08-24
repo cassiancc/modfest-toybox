@@ -2,3 +2,16 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
+# loading client classes on server
+dronebox# DroneControllerItem
+#action-mobs# ActionMobBlock
+
+# polymer sync causes custom_payload kick on join
+paintbrush-mod
+
+# needs sandboxing
+dronebox
+
+# placed rune crashes clients
+# intentional crash meme
+#mica-runes

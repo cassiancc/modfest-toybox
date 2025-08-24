@@ -1,13 +1,13 @@
 name = "Meret"
-filename = "meret-0.2.0+1.21.7.jar"
+filename = "meret-0.2.1+1.21.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bPOBctsH/versions/4MPkdvF1/meret-0.2.0%2B1.21.7.jar"
+url = "https://cdn.modrinth.com/data/bPOBctsH/versions/SKli8n9N/meret-0.2.1%2B1.21.7.jar"
 hash-format = "sha512"
-hash = "54b49d2b79ae5a1c86d440abef16ddb619d0a0013496579f4b21c73987176c4abde425d9f1e52d4a67e9c74e4c4e4b93dcd17b029a89e76af9b58b664f3d76b5"
+hash = "f8bf7a7db935ef5f0cba170dea3c4d95a717fc73355ea82d0266ffab81fe2563434769287ff7235c23f16f860cb526f5b756c90897ef69ada03fdb55a10d7c25"
 
 [update]
 [update.modrinth]
 mod-id = "bPOBctsH"
-version = "4MPkdvF1"
+version = "SKli8n9N"

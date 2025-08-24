@@ -669,6 +669,16 @@
 				"filename": "hattened-1.0.0.jar",
 				"name": "The Mad Hatter",
 				"side": "both"
+			},
+			"mods/playeranimator.pw.toml": {
+				"download": {
+					"hash": "3d9afe37baec6bbf2615883c32b7d1ade18767e90bc2360151b15d9c11e33910c326e49e486f2f3d84409eb3ad9f70d40b59555bc4a8a072ebf6a4511f6b68a2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/gedNE4y2/versions/t3YH4W4D/player-animation-lib-fabric-2.0.2%2B1.21.7.jar"
+				},
+				"filename": "player-animation-lib-fabric-2.0.2+1.21.7.jar",
+				"name": "playerAnimator",
+				"side": "both"
 			}
 		},
 		"key": "13d5819c6f17a1d90d69ebaf7938fca2e3a8ffc11e3b5e2e2411af7f65c76816"
