@@ -1,4 +1,20 @@
 {
+	"music.antiquity": {
+		"sounds": [
+			{
+				"name": "modfest:music/antiquity",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.antiquity": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/antiquity",
+				"stream": true
+			}
+		]
+	},
 	"music.three": {
 		"sounds": [
 			{
