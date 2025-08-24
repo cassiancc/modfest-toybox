@@ -1146,16 +1146,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "2f2801a85c9d48f4f3d1bffdbad9fc8c15499237fd33b1bdadc756821b6f0a15bb5decc7ea4045f6f00323aba8f9f22c12fb79aef5a8fdac3b049e2a5d5d235d",
+					"hash": "72d52aad31a652535ca789e5e3eb19e656329816b510a44ffa746ab47edea14ba2e81412ebe85c6b0fea935f95513699e6ae54e7f0f7a8333abbf4b191cf719a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/6qT0IDlJ/occmy-M.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/HsFdlyIZ/occmy-N.jar"
 				},
-				"filename": "occmy-M.jar",
+				"filename": "occmy-N.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "56e6a42fac9533180e488cae2e7c133dd7edc0877fa56db01599b5cf89fae50b"
+		"key": "c89c1a72e462fa4f445099bbf2a04d9147403a53452ffddaeeaaf6d419a212fe"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1266,7 +1266,7 @@
 	"rc-toys": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/rc-toys.pw.toml": {
