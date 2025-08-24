@@ -9,6 +9,7 @@
 				"modfest.organizer": "allow",
 				"worldedit.*": "allow",
 				"scattered_shards.*": "allow",
+				"pbwarps.warps_command": "allow",
 				"styledchat.set": "allow",
 				"styledchat.clear": "allow"
 			},
@@ -41,6 +42,7 @@
 				"scattered_shards.command.block": "allow",
 				"scattered_shards.modify_shard": "allow",
 				"armor_stand_editor.*": "allow",
+				"pbwarps.warps_command": "deny",
 				"styledchat.set": "deny",
 				"styledchat.clear": "deny"
 			},
@@ -71,3 +73,4 @@
 		}
 	}
 }
+
