@@ -175,7 +175,7 @@ file = "config/glowcase.toml"
 file = "config/hoofprint.toml"
 
 [[files]]
-file = "config/item-descriptions.json"
+file = "config/item_descriptions.toml"
 
 [[files]]
 file = "config/meret.toml"
@@ -295,10 +295,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.8.3+toybox-1.21.7.jar"
+file = "mods/fireblanket-0.8.5+toybox-1.21.7.jar"
 
 [[files]]
-file = "mods/glowcase-2.3.0+1.21.jar"
+file = "mods/glowcase-2.3.2+1.21.7.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -435,46 +435,184 @@ file = "options.txt"
 file = "resources/common/required/mf_music/assets/minecraft/sounds.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/hand_me_down.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/how_i_dance.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/interloc.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/ivory_throne.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/notholirion.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/timeout.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/dormant.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/antiquity.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/models/item/music/prologue.json"
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/hand_me_down.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/how_i_dance.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/interloc.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/ivory_throne.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/notholirion.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/timeout.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds.json"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/dormant.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/antiquity.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/prologue.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/hand_me_down.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/dormant.ogg"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/how_i_dance.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/interloc.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/ivory_throne.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/notholirion.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/antiquity.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/hand_me_down.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/how_i_dance.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/interloc.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ivory_throne.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/notholirion.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/prologue.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/dormant.png"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/three.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/prologue.png"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/timeout.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/dormant.json"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/three.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/prologue.json"
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/timeout.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/dormant.json"
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/antiquity.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hand_me_down.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/how_i_dance.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/interloc.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/ivory_throne.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/notholirion.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/three.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/timeout.png"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/hand_me_down.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/how_i_dance.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/interloc.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/ivory_throne.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/notholirion.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/antiquity.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/hand_me_down.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/how_i_dance.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/interloc.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ivory_throne.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/notholirion.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/prologue.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/timeout.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/timeout.json"
 
 [[files]]
 file = "resources/common/required/mf_music/pack.mcmeta"
@@ -568,6 +706,15 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/toybox_paintings/data/minecraft/tags/painting_variant/placeable.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/painting_variant/bnuiy.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_paintings/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
@@ -745,6 +892,12 @@ file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
+
+[[files]]
+file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/bnuiy.png"
+
+[[files]]
+file = "resources/resourcepack/required/toybox_paintings/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"

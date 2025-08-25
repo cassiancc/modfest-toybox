@@ -143,14 +143,6 @@
 			}
 		]
 	},
-	"music.prologue": {
-		"sounds": [
-			{
-				"name": "modfest:music/prologue",
-				"stream": true
-			}
-		]
-	},
 	"music.stereo.prologue": {
 		"sounds": [
 			{

@@ -247,7 +247,7 @@
   {
     "comment": "key.waila.show_overlay",
     "translation": "Show Overlay",
-    "key": "key.keyboard.unknown"
+    "key": "key.keyboard.left.alt"
   },
   {
     "comment": "key.waila.show_recipe_input",

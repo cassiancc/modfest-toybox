@@ -11,10 +11,10 @@
 
 	"gui.scattered_shards.tablet.click_on_a_shard": "Click on a Virtual Pet to the left",
 
-	"shard_type.modfest.visitor.description": "First-Generation Virtual Pet",
-	"shard_type.modfest.bonus_1.description": "Step-Counting Virtual Pet",
-	"shard_type.modfest.bonus_2.description": "Color-Screen Virtual Pet",
-	"shard_type.modfest.bonus_3.description": "Internet-Enabled Virtual Pet",
+	"shard_type.scattered_shards.visitor.description": "First-Generation Virtual Pet",
+	"shard_type.scattered_shards.bonus_1.description": "Step-Counting Virtual Pet",
+	"shard_type.scattered_shards.bonus_2.description": "Color-Screen Virtual Pet",
+	"shard_type.scattered_shards.bonus_3.description": "Internet-Enabled Virtual Pet",
 
 	"shard_pack.cantilever.name": "Cantilever"
 }
