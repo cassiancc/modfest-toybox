@@ -175,7 +175,7 @@ file = "config/glowcase.toml"
 file = "config/hoofprint.toml"
 
 [[files]]
-file = "config/item-descriptions.json"
+file = "config/item_descriptions.toml"
 
 [[files]]
 file = "config/meret.toml"
@@ -541,6 +541,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/timeout.o
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/antiquity.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/hand_me_down.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/how_i_dance.png"
