@@ -10,8 +10,6 @@ from typing import Any, TypeAlias, TypedDict
 import common
 import tomli_w
 
-from scripts.common import get_current_git_branch
-
 
 def main():
 	repo_root = common.get_repo_root()
@@ -31,7 +29,7 @@ def main():
 	exclusions = list(filter(lambda l : len(l) > 0, [re.sub("#.*", "", l.strip()) for l in common.read_file(exclude_file).split("\n")]))
 	used_exclusions = []
 
-	test_mode = "test" in get_current_git_branch()
+	test_mode = "test" in common.get_current_git_branch()
 
 	priorities: dict[str, int] = defaultdict(lambda: -1)
 	files: dict[str, Any] = {}
