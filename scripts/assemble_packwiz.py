@@ -29,7 +29,10 @@ def main():
 	exclusions = list(filter(lambda l : len(l) > 0, [re.sub("#.*", "", l.strip()) for l in common.read_file(exclude_file).split("\n")]))
 	used_exclusions = []
 
-	test_mode = "test" in common.get_current_git_branch()
+	branch_name = common.get_current_git_branch()
+	test_mode = "test" in branch_name
+
+	print(f"brach name {branch_name}, test mode {test_mode}")
 
 	priorities: dict[str, int] = defaultdict(lambda: -1)
 	files: dict[str, Any] = {}
