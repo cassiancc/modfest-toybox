@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "16ac065b7ba59e25fe477cf08cacd2d04597179ef37eea4e7dade792dc786cc4317d300cc5dcdbe1073409840e7946502a7f9f94decc795263477268f6f9d298",
+					"hash": "8dbc0d29b4fc44b4a7e9897e0ece1f60cf5e48b934bac07dd8132bb973f06aa6eb45e3575d0d3c6bec086412fb1c069703c8576395e9499f5137eaeb0ed2d3d6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/2692Gm1x/action_mobs-0.3.5.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/4T2S8aF7/action_mobs-0.3.6.jar"
 				},
-				"filename": "action_mobs-0.3.5.jar",
+				"filename": "action_mobs-0.3.6.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "cbb4453368ae43caa047d5f4a681f5c00971f3b780e251c518c49bf2f01b390e"
+		"key": "0662353098f331c88ba6c41e1af34646a9cbfbe779f3e481f9bc084850058aed"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -807,16 +807,16 @@
 		"files": {
 			"mods/laseredstone.pw.toml": {
 				"download": {
-					"hash": "22fad441b8c9b40e0f0a4b7aa22f97551a1b762eb8cdea91bc3ffd3b74a92b72f94440852b7bad40385f18be68a67dafbd2d5f612da71c83ddd1b95a16a19e7c",
+					"hash": "b3db33d4d53d2b9ca7016d83e51278781eb5cfbf8dcdbeaea303fc0ceb085f35ba94c72561cdc8b113d65483264b15fac6f13be7c9eb402edbcde735c78539de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/iJozmDvn/laseredstone-1.0.4%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/BgDQhuS2/laseredstone-1.0.5%2B1.21.8.jar"
 				},
-				"filename": "laseredstone-1.0.4+1.21.8.jar",
+				"filename": "laseredstone-1.0.5+1.21.8.jar",
 				"name": "Laseredstone",
 				"side": "both"
 			}
 		},
-		"key": "8dad8806bdeeb66ddb4d843d8b0646f8cc0e0e5a5f36baeb07abe86dc8b82496"
+		"key": "d5afa2d44066a07ba9488903ced374c199c381421913de4afdf2f14d26302713"
 	},
 	"lifelike": {
 		"checks": {
@@ -1146,16 +1146,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "f5e322c141811d238b942e5513a4ca89ef32571350d6febdc08ed5fbed0a54bfdc45329de567a5de437ee3b44539e201b40be25b02bc6e984adf60dc28758a88",
+					"hash": "7408100967f2984dd42e1ab05210bce9e0cae71360de69f48556e03f6a1477eed947ce7590f919ff997e22aaac913ed4ef25c412a1576e1785edaeefeaa184c0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/B0k9ECWO/occmy-O.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/l4eRmo5m/occmy-P.jar"
 				},
-				"filename": "occmy-O.jar",
+				"filename": "occmy-P.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "5403e3fc4e2ff0ae207eb9e783e5cd462863313636f557bf7b5aef79b36190e3"
+		"key": "2d894b95c43691095ac8a13eb8659383f67ebe01cd6d31051c610f9bbc197137"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1767,8 +1767,8 @@
 	},
 	"zip-to-it": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
