@@ -1,4 +1,84 @@
 {
+	"music.notholirion": {
+		"sounds": [
+			{
+				"name": "modfest:music/notholirion",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.notholirion": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/notholirion",
+				"stream": true
+			}
+		]
+	},
+	"music.timeout": {
+		"sounds": [
+			{
+				"name": "modfest:music/timeout",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.timeout": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/timeout",
+				"stream": true
+			}
+		]
+	},
+	"music.ivory_throne": {
+		"sounds": [
+			{
+				"name": "modfest:music/ivory_throne",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.ivory_throne": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/ivory_throne",
+				"stream": true
+			}
+		]
+	},
+	"music.interloc": {
+		"sounds": [
+			{
+				"name": "modfest:music/interloc",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.interloc": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/interloc",
+				"stream": true
+			}
+		]
+	},
+	"music.antiquity": {
+		"sounds": [
+			{
+				"name": "modfest:music/antiquity",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.antiquity": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/antiquity",
+				"stream": true
+			}
+		]
+	},
 	"music.three": {
 		"sounds": [
 			{

@@ -38,13 +38,21 @@ def main():
 		
 		if platformid in exclusions:
 			used_exclusions.append(platformid)
-			print(f"skipping submission {platformid}")
+			print(f"ignoring submission {platformid}")
+			continue
+        
+		if not moddata["checks"]["tested"]:
+			print(f"skipping untested  submission {platformid}")
+			continue
+
+		if not moddata["checks"]["claimed"]:
+			print(f"skipping unclaimed submission {platformid}")
 			continue
 
 		for filename, filedata in moddata["files"].items():
 			if filename in exclusions:
 				used_exclusions.append(filename)
-				print(f"skipping file {filename}")
+				print(f"ignoring file {filename}")
 				continue
 			
 			# For if multiple submissions have the same file
