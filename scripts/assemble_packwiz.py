@@ -45,7 +45,7 @@ def main():
 
 		if not test_mode:
 			if not moddata["checks"]["tested"]:
-				print(f"skipping untested  submission {platformid}")
+				print(f"skipping untested submission {platformid}")
 				continue
 
 			if not moddata["checks"]["claimed"]:

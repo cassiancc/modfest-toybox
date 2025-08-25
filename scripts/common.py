@@ -51,6 +51,8 @@ def get_repo_root() -> Path:
 	return Path(os.path.join(os.path.dirname(__file__), '..'))
 
 def get_current_git_branch():
+	if env("BRANCH_OVERRIDE", default=None):
+		return env("BRANCH_OVERRIDE")
 	try:
 		# Run the git command to get the current branch name
 		branch_name = subprocess.check_output(
