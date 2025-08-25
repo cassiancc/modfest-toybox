@@ -24,9 +24,9 @@ def naughty_list():
 	print(submissions_url)
 	for submission in json.loads(requests.get(submissions_url).text):
 		if submission["images"]["test"] is None:
-			submissions_comments[submission["id"]] = "no test lot submitted"
+			submissions_comments[submission["id"]] = submissions_comments[submission["id"]] + ", no test lot" if submission["id"] in submissions_comments else "no test lot"
 		if submission["images"]["claim"] is None:
-			submissions_comments[submission["id"]] = "no booth claim submitted"
+			submissions_comments[submission["id"]] = submissions_comments[submission["id"]] + ", no booth claim" if submission["id"] in submissions_comments else "no booth claim"
 		if submission["id"] not in submissions_comments:
 			continue
 		submissions[submission["id"]] = submission
