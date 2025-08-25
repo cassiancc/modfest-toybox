@@ -1,20 +1,28 @@
 {
 	"action-mobs": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "16ac065b7ba59e25fe477cf08cacd2d04597179ef37eea4e7dade792dc786cc4317d300cc5dcdbe1073409840e7946502a7f9f94decc795263477268f6f9d298",
+					"hash": "8dbc0d29b4fc44b4a7e9897e0ece1f60cf5e48b934bac07dd8132bb973f06aa6eb45e3575d0d3c6bec086412fb1c069703c8576395e9499f5137eaeb0ed2d3d6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/2692Gm1x/action_mobs-0.3.5.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/4T2S8aF7/action_mobs-0.3.6.jar"
 				},
-				"filename": "action_mobs-0.3.5.jar",
+				"filename": "action_mobs-0.3.6.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "cbb4453368ae43caa047d5f4a681f5c00971f3b780e251c518c49bf2f01b390e"
+		"key": "0662353098f331c88ba6c41e1af34646a9cbfbe779f3e481f9bc084850058aed"
 	},
 	"be-a-doll": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
@@ -40,6 +48,10 @@
 		"key": "dee7f5d868ee9f61184fb61eb5f700913653f4461e572d2a8d29299f5b6edde8"
 	},
 	"bloub4mc": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/bloub4mc.pw.toml": {
 				"download": {
@@ -55,6 +67,10 @@
 		"key": "f2c696a77d152b773ff171f7fead8a83783aa34b2e646674341062320001e455"
 	},
 	"blowing-bubbles": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/blowing-bubbles.pw.toml": {
 				"download": {
@@ -100,6 +116,10 @@
 		"key": "f0e7dae7a9f9fa0732dbba026e5abc99a7c93f031ba37a25ead02e3ec51fa405"
 	},
 	"boing!": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/boing!.pw.toml": {
 				"download": {
@@ -115,6 +135,10 @@
 		"key": "dcdfcba1fb88774d636811030677b9c46ba5cadc33f2d5be49b38608ffa0556c"
 	},
 	"chiseled-mod": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/chiseled-mod.pw.toml": {
 				"download": {
@@ -150,6 +174,10 @@
 		"key": "2bd1855895b963357b4016e181080aa1ea949799d0e7c8ee166934a04c374809"
 	},
 	"chorus-honey": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/chorus-honey.pw.toml": {
 				"download": {
@@ -175,6 +203,10 @@
 		"key": "1adad45c8cbb7842001e03828f51f00c27d73a6bc717c97d671f3540ef621eb9"
 	},
 	"citsabmob": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/citsabmob.pw.toml": {
 				"download": {
@@ -200,6 +232,10 @@
 		"key": "6b06fd63cc98efcb9ab21a07b91757c39c9875f2f581c336e4d3d323499e6ddc"
 	},
 	"confetti-cannon": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/confetti-cannon.pw.toml": {
 				"download": {
@@ -225,6 +261,10 @@
 		"key": "180bc5ca97a031b3c02191dbd27c67e1a52b09f34ba4f21d3b6c7d9ad9d96261"
 	},
 	"confettinator": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/confettinator.pw.toml": {
 				"download": {
@@ -250,6 +290,10 @@
 		"key": "af3845d13446227fd11374f3e2f98338bc895fc8847f50854bbec4664ddfb52b"
 	},
 	"copper-cauldron": {
+		"checks": {
+			"claimed": false,
+			"tested": true
+		},
 		"files": {
 			"mods/copper-cauldron.pw.toml": {
 				"download": {
@@ -275,14 +319,18 @@
 		"key": "2a57390ae34ae490ec039bbd3a413814608491c2ca8929c8a1cbcf8e84fee42f"
 	},
 	"crazy-pogo": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/crazy-pogo.pw.toml": {
 				"download": {
-					"hash": "1772c0ed49ab9b2634f1ff408a468be935fbd2bc6e6b12d8b98c995590f16f4baa974d83567277489c5cd8c99bc75d5b1aba81940e243d768c1aca460f13e0a5",
+					"hash": "db9ca1c2c2ec94cc3c3953df27b7d98be732163889245e5c262224b1274cb7606a48231bc73b02d3b341531c572679c34349715a7237bb3f3402f6c83c9bd28d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/usSPHjzM/versions/cI3PEEua/crazy-pogo-0.2.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/usSPHjzM/versions/6D5drfOI/crazy-pogo-0.2.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "crazy-pogo-0.2.1+fabric-1.21.8.jar",
+				"filename": "crazy-pogo-0.2.2+fabric-1.21.8.jar",
 				"name": "Crazy Pogo",
 				"side": "both"
 			},
@@ -297,9 +345,13 @@
 				"side": "both"
 			}
 		},
-		"key": "e07a8147f415d3393512b723726472ff35ab2c39ed0b295af14453356ef1d4ac"
+		"key": "124ba0ca94f0d46a1f94ecccf67c6d701afa349ae9e3785dc5b8d5dfebca83fd"
 	},
 	"densha-no-omocha": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/densha-no-omocha.pw.toml": {
 				"download": {
@@ -315,6 +367,10 @@
 		"key": "28f0709bdd561ddcb8cbdcb60999700015513025a32e60e1fc82a0172ff067cb"
 	},
 	"diy-die": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/diy-die.pw.toml": {
 				"download": {
@@ -340,6 +396,10 @@
 		"key": "784308571f9d02c8a451a73762927868746831e1ff4d69d5136d7197ea7ed455"
 	},
 	"dominoes": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
@@ -365,6 +425,10 @@
 		"key": "856eef01e93f3ed9997b47933a685f84a5a65e99597aac4e15c54b497b2f59b2"
 	},
 	"dronebox": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/dronebox.pw.toml": {
 				"download": {
@@ -390,6 +454,10 @@
 		"key": "169aaa5f2d962d7f7b36e02d2fa5a64aca8975da488fc837d8ee1bf9e660a6f3"
 	},
 	"evl-toys": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/evl-toys.pw.toml": {
 				"download": {
@@ -405,6 +473,10 @@
 		"key": "5acd54ecc0d3403212ada59371b315f01ae72cffc7cdca9d96a36e79324befbc"
 	},
 	"eye_of_dreams": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
@@ -420,6 +492,10 @@
 		"key": "4e1d0fb4f1b55b57bf018142bdffd17f6aa440e3523ea92c989d7b2ecefb0344"
 	},
 	"five-guys-burgers-and-fries": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/five-guys-burgers-and-fries.pw.toml": {
 				"download": {
@@ -435,6 +511,10 @@
 		"key": "c541f73a37edefee5291b84a31a6feed49392a15283ca6642b4b22f64c79c496"
 	},
 	"flying-frisbees": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
@@ -460,6 +540,10 @@
 		"key": "52471ea863e92aa33afce40b31119c77f021ea9376987f91377d7ff3f78e69c0"
 	},
 	"googun": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/googun.pw.toml": {
 				"download": {
@@ -475,6 +559,10 @@
 		"key": "76436cb1bc6a1e3defa0ee0f89d80379b76d2abd9f00cd5e4dfb9f5e4f47c40b"
 	},
 	"grand-indestructible-kingdom": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -500,6 +588,10 @@
 		"key": "d66c1a625eab81d44ba41fe814c9d0f454789932eafeecf62a8b59a4abe5870c"
 	},
 	"grow-your-crystal": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/grow-your-crystal.pw.toml": {
 				"download": {
@@ -515,6 +607,10 @@
 		"key": "7c383841b7e9e98dd8879a93a730239748bcd124438dcd62f01aae74ce4b290b"
 	},
 	"gunner": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/cloth-config.pw.toml": {
 				"download": {
@@ -570,6 +666,10 @@
 		"key": "50169a8e3bcdb3e36fa2e4df1690c20b372fbef26ce5f2c18624226d1aec60ce"
 	},
 	"hattened": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-language-kotlin.pw.toml": {
 				"download": {
@@ -595,6 +695,10 @@
 		"key": "13d5819c6f17a1d90d69ebaf7938fca2e3a8ffc11e3b5e2e2411af7f65c76816"
 	},
 	"hero-statue": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -620,6 +724,10 @@
 		"key": "79fceedf07b62db41ad916f60002669fa6c74b512f5e27e30f0e42d33750a91b"
 	},
 	"hyper-silt": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -645,6 +753,10 @@
 		"key": "6cd7433bb1dfff6bb523c1674557f101374131f843616cb94c485792ba894850"
 	},
 	"jack-in-the-box": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -680,6 +792,10 @@
 		"key": "4e3e7ece72d62618eaca058f7ecf7323ce9fe1a2d36c7836b057bdab8c7d24ab"
 	},
 	"kaleidoscopes": {
+		"checks": {
+			"claimed": false,
+			"tested": true
+		},
 		"files": {
 			"mods/kaleidoscopes.pw.toml": {
 				"download": {
@@ -695,21 +811,29 @@
 		"key": "426ed944156f5ffded97cde3696ea91b97ba510c97fd1f81444aa2d9445b1514"
 	},
 	"laseredstone": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/laseredstone.pw.toml": {
 				"download": {
-					"hash": "22fad441b8c9b40e0f0a4b7aa22f97551a1b762eb8cdea91bc3ffd3b74a92b72f94440852b7bad40385f18be68a67dafbd2d5f612da71c83ddd1b95a16a19e7c",
+					"hash": "b3db33d4d53d2b9ca7016d83e51278781eb5cfbf8dcdbeaea303fc0ceb085f35ba94c72561cdc8b113d65483264b15fac6f13be7c9eb402edbcde735c78539de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/iJozmDvn/laseredstone-1.0.4%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/BgDQhuS2/laseredstone-1.0.5%2B1.21.8.jar"
 				},
-				"filename": "laseredstone-1.0.4+1.21.8.jar",
+				"filename": "laseredstone-1.0.5+1.21.8.jar",
 				"name": "Laseredstone",
 				"side": "both"
 			}
 		},
-		"key": "8dad8806bdeeb66ddb4d843d8b0646f8cc0e0e5a5f36baeb07abe86dc8b82496"
+		"key": "d5afa2d44066a07ba9488903ced374c199c381421913de4afdf2f14d26302713"
 	},
 	"lifelike": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -735,6 +859,10 @@
 		"key": "e859ead57ad69ab2e222b2d9b37e2cecd5f7e9a049fa5963a7ac1ab6dbd8fd97"
 	},
 	"losing-my-marbles": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -760,6 +888,10 @@
 		"key": "3c1e1d3839aea594650c1ebe4ccf1e9906f840c1d8d9637455903b7709352f06"
 	},
 	"maglev-minecarts": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -785,6 +917,10 @@
 		"key": "1d3a42c84c7cc660a2b53a6dfda648393cf0b746a3436f2fb84234c0537daea4"
 	},
 	"manikin": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -810,6 +946,10 @@
 		"key": "1b46f6fda03b0178585388243801b993a28f72d5e213c6ea7c01d08d344af1eb"
 	},
 	"mica-runes": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/cardinal-components-api.pw.toml": {
 				"download": {
@@ -835,6 +975,10 @@
 		"key": "30875196dc8ad7e199f3b9cd7fe5ef3ef9b00929b1cbaf92a19ce78472003cda"
 	},
 	"mob-mystery-dollhouse": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/mob-mystery-dollhouse.pw.toml": {
 				"download": {
@@ -860,6 +1004,10 @@
 		"key": "3882cc9426dd50dbd226442362917c30c5d75bdd746a672f8f91cb7338dd9f36"
 	},
 	"more_than_a_foxbox": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -885,6 +1033,10 @@
 		"key": "c054a42b3569b2890c4035eb90aa348b6bb6f6b5fe50b4173ce3752413ce1256"
 	},
 	"newinbox": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -920,6 +1072,10 @@
 		"key": "17956c7366f5692bc617bf73add8ceb588b85ac87844cc3ebb26bee5f9b480eb"
 	},
 	"not-a-toy": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -945,6 +1101,10 @@
 		"key": "8f1f95def499dae97a1291939b12ca89c3a789723d6ea4058b2a78cf71d08e15"
 	},
 	"notenoughminecraft": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -980,6 +1140,10 @@
 		"key": "c36569d74ef1357102644ecff6d9876a25a2ee2cf06c46d941bc31e988c3e16e"
 	},
 	"occipital-metonymy": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -993,18 +1157,22 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "f5e322c141811d238b942e5513a4ca89ef32571350d6febdc08ed5fbed0a54bfdc45329de567a5de437ee3b44539e201b40be25b02bc6e984adf60dc28758a88",
+					"hash": "7408100967f2984dd42e1ab05210bce9e0cae71360de69f48556e03f6a1477eed947ce7590f919ff997e22aaac913ed4ef25c412a1576e1785edaeefeaa184c0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/B0k9ECWO/occmy-O.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/l4eRmo5m/occmy-P.jar"
 				},
-				"filename": "occmy-O.jar",
+				"filename": "occmy-P.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "5403e3fc4e2ff0ae207eb9e783e5cd462863313636f557bf7b5aef79b36190e3"
+		"key": "2d894b95c43691095ac8a13eb8659383f67ebe01cd6d31051c610f9bbc197137"
 	},
 	"paintbrush-mod": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/paintbrush-mod.pw.toml": {
 				"download": {
@@ -1030,6 +1198,10 @@
 		"key": "c05f63c0aeb0325669291d237e403b4a6721285e2f83e1dde2c92bf48a7ca4ed"
 	},
 	"playful-planes": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1055,6 +1227,10 @@
 		"key": "375da66991c5cdfba416a742c040d34b92c9ae2f7a57fbcc37f51bf00607443e"
 	},
 	"potato-head": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/potato-head.pw.toml": {
 				"download": {
@@ -1070,6 +1246,10 @@
 		"key": "5bb5b0567dc0e5559ef28eca945c1943981737f3d8c9d0d471937cad2743540a"
 	},
 	"power-towel": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1095,6 +1275,10 @@
 		"key": "8e8ed8881e4237f0caad22976e701fda9e5121302c36212122d453bb39901318"
 	},
 	"rc-toys": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/rc-toys.pw.toml": {
 				"download": {
@@ -1110,6 +1294,10 @@
 		"key": "ea2301a82ee7f213cc31ac6150ac1ce7597c922ca318be6baaac4385550b1d7b"
 	},
 	"showtime": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/showtime.pw.toml": {
 				"download": {
@@ -1125,6 +1313,10 @@
 		"key": "9057365e49efce867eb8e31c877d79b8583097cf05f949dcd7f37db74491438a"
 	},
 	"simply-slingshot": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/polymer.pw.toml": {
 				"download": {
@@ -1150,6 +1342,10 @@
 		"key": "74bdf3c2e52d6220c9857de0360651651a0a7bb57d61a7877c0dde17ece08b4e"
 	},
 	"slotcars": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1175,6 +1371,10 @@
 		"key": "fa69b6dfae2d13254cf6bc66d301bdc4bd174425e505263f3503ff373dfd8178"
 	},
 	"spacey-figurines": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/spacey-figurines.pw.toml": {
 				"download": {
@@ -1190,6 +1390,10 @@
 		"key": "73b1901bec7fdf8833600a14c64787ef945aa9298d186fde421bbf9e47447d36"
 	},
 	"spring-boots": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1215,6 +1419,10 @@
 		"key": "7af3a77ecd90fb3d52c2a46009353c1bacd60cfc0dbd57133338c3ea995915e0"
 	},
 	"stickerbomb": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/cardinal-components-api.pw.toml": {
 				"download": {
@@ -1250,6 +1458,10 @@
 		"key": "c7accb46987abab65468ea5b32654f3a79f0dc328c900341cba4b47662a38e92"
 	},
 	"surpuncher": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
@@ -1265,6 +1477,10 @@
 		"key": "d1baf28660e7b24d41fe0bfda80d544dbfe34ed320205e295e3bc73798ce658d"
 	},
 	"sword-of-legend": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1300,6 +1516,10 @@
 		"key": "5a58e3614c68acffec437efdf8b91bcf4da1b19570d5185949fcde51cf33d2eb"
 	},
 	"telebaton": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1325,6 +1545,10 @@
 		"key": "b9b1b22b75159152af0c9099f777b17984ea0858617ea4f8c259fadfdb4cfd16"
 	},
 	"toil-and-trouble": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1350,6 +1574,10 @@
 		"key": "cf84f8bd2fced2f8ebf5aa96466713b4ef77666fb047006caf0d725fb40da1b6"
 	},
 	"totoro_top": {
+		"checks": {
+			"claimed": true,
+			"tested": false
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1375,6 +1603,10 @@
 		"key": "88fe5e124557f7655979e5ff91ac025c763e0593a4f1820f70b2d82bbe94f44f"
 	},
 	"toy-bricks": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1400,6 +1632,10 @@
 		"key": "8cc328d6e3055acc80be24ee4a7c098d6a4802063fb096a5ddacace54afabbd4"
 	},
 	"toy-water-gun": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1435,6 +1671,10 @@
 		"key": "4913ff72b2821032451f0472c82ec123df45057c5e57a26c6701277b93c2065b"
 	},
 	"volo-volare": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1470,6 +1710,10 @@
 		"key": "448038a014c6e1af15cae1f6e45f64ccc6f9d77642915192b582159c49f2a3e6"
 	},
 	"wabbajack-staff": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/wabbajack-staff.pw.toml": {
 				"download": {
@@ -1485,6 +1729,10 @@
 		"key": "fee9791043edce934089cad61a6c50270366532bde4e72ad761ff03400f6831f"
 	},
 	"windup-music-box": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
@@ -1510,6 +1758,10 @@
 		"key": "d2e4c0e04b98329e71e7ecf56b7fb4de99d87aa6a0f4e6475b1f49d78d53a064"
 	},
 	"yamaxanadu": {
+		"checks": {
+			"claimed": false,
+			"tested": false
+		},
 		"files": {
 			"mods/yamaxanadu.pw.toml": {
 				"download": {
@@ -1525,6 +1777,10 @@
 		"key": "d539a104fd0217f95afbc6f759d462a8b3e33b1580e5477cf27d83082f75f2ff"
 	},
 	"zip-to-it": {
+		"checks": {
+			"claimed": true,
+			"tested": true
+		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
