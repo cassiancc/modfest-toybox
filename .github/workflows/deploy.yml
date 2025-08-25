@@ -104,10 +104,14 @@ jobs:
         with:
           distribution: 'temurin' # See 'Supported distributions' for available options
           java-version: '21'
+
       - name: Test main pack
         run: python scripts/run_test.py
+
       - name: Test test pack
         run: python test/scripts/run_test.py
+        env:
+          BRANCH_OVERRIDE: test
 
 
       # Deploy
