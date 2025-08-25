@@ -78,6 +78,8 @@ jobs:
 
       - name: Build test pack
         run: python test/scripts/assemble_packwiz.py
+        env:
+          BRANCH_OVERRIDE: test
 
       # Setup test-runner cache
       - name: Generate cache key
