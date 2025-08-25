@@ -142,11 +142,11 @@
 		"files": {
 			"mods/chiseled-mod.pw.toml": {
 				"download": {
-					"hash": "d9638cb4d1343a94983395080ae8c1895b4eae241d34d55c044e458b5528fcc39f5e95426855aad1d08f748dcf9cbdf93cef2f04eb2f86bb9e06c92db880bc95",
+					"hash": "c49a766de560d318cfee6e39e2a71daa232910cc1a8c6b42c75cf6dc641218523f87523990b452dfd1b7586a75bde7272056aad176cced4e1dd8d2ee512eda6b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/Z3L1xEeP/chiseled-fabric-1.21.8-1.2.0-alpha.jar"
+					"url": "https://cdn.modrinth.com/data/gqkgmxW8/versions/bRm3FOGK/chiseled-fabric-1.21.8-1.2.1-alpha.jar"
 				},
-				"filename": "chiseled-fabric-1.21.8-1.2.0-alpha.jar",
+				"filename": "chiseled-fabric-1.21.8-1.2.1-alpha.jar",
 				"name": "Chiseled",
 				"side": "both"
 			},
@@ -171,7 +171,7 @@
 				"side": "both"
 			}
 		},
-		"key": "2bd1855895b963357b4016e181080aa1ea949799d0e7c8ee166934a04c374809"
+		"key": "267d1c6dc9715ffef69c4766b93e9af3ca9764b9f9fe2e1478ed912acead4024"
 	},
 	"chorus-honey": {
 		"checks": {
@@ -291,7 +291,7 @@
 	},
 	"copper-cauldron": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -403,11 +403,11 @@
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
-					"hash": "ffab755b47d54097668b4a1bdb3a52e65c1104945c2ed386617a6d01eb62141ec43b9a3e745a4c1756caa98a1f26edc6c31ac1a57f923035bb8c20070d12dc66",
+					"hash": "74028220dddc2ec9dddef9323c47f673976a4e22c834b565d2bf04eed2e2e9883e948f37e844a0896d664dff5882cefc9b96cee67ac2cb4a81e744d8c986c183",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/I5Osy6nI/dominoes-0.6.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/oOCHf303/dominoes-0.7.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dominoes-0.6.1+fabric-1.21.8.jar",
+				"filename": "dominoes-0.7.2+fabric-1.21.8.jar",
 				"name": "Dominoes",
 				"side": "both"
 			},
@@ -422,7 +422,7 @@
 				"side": "both"
 			}
 		},
-		"key": "856eef01e93f3ed9997b47933a685f84a5a65e99597aac4e15c54b497b2f59b2"
+		"key": "ec0680570b0dc43791a8cea9e09030e33a5114831c25aa4c16f97e07c3534879"
 	},
 	"dronebox": {
 		"checks": {
@@ -576,16 +576,16 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "4e5de35db609ca12df5838ed32bbac76c56eda3ad135d3f91682849c633cd22faee15a14cd6cdd58dc0e90439399fa7c2e72c7e14d7d92cead1b8565299eeb0d",
+					"hash": "a64b3f8241d7ba664f11440ef0e9fd6ed19d168ee4b1c500f616469ba1931a4a2c83200f54750653fa8882327fb421be1007d085f6cf66feb63992e89fdd3c47",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/grcwGriJ/gik-1.8.2.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/QCFctd6A/gik-1.8.4.jar"
 				},
-				"filename": "gik-1.8.2.jar",
+				"filename": "gik-1.8.4.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "d66c1a625eab81d44ba41fe814c9d0f454789932eafeecf62a8b59a4abe5870c"
+		"key": "8d95e2c5ae9bb6901792f9bf059c83251b40d2599f49ac29efc775d01152f455"
 	},
 	"grow-your-crystal": {
 		"checks": {
@@ -1074,7 +1074,7 @@
 	"not-a-toy": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -1157,16 +1157,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "7408100967f2984dd42e1ab05210bce9e0cae71360de69f48556e03f6a1477eed947ce7590f919ff997e22aaac913ed4ef25c412a1576e1785edaeefeaa184c0",
+					"hash": "2d54c2dbeb58017937c9cde9755752a701ab593788908b6a68130dbc122892054943c4651da88e8d5860b0447b65981c45e9dff5a4466ce1f3de6596ac4c98ba",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/l4eRmo5m/occmy-P.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/rxTKFAmm/occmy-R.jar"
 				},
-				"filename": "occmy-P.jar",
+				"filename": "occmy-R.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "2d894b95c43691095ac8a13eb8659383f67ebe01cd6d31051c610f9bbc197137"
+		"key": "c9196fbbfa44d9c34abf6d3db89d682c6d5697cc5d7974ab26a9a44d8e406ad3"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1315,7 +1315,7 @@
 	"simply-slingshot": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/polymer.pw.toml": {
@@ -1373,7 +1373,7 @@
 	"spacey-figurines": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/spacey-figurines.pw.toml": {
@@ -1620,16 +1620,16 @@
 			},
 			"mods/toy-bricks.pw.toml": {
 				"download": {
-					"hash": "2fd01331558c351abcbf75376dfd18c96b03a142ece95bd0beb373b24e488af49b28bd121893518571ec969c4004a8655c27be9c7d02e4019b58853395ab7f95",
+					"hash": "560e5d94b1fc76278aca9a76491900e2d4dd8149e97abab66e25d479dfd3e91fbaa7976186c4c16cd6877ad792c760a262798ad21c90f186aee1a4927e44dd4a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mEnssXmJ/versions/KX6SEVWh/ToyBricks-0.2.2.jar"
+					"url": "https://cdn.modrinth.com/data/mEnssXmJ/versions/1TMvsZvt/ToyBricks-0.2.3.jar"
 				},
-				"filename": "ToyBricks-0.2.2.jar",
+				"filename": "ToyBricks-0.2.3.jar",
 				"name": "Toy Bricks",
 				"side": "both"
 			}
 		},
-		"key": "8cc328d6e3055acc80be24ee4a7c098d6a4802063fb096a5ddacace54afabbd4"
+		"key": "212f5e258c0cd602d39ffc51fbd5eeac9b72a2144dfd336c76b98d99164d441d"
 	},
 	"toy-water-gun": {
 		"checks": {
