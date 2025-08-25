@@ -540,9 +540,6 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/three.ogg
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/timeout.ogg"
 
 [[files]]
-file = "resources/common/required/mf_music/assets/modfest/textures/item/music/a_thousand_eyes_stare.png"
-
-[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/antiquity.png"
 
 [[files]]
