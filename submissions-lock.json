@@ -355,16 +355,16 @@
 		"files": {
 			"mods/densha-no-omocha.pw.toml": {
 				"download": {
-					"hash": "fa27e3170c6fdcb9da049268fc06ea55d889a53663dd69a76de2e453ee6e271cd377444b05f36796a92c348a765b61a3436625caf4a89ac393dfc19c56f9e75f",
+					"hash": "f026cbf2098f7a47607a7c21980793830b0f26dc85efe64cd4ddddcfe2757539c0e2672a819b43f54a5879ab24c32174ec6504544432fd8dccd64afd68685d23",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/penQLloD/versions/2NFw8usA/densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar"
+					"url": "https://cdn.modrinth.com/data/penQLloD/versions/F4fkXQpi/densha-no-omocha-1.21.8-v0.1.2-EXPERIMENTAL.jar"
 				},
-				"filename": "densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar",
+				"filename": "densha-no-omocha-1.21.8-v0.1.2-EXPERIMENTAL.jar",
 				"name": "Densha no Omocha",
 				"side": "both"
 			}
 		},
-		"key": "28f0709bdd561ddcb8cbdcb60999700015513025a32e60e1fc82a0172ff067cb"
+		"key": "6873d676b25af37d01033e05501c8f7cfc72572e05628dd543356351b3a0f6f6"
 	},
 	"diy-die": {
 		"checks": {
@@ -1146,16 +1146,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "2d54c2dbeb58017937c9cde9755752a701ab593788908b6a68130dbc122892054943c4651da88e8d5860b0447b65981c45e9dff5a4466ce1f3de6596ac4c98ba",
+					"hash": "d61349d82c849ee083284518ddc408c1462aa83fb1580dd89c3c04a2facc40981516941518aaf86e11fd39a726bf07934dd445e4c6a5b8981163bbdc03c87f8f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/rxTKFAmm/occmy-R.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/qLlIIZa9/occmy-S.jar"
 				},
-				"filename": "occmy-R.jar",
+				"filename": "occmy-S.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "c9196fbbfa44d9c34abf6d3db89d682c6d5697cc5d7974ab26a9a44d8e406ad3"
+		"key": "ed43c2b18da19dd03434d3f16b0c87a8c77a6edb6ed8cbdfdd90b4f46eded081"
 	},
 	"paintbrush-mod": {
 		"checks": {
