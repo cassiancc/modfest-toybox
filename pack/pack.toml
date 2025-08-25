@@ -12,7 +12,7 @@ fabric = "0.17.2"
 minecraft = "1.21.8"
 unsup = "1.1.5"
 unsup-experimental = "1.2.0-pre1"
-unsup-stable = "1.1.5"
+unsup-stable = "1.1.6"
 
 [options]
 acceptable-game-versions = ["1.21.7", "1.21.8"]
