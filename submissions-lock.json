@@ -435,21 +435,21 @@
 	"evl-toys": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/evl-toys.pw.toml": {
 				"download": {
-					"hash": "810f783bc136d4d21ce720f7f2c8210be54f599f7b56b967b85cb036e0ddf6d036408a681e06a5483555390627f9fa63c04f33ff44d28add7e34325bb70b0cb9",
+					"hash": "0685735385e062855673e9b1a6b8927fca504fc5638496610f84065014602ffcdbd7f04b3534a5e23ac74e588dedb2cc536ce4d8a423b778a295925217742d9c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6tH37PX2/versions/PtxeXVyC/mr_scoot-1.0.0-1.21.8-pa2.jar"
+					"url": "https://cdn.modrinth.com/data/6tH37PX2/versions/8fzIu1vQ/mr_scoot-1.0.0-1.21.8-pa3.jar"
 				},
-				"filename": "mr_scoot-1.0.0-1.21.8-pa2.jar",
+				"filename": "mr_scoot-1.0.0-1.21.8-pa3.jar",
 				"name": "EVL Toys",
 				"side": "both"
 			}
 		},
-		"key": "5acd54ecc0d3403212ada59371b315f01ae72cffc7cdca9d96a36e79324befbc"
+		"key": "4f4472aca525f52e5e9ded32e0e6c52db494cbcd9a3f3a426908cf8984ee7635"
 	},
 	"eye_of_dreams": {
 		"checks": {
@@ -695,8 +695,8 @@
 	},
 	"hero-statue": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -711,16 +711,16 @@
 			},
 			"mods/hero-statue.pw.toml": {
 				"download": {
-					"hash": "2d78171f565aab88948e1f1222f9458207cf2f3521307edb8d91eb46945b7f5b461dc95a7606a7561700093ebf3aa51504c99383c07e9a6f1465f8aeef01f04d",
+					"hash": "7ea5d726ce123f4ef1a3b828fe1c4ebfe2d11a8805475c33cfd3d04bfc07917a5cc58d9d785cf4baae7b51fff2eef320143c44c6f64180b4bb8692f0e4f2f3ee",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/gwNLze0g/hero-statue-1.0.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/xseKjLRv/hero-statue-1.0.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "hero-statue-1.0.2+fabric-1.21.8.jar",
+				"filename": "hero-statue-1.0.3+fabric-1.21.8.jar",
 				"name": "Hero Statue",
 				"side": "both"
 			}
 		},
-		"key": "79fceedf07b62db41ad916f60002669fa6c74b512f5e27e30f0e42d33750a91b"
+		"key": "ab4a717bf66ac0e52db7304433a1fda2de2e91e30f9e7aa40076cc46626aa2d0"
 	},
 	"hyper-silt": {
 		"checks": {
@@ -1020,16 +1020,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "e0e34c2caddb6e4af921d18cd5230fc974e7561259dc6d00fa8ccc3a7db59cdd309ebe6853d5e862b513a941d65bbbe3dce63ff1c46e5462311a656492fe432f",
+					"hash": "bfd9a0f662e0de9a596c023cda38dc0d7fb3be04e4dfa42d9a810ee498c454e46707b0525e58a6c091a2985a49133573e3a7590d0fb82c0fc85e7efe3dd61a88",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/65Ne9I4l/more_than_a_foxbox-1.0.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/qIbmU0z2/more_than_a_foxbox-1.0.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.2+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.3+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "c054a42b3569b2890c4035eb90aa348b6bb6f6b5fe50b4173ce3752413ce1256"
+		"key": "40660b14d8a31182fda2ff541a473287dcc4edfe355beee8d8d743ebc55e2693"
 	},
 	"newinbox": {
 		"checks": {
@@ -1049,11 +1049,11 @@
 			},
 			"mods/newinbox.pw.toml": {
 				"download": {
-					"hash": "9d7c32f57cbb5bf6a9dc1f7e113ef11b25ce3ecc81d42ebcb422008ae87b5a66b133d1f2ef8990eb9fe85d4a005423da5f963a2b1007ba72e1f425ecb23f80d3",
+					"hash": "cfb09143f50b8007cec00d75609dcd0abe5d1a8663c2448db795335a1fc04df70a4ecd9186dbd44a80dcaa1a220684d7e5ee855f5b1d3d70901229999fff5a60",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/fXyFGm8T/versions/pUY8U3sQ/new_in_box-fabric-0.1.2-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/fXyFGm8T/versions/tG3VOc4X/new_in_box-fabric-0.1.3-sgd.jar"
 				},
-				"filename": "new_in_box-fabric-0.1.2-sgd.jar",
+				"filename": "new_in_box-fabric-0.1.3-sgd.jar",
 				"name": "New in Box!",
 				"side": "both"
 			},
@@ -1068,7 +1068,7 @@
 				"side": "both"
 			}
 		},
-		"key": "17956c7366f5692bc617bf73add8ceb588b85ac87844cc3ebb26bee5f9b480eb"
+		"key": "8b9f06ad81571b94a1f78f9174c73fa68e86052b3bac34827dad00b21f313605"
 	},
 	"not-a-toy": {
 		"checks": {
@@ -1300,16 +1300,16 @@
 		"files": {
 			"mods/showtime.pw.toml": {
 				"download": {
-					"hash": "9694329a101d85b4e8e74cf1470f8eb32c4fbc13bdbd3930e634a5f03d5147dfbe673b005446ea5d84acf371c12483a5d634d0cd3908bb3fa21d1597a821f5a9",
+					"hash": "76c122d6bf960a47dd1e72a96141a5da0e933fa365c6226097d9a29bb7a307652245b6514894eb6bd074a98492f17d4087f3dcbce0dfd7052950e2dbea316acc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/t5rdXZkZ/versions/RjoGpLVX/showtime-1.0.2-ModFest.jar"
+					"url": "https://cdn.modrinth.com/data/t5rdXZkZ/versions/LBGuRlMT/showtime-1.0.3-ModFest.jar"
 				},
-				"filename": "showtime-1.0.2-ModFest.jar",
+				"filename": "showtime-1.0.3-ModFest.jar",
 				"name": "Showtime",
 				"side": "both"
 			}
 		},
-		"key": "9057365e49efce867eb8e31c877d79b8583097cf05f949dcd7f37db74491438a"
+		"key": "2ad7a0ad9e61ad297a32aff080c403dcefd99a6e737ec960a891dc72fbb7362f"
 	},
 	"simply-slingshot": {
 		"checks": {
@@ -1371,7 +1371,7 @@
 	},
 	"spacey-figurines": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
