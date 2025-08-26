@@ -459,16 +459,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "8efc3023110036d90213f5ac102051224ef612fca4a475c4562df7e3b556d62e2b54f5401c80e65e0fa723b9066d8cbd15000d6cc4d2f5108c682fae10c9ab71",
+					"hash": "d1b17f71266348c4806f9a089ae6184176edb6f8f8a57e39ea135bf1ce8de233eeb2aec518570f054ccc11d925e1ee6d943e4cafaa6da8ec911bb7662ac5180c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/eHNoGhgM/eye_of_dreams-1.0.2%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/F2BfsEgO/eye_of_dreams-1.0.3%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.2+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.3+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "4e1d0fb4f1b55b57bf018142bdffd17f6aa440e3523ea92c989d7b2ecefb0344"
+		"key": "0a992f97270a69b85fde44cf114755da50f16b17889cc97bba4cb7f35b6d6c5d"
 	},
 	"five-guys-burgers-and-fries": {
 		"checks": {
@@ -565,16 +565,16 @@
 			},
 			"mods/grand-indestructible-kingdom.pw.toml": {
 				"download": {
-					"hash": "1f40d545fdc5062315a1f63c6ef20976d913a40fe31ac9be5e09cd3ac0f681f82b219485250688a348dbe99b6c5a8380ba58e84b24a03469b77f37ce9465e613",
+					"hash": "2060ba79def6092614fd23f14a3e768e959796d9867e6fa61595c9eea78db0882d2dff6b4ca4c8da19aee38de38c31d2c1678d8c9d06144bab67c8ed0a11456a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/i8KD2X85/gik-1.8.5.jar"
+					"url": "https://cdn.modrinth.com/data/G2UTDJ39/versions/vZ7DYacj/gik-1.8.6.jar"
 				},
-				"filename": "gik-1.8.5.jar",
+				"filename": "gik-1.8.6.jar",
 				"name": "Grand Indestructible Kingdom",
 				"side": "both"
 			}
 		},
-		"key": "78fc5d71a8c805428b60e21701cd840d628b1cb4960e49aebee9141c3a5731c0"
+		"key": "c6186f7b47c90db491fb6571cfcc2107ad943b1031f032f55829531c762655bd"
 	},
 	"grow-your-crystal": {
 		"checks": {
@@ -933,16 +933,16 @@
 			},
 			"mods/manikin.pw.toml": {
 				"download": {
-					"hash": "bd49aa5775b104a289588a0fc8491e43941939a12da97c57f8e2ae4140313ea0457921fcc365329707f66d0d4671bcc416c3e3edd5fa728ff213eb5b673ef02d",
+					"hash": "cd0de459eef8761e984ae9193fc1a8c2b554d81e94f4bff986e3ded439af7c74ec38f256d9a0d51f678278c191e51e4f85736fc7f781e2481ff0f8c5b9ebc14f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/gU5piMA8/mannequin-0.1.2-beta.jar"
+					"url": "https://cdn.modrinth.com/data/XZ5wno5a/versions/BrkL6N4c/mannequin-0.1.3-beta.jar"
 				},
-				"filename": "mannequin-0.1.2-beta.jar",
+				"filename": "mannequin-0.1.3-beta.jar",
 				"name": "Mannequin",
 				"side": "both"
 			}
 		},
-		"key": "1b46f6fda03b0178585388243801b993a28f72d5e213c6ea7c01d08d344af1eb"
+		"key": "b514fb3d2adfe746633593595e24c3c07990a631e72ea86fc70f502d81c31f9f"
 	},
 	"mica-runes": {
 		"checks": {
