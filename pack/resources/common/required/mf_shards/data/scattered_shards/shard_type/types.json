@@ -9,6 +9,18 @@
 	"modfest:visitor": {
 		"text_color": "#6de851",
 		"glow_color": "#00ff48",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 4
+				},
+				"mini": {
+					"top": 4,
+					"left": 2
+				}
+			}
+		},
 		"collect_particle": "minecraft:totem_of_undying",
 		"collect_sound": {
 			"sound_id": "scattered_shards:collect_visitor"
@@ -18,6 +30,18 @@
 	"modfest:bonus_1": {
 		"text_color": "#5174e8",
 		"glow_color": "#0026ff",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 4
+				},
+				"mini": {
+					"top": 4,
+					"left": 2
+				}
+			}
+		},
 		"collect_particle": "minecraft:glow",
 		"collect_sound": {
 			"sound_id": "scattered_shards:collect_challenge"
@@ -27,6 +51,18 @@
 	"modfest:bonus_2": {
 		"text_color": "#eb4034",
 		"glow_color": "#96054f",
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 4
+				},
+				"mini": {
+					"top": 4,
+					"left": 2
+				}
+			}
+		},
 		"collect_particle": "minecraft:instant_effect",
 		"collect_sound": {
 			"sound_id": "scattered_shards:collect_challenge"
@@ -36,42 +72,18 @@
 	"modfest:bonus_3": {
 		"text_color": "#c90ac9",
 		"glow_color": "#830a80",
-		"collect_particle": "minecraft:witch",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
+		"display": {
+			"offsets": {
+				"normal": {
+					"top": 8,
+					"left": 4
+				},
+				"mini": {
+					"top": 4,
+					"left": 2
+				}
+			}
 		},
-		"list_order": 4
-	},
-	"scattered_shards:visitor": {
-		"text_color": "#6de851",
-		"glow_color": "#00ff48",
-		"collect_particle": "minecraft:totem_of_undying",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_visitor"
-		},
-		"list_order": 1
-	},
-	"scattered_shards:bonus_1": {
-		"text_color": "#5174e8",
-		"glow_color": "#0026ff",
-		"collect_particle": "minecraft:glow",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 2
-	},
-	"scattered_shards:bonus_2": {
-		"text_color": "#eb4034",
-		"glow_color": "#96054f",
-		"collect_particle": "minecraft:instant_effect",
-		"collect_sound": {
-			"sound_id": "scattered_shards:collect_challenge"
-		},
-		"list_order": 3
-	},
-	"scattered_shards:bonus_3": {
-		"text_color": "#c90ac9",
-		"glow_color": "#830a80",
 		"collect_particle": "minecraft:witch",
 		"collect_sound": {
 			"sound_id": "scattered_shards:collect_challenge"
