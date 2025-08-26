@@ -7,8 +7,8 @@
 		"viewer_bottom_color": "#1b080c"
 	},
 	"modfest:visitor": {
-		"text_color": "#6de851",
-		"glow_color": "#00ff48",
+		"text_color": "#ff55ff",
+		"glow_color": "#ff55ff",
 		"display": {
 			"offsets": {
 				"normal": {
@@ -28,8 +28,8 @@
 		"list_order": 1
 	},
 	"modfest:bonus_1": {
-		"text_color": "#5174e8",
-		"glow_color": "#0026ff",
+		"text_color": "#ff8fb4",
+		"glow_color": "#ff8fb4",
 		"display": {
 			"offsets": {
 				"normal": {
@@ -49,8 +49,8 @@
 		"list_order": 2
 	},
 	"modfest:bonus_2": {
-		"text_color": "#eb4034",
-		"glow_color": "#96054f",
+		"text_color": "#4bedd9",
+		"glow_color": "#4bedd9",
 		"display": {
 			"offsets": {
 				"normal": {
@@ -70,8 +70,8 @@
 		"list_order": 3
 	},
 	"modfest:bonus_3": {
-		"text_color": "#c90ac9",
-		"glow_color": "#830a80",
+		"text_color": "#fbf236",
+		"glow_color": "#fbf236",
 		"display": {
 			"offsets": {
 				"normal": {
