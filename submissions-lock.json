@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "8dbc0d29b4fc44b4a7e9897e0ece1f60cf5e48b934bac07dd8132bb973f06aa6eb45e3575d0d3c6bec086412fb1c069703c8576395e9499f5137eaeb0ed2d3d6",
+					"hash": "daad1aff20b8fc9adcabc9696b5ebebefb5663dbc156afc7bd2ed0e3cd3f7220b6339ee22c4ed37230bcca003ca97de05ed963cad7f0fa87c6d1e6b4959c1f62",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/4T2S8aF7/action_mobs-0.3.6.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/oy6ZSDhp/action_mobs-0.3.8.jar"
 				},
-				"filename": "action_mobs-0.3.6.jar",
+				"filename": "action_mobs-0.3.8.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "0662353098f331c88ba6c41e1af34646a9cbfbe779f3e481f9bc084850058aed"
+		"key": "6d1d1231cc298048e1e17be8382595b4c958af9ec573106e463f534a6f256a7d"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -350,21 +350,21 @@
 	"densha-no-omocha": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/densha-no-omocha.pw.toml": {
 				"download": {
-					"hash": "fa27e3170c6fdcb9da049268fc06ea55d889a53663dd69a76de2e453ee6e271cd377444b05f36796a92c348a765b61a3436625caf4a89ac393dfc19c56f9e75f",
+					"hash": "f026cbf2098f7a47607a7c21980793830b0f26dc85efe64cd4ddddcfe2757539c0e2672a819b43f54a5879ab24c32174ec6504544432fd8dccd64afd68685d23",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/penQLloD/versions/2NFw8usA/densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar"
+					"url": "https://cdn.modrinth.com/data/penQLloD/versions/F4fkXQpi/densha-no-omocha-1.21.8-v0.1.2-EXPERIMENTAL.jar"
 				},
-				"filename": "densha-no-omocha-1.21.8-v0.1.1-EXPERIMENTAL.jar",
+				"filename": "densha-no-omocha-1.21.8-v0.1.2-EXPERIMENTAL.jar",
 				"name": "Densha no Omocha",
 				"side": "both"
 			}
 		},
-		"key": "28f0709bdd561ddcb8cbdcb60999700015513025a32e60e1fc82a0172ff067cb"
+		"key": "6873d676b25af37d01033e05501c8f7cfc72572e05628dd543356351b3a0f6f6"
 	},
 	"diy-die": {
 		"checks": {
@@ -403,11 +403,11 @@
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
-					"hash": "74028220dddc2ec9dddef9323c47f673976a4e22c834b565d2bf04eed2e2e9883e948f37e844a0896d664dff5882cefc9b96cee67ac2cb4a81e744d8c986c183",
+					"hash": "9e3aebbc4348496df332659c38471cddec4c0f4aba7a6eee75d6a77f8fd7c4cc0da649f6a639bfdaa8ec556f9585f7066d4ad679ddf17b2392238187f1448e8c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/oOCHf303/dominoes-0.7.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/12popUKi/dominoes-0.7.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dominoes-0.7.2+fabric-1.21.8.jar",
+				"filename": "dominoes-0.7.3+fabric-1.21.8.jar",
 				"name": "Dominoes",
 				"side": "both"
 			},
@@ -422,7 +422,7 @@
 				"side": "both"
 			}
 		},
-		"key": "ec0680570b0dc43791a8cea9e09030e33a5114831c25aa4c16f97e07c3534879"
+		"key": "5f1b6278f762c5609f4905d97364d06dbd88254e3318725539829ef601c1ea14"
 	},
 	"dronebox": {
 		"checks": {
@@ -876,16 +876,16 @@
 			},
 			"mods/losing-my-marbles.pw.toml": {
 				"download": {
-					"hash": "8de6561d21436ae5c08f71261a538beb05dc61af4ceff874ba49a32f1659196026d14ca7604e94bf7313cd9acc59d4d5ae9ff2cee5eb8a11d3c5881c009897c8",
+					"hash": "afd822ae6f86c9e7284e443c2d978dcd05fc6f2fa32af01c28276475a3ec19c2ff713ac49c9a0bdf304be2b2adb00bb9226e0dcb937dd3cac6cc9fc03c381468",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/eIqwWXyi/versions/1gJ7cHUK/losing_my_marbles-0.1.0%2Bbuild.152-mc1.21.8-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/eIqwWXyi/versions/ze0Y0d7T/losing_my_marbles-0.1.0%2Bbuild.180-mc1.21.8-fabric.jar"
 				},
-				"filename": "losing_my_marbles-0.1.0+build.152-mc1.21.8-fabric.jar",
+				"filename": "losing_my_marbles-0.1.0+build.180-mc1.21.8-fabric.jar",
 				"name": "Losing My Marbles!",
 				"side": "both"
 			}
 		},
-		"key": "3c1e1d3839aea594650c1ebe4ccf1e9906f840c1d8d9637455903b7709352f06"
+		"key": "434c287e5ba3a53b004e4e8b8f7671f280bcf6a4b7d81845e3ed9000defd2fc3"
 	},
 	"maglev-minecarts": {
 		"checks": {
@@ -1157,16 +1157,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "2d54c2dbeb58017937c9cde9755752a701ab593788908b6a68130dbc122892054943c4651da88e8d5860b0447b65981c45e9dff5a4466ce1f3de6596ac4c98ba",
+					"hash": "d61349d82c849ee083284518ddc408c1462aa83fb1580dd89c3c04a2facc40981516941518aaf86e11fd39a726bf07934dd445e4c6a5b8981163bbdc03c87f8f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/rxTKFAmm/occmy-R.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/qLlIIZa9/occmy-S.jar"
 				},
-				"filename": "occmy-R.jar",
+				"filename": "occmy-S.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "c9196fbbfa44d9c34abf6d3db89d682c6d5697cc5d7974ab26a9a44d8e406ad3"
+		"key": "ed43c2b18da19dd03434d3f16b0c87a8c77a6edb6ed8cbdfdd90b4f46eded081"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1576,7 +1576,7 @@
 	"totoro_top": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
