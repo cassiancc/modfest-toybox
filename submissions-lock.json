@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "153897d63e1f84fc0afa060529ca648deed33f2865fa20dbcb56c70e1c39f5169de26397c29cee77d97973fac8257a2a83143af876ba6fd9b2d090e117892bb5",
+					"hash": "73137f36a089f7cc6d0eeda98e4ad784241a1f39079a046f1ef1aec06c6f5b9a956add3652da918f3ef1a683502496cfcb1547a94f85d6c585c9d41e41867b54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/mRFR1sO0/action_mobs-0.3.10.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/q0Rh7IQO/action_mobs-0.3.11.jar"
 				},
-				"filename": "action_mobs-0.3.10.jar",
+				"filename": "action_mobs-0.3.11.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "b7ab96017b8839135cab6169f259c0d4c20d1812ae05c89716bec03d920e91f6"
+		"key": "b748fb4767e3c8215af4ac06a7ca6e0ea8e528bc0ac4ad3110f6611887659345"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -403,11 +403,11 @@
 		"files": {
 			"mods/dominoes.pw.toml": {
 				"download": {
-					"hash": "9e3aebbc4348496df332659c38471cddec4c0f4aba7a6eee75d6a77f8fd7c4cc0da649f6a639bfdaa8ec556f9585f7066d4ad679ddf17b2392238187f1448e8c",
+					"hash": "1a13b33b80e3abc5bb13e5970aeffd7d3b07973079538e9d6d3e5da0aef5f046e1f80339e2de72a542270a7cf2cf449988a974cb0e777907efb0412efc3b921b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/12popUKi/dominoes-0.7.3%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/2iv3rshg/versions/zlXJLmFD/dominoes-0.7.4%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dominoes-0.7.3+fabric-1.21.8.jar",
+				"filename": "dominoes-0.7.4+fabric-1.21.8.jar",
 				"name": "Dominoes",
 				"side": "both"
 			},
@@ -422,7 +422,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5f1b6278f762c5609f4905d97364d06dbd88254e3318725539829ef601c1ea14"
+		"key": "d4c5629e30290312b76f516dc938c908aec6392fa0876dc57a56a16b66736105"
 	},
 	"dronebox": {
 		"checks": {
@@ -846,21 +846,21 @@
 			},
 			"mods/lifelike.pw.toml": {
 				"download": {
-					"hash": "130abdd81473d4d8b4fbb4d4f3032b1ab2527841a74abe833782d49ea559985987a78b7c5b49562e24dbffc8e4793a281ede3e8ee3f52fd89d2fe1931d04d30d",
+					"hash": "565c147e3b779cc83022de9cb701fa6917e6969b7d1963d772399d8162916b37c27310216bd80d2f8e10ce012e5965e4a0ad27b093e63b1df5286defeae0bca3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/KBupwLZ7/versions/TNIRTaBQ/lifelike-0.1.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/KBupwLZ7/versions/fBessH3F/lifelike-0.1.1%2Bfabric-1.21.8.jar"
 				},
-				"filename": "lifelike-0.1.0+fabric-1.21.8.jar",
+				"filename": "lifelike-0.1.1+fabric-1.21.8.jar",
 				"name": "Lifelike",
 				"side": "both"
 			}
 		},
-		"key": "e859ead57ad69ab2e222b2d9b37e2cecd5f7e9a049fa5963a7ac1ab6dbd8fd97"
+		"key": "33e52ef98bc64194faaa229e7dbcc1f30e60620813562e63b58a122fe80c30e9"
 	},
 	"losing-my-marbles": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
