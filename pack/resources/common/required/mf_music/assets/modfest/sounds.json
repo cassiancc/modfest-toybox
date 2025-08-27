@@ -127,26 +127,66 @@
 			}
 		]
 	},
-	"music.dormant": {
+	"music.advent": {
 		"sounds": [
 			{
-				"name": "modfest:music/dormant",
+				"name": "modfest:music/advent",
 				"stream": true
 			}
 		]
 	},
-	"music.stereo.dormant": {
+	"music.stereo.advent": {
 		"sounds": [
 			{
-				"name": "modfest:music/stereo/dormant",
+				"name": "modfest:music/stereo/advent",
 				"stream": true
 			}
 		]
 	},
-	"music.stereo.prologue": {
+	"music.booyah": {
 		"sounds": [
 			{
-				"name": "modfest:music/stereo/prologue",
+				"name": "modfest:music/booyah",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.booyah": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/booyah",
+				"stream": true
+			}
+		]
+	},
+	"music.childhood_promises": {
+		"sounds": [
+			{
+				"name": "modfest:music/childhood_promises",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.childhood_promises": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/childhood_promises",
+				"stream": true
+			}
+		]
+	},
+	"music.the_six_sides_of_the_dice": {
+		"sounds": [
+			{
+				"name": "modfest:music/the_six_sides_of_the_dice",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.the_six_sides_of_the_dice": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/the_six_sides_of_the_dice",
 				"stream": true
 			}
 		]
