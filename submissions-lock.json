@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "73137f36a089f7cc6d0eeda98e4ad784241a1f39079a046f1ef1aec06c6f5b9a956add3652da918f3ef1a683502496cfcb1547a94f85d6c585c9d41e41867b54",
+					"hash": "7542b36cea1175e7d12325d927b38445a7eecf2d58394509cea5161aa09ee2da5d441315996e0263a0c1c66757c18a65b40c8a68763e15ee170bb16f7457bb6b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/q0Rh7IQO/action_mobs-0.3.11.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/4i0OXrfQ/action_mobs-0.3.12.jar"
 				},
-				"filename": "action_mobs-0.3.11.jar",
+				"filename": "action_mobs-0.3.12.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "b748fb4767e3c8215af4ac06a7ca6e0ea8e528bc0ac4ad3110f6611887659345"
+		"key": "c380620edf6bee491d73628056d420fef6343bd6105918169ff45fd743720ba9"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -397,8 +397,8 @@
 	},
 	"dominoes": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/dominoes.pw.toml": {
@@ -440,16 +440,16 @@
 		"files": {
 			"mods/evl-toys.pw.toml": {
 				"download": {
-					"hash": "0685735385e062855673e9b1a6b8927fca504fc5638496610f84065014602ffcdbd7f04b3534a5e23ac74e588dedb2cc536ce4d8a423b778a295925217742d9c",
+					"hash": "702924c576ae12bd983be9f5ba5132f36712300f43d2f3fafa692bd4dbb3011bc682e9ac46f4e685a0499901026ea184dfa1ac164e3999d4b79fdbaeb6088632",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6tH37PX2/versions/8fzIu1vQ/mr_scoot-1.0.0-1.21.8-pa3.jar"
+					"url": "https://cdn.modrinth.com/data/6tH37PX2/versions/8EkfVu98/mr_scoot-1.0.0-1.21.8-pa4.jar"
 				},
-				"filename": "mr_scoot-1.0.0-1.21.8-pa3.jar",
+				"filename": "mr_scoot-1.0.0-1.21.8-pa4.jar",
 				"name": "EVL Toys",
 				"side": "both"
 			}
 		},
-		"key": "4f4472aca525f52e5e9ded32e0e6c52db494cbcd9a3f3a426908cf8984ee7635"
+		"key": "b0bf246c5090f99623e0bb9aa4ceb8f67c73d2a76e29ce4dd1b56e854fb2f305"
 	},
 	"eye_of_dreams": {
 		"checks": {
@@ -459,16 +459,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "d1b17f71266348c4806f9a089ae6184176edb6f8f8a57e39ea135bf1ce8de233eeb2aec518570f054ccc11d925e1ee6d943e4cafaa6da8ec911bb7662ac5180c",
+					"hash": "f7b5e22062b3007e0724525df49797208aa740921838dc00b6808511bb58cbf26414a9543970467373c7a3dd1e8f786d1aa9c5e574febf08d229f8dc0effa1cb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/F2BfsEgO/eye_of_dreams-1.0.3%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/wfJmOIlQ/eye_of_dreams-1.0.4%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.3+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.4+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "0a992f97270a69b85fde44cf114755da50f16b17889cc97bba4cb7f35b6d6c5d"
+		"key": "5674888bbcc2f301c4fe9afd8c31f9fa6bc32f7292c8f4d63ee32458719b15e8"
 	},
 	"five-guys-burgers-and-fries": {
 		"checks": {
@@ -1144,6 +1144,16 @@
 			"tested": true
 		},
 		"files": {
+			"mods/area_lib.pw.toml": {
+				"download": {
+					"hash": "f405a4f5f421e1f50f2ac15db4a8accd105a49a55a20bfee16dd0f03e8435f048242e32e272b99ede320531e2209e37cb338b1eb1d8f3c4796e0cb59e697cd60",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/IBuXDbma/versions/VSpGARur/area_lib-0.3.6%2B1.21.8.jar"
+				},
+				"filename": "area_lib-0.3.6+1.21.8.jar",
+				"name": "Area Lib",
+				"side": "both"
+			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
@@ -1156,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "0a21a2b3236f92b48a3dcf026b272b191f09787814f32c1a6d65fdedf0b192d22d200e19b6927272846db2800dcd6c6fdac48e44dc41fc45728badc2284c1a4a",
+					"hash": "f2a598e3cdd4e23ed094901e90fd5f1660f5e2ebe61ea8485f36084aca9f2a91ab61f015d9f07eec3ee90c3108eb0c1db6b93c44b5351cd31de6e20b67d2b461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/YdaFA01M/occmy-T.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/vzDnYbDh/occmy-U.jar"
 				},
-				"filename": "occmy-T.jar",
+				"filename": "occmy-U.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "1cf8f60bad913aa8342b6b72f88cac25f1780c615e2f5f38b3288adb0ea61d0b"
+		"key": "cd4dab5afa973b0378c642897b98e3df56a34f21ea609c8a7203ec42cad1890f"
 	},
 	"paintbrush-mod": {
 		"checks": {
