@@ -175,8 +175,8 @@
 	},
 	"chorus-honey": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/chorus-honey.pw.toml": {
@@ -1166,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "f2a598e3cdd4e23ed094901e90fd5f1660f5e2ebe61ea8485f36084aca9f2a91ab61f015d9f07eec3ee90c3108eb0c1db6b93c44b5351cd31de6e20b67d2b461",
+					"hash": "d8e8188982bf964571a11b94e7197ef9ac731fadf8f54e922e443f14d7fe65dec26b3a68ead029a7c1a8170cb45e83cc67fdb02659722c1dd692f6e90ab92b6d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/vzDnYbDh/occmy-U.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/WjKN5gxJ/occmy-V.jar"
 				},
-				"filename": "occmy-U.jar",
+				"filename": "occmy-V.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "cd4dab5afa973b0378c642897b98e3df56a34f21ea609c8a7203ec42cad1890f"
+		"key": "48c28486889302e24894afb8ed8cd2551d661130c14f1cc9bd646b52449769a4"
 	},
 	"paintbrush-mod": {
 		"checks": {
