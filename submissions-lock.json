@@ -1144,6 +1144,16 @@
 			"tested": true
 		},
 		"files": {
+			"mods/area_lib.pw.toml": {
+				"download": {
+					"hash": "f405a4f5f421e1f50f2ac15db4a8accd105a49a55a20bfee16dd0f03e8435f048242e32e272b99ede320531e2209e37cb338b1eb1d8f3c4796e0cb59e697cd60",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/IBuXDbma/versions/VSpGARur/area_lib-0.3.6%2B1.21.8.jar"
+				},
+				"filename": "area_lib-0.3.6+1.21.8.jar",
+				"name": "Area Lib",
+				"side": "both"
+			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
 					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
@@ -1156,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "0a21a2b3236f92b48a3dcf026b272b191f09787814f32c1a6d65fdedf0b192d22d200e19b6927272846db2800dcd6c6fdac48e44dc41fc45728badc2284c1a4a",
+					"hash": "f2a598e3cdd4e23ed094901e90fd5f1660f5e2ebe61ea8485f36084aca9f2a91ab61f015d9f07eec3ee90c3108eb0c1db6b93c44b5351cd31de6e20b67d2b461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/YdaFA01M/occmy-T.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/vzDnYbDh/occmy-U.jar"
 				},
-				"filename": "occmy-T.jar",
+				"filename": "occmy-U.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "1cf8f60bad913aa8342b6b72f88cac25f1780c615e2f5f38b3288adb0ea61d0b"
+		"key": "cd4dab5afa973b0378c642897b98e3df56a34f21ea609c8a7203ec42cad1890f"
 	},
 	"paintbrush-mod": {
 		"checks": {
