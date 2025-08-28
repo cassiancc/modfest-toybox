@@ -288,5 +288,11 @@
     "comment": "options.narrator_hotkey",
     "translation": "Toggle Narrator (+Ctrl)",
     "key": "key.keyboard.unknown"
+  },
+
+  {
+    "comment": "key_key.hero-statue.open_config",
+    "translation": "Open Config",
+    "key": "key.keyboard.unknown"
   }
 ]
