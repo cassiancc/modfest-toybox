@@ -12,6 +12,7 @@ from scripts import common
 
 
 def mod_ids():
+	edit_files = False
 	event_id = "toybox"
 	submissions_url = f"https://platform.modfest.net/event/{event_id}/submissions"
 
@@ -35,13 +36,17 @@ def mod_ids():
 							break
 			if submission["id"] not in submissions_ids:
 				submissions_ids[submission["id"]] = f"not found! try \"{safe_id}\""
+		os.chdir(common.get_repo_root())
 
 		for sub_id in sorted(submissions_ids.keys()):
 			mod_id = submissions_ids[sub_id]
 			print(f"\"{sub_id}\": \"{mod_id}\"")
-		os.chdir(common.get_repo_root())
-
-
+			if edit_files:
+				sub_file = common.get_repo_root() / f"scripts/data/{sub_id}.json"
+				sub_json = json.loads(common.read_file(sub_file))
+				sub_json["mod_id"] = mod_id
+				with open(sub_file, "w") as f:
+					f.write(json.dumps(sub_json, indent=2))
 
 if __name__ == "__main__":
 	mod_ids()
