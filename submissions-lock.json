@@ -426,7 +426,7 @@
 	},
 	"dronebox": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {},
@@ -711,16 +711,16 @@
 			},
 			"mods/hero-statue.pw.toml": {
 				"download": {
-					"hash": "7ea5d726ce123f4ef1a3b828fe1c4ebfe2d11a8805475c33cfd3d04bfc07917a5cc58d9d785cf4baae7b51fff2eef320143c44c6f64180b4bb8692f0e4f2f3ee",
+					"hash": "41f94268aa0b258bfcb8dd2a39c52da8be4aa6ccdce653ee58fcf82808a3fc2d66472567009d5accb1c9370e7aea7581942a0cc310c444aae97d9391afdcbd41",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/xseKjLRv/hero-statue-1.0.3%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ufuoq5Xq/versions/ViVUAzGR/hero-statue-1.0.4%2Bfabric-1.21.8.jar"
 				},
-				"filename": "hero-statue-1.0.3+fabric-1.21.8.jar",
+				"filename": "hero-statue-1.0.4+fabric-1.21.8.jar",
 				"name": "Hero Statue",
 				"side": "both"
 			}
 		},
-		"key": "ab4a717bf66ac0e52db7304433a1fda2de2e91e30f9e7aa40076cc46626aa2d0"
+		"key": "4092184c0b016ee49af8316ec796ae869a2dea9a7270787d13bfdbff74234c8a"
 	},
 	"hyper-silt": {
 		"checks": {
@@ -846,16 +846,16 @@
 			},
 			"mods/lifelike.pw.toml": {
 				"download": {
-					"hash": "565c147e3b779cc83022de9cb701fa6917e6969b7d1963d772399d8162916b37c27310216bd80d2f8e10ce012e5965e4a0ad27b093e63b1df5286defeae0bca3",
+					"hash": "69d68fdd82762fa6c8672fb517d890f4f4f186b1243c078caa4e3c5feec18251ac69073557d835e1211344f1f3f5d2d8e4213fe57764b39bff7b72707f5215f3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/KBupwLZ7/versions/fBessH3F/lifelike-0.1.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/KBupwLZ7/versions/FfqjMEF1/lifelike-0.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "lifelike-0.1.1+fabric-1.21.8.jar",
+				"filename": "lifelike-0.1.2+fabric-1.21.8.jar",
 				"name": "Lifelike",
 				"side": "both"
 			}
 		},
-		"key": "33e52ef98bc64194faaa229e7dbcc1f30e60620813562e63b58a122fe80c30e9"
+		"key": "2bf17f95387031d78804f66a893d94b114a134c45e3ce2be37ddb5a776447e87"
 	},
 	"losing-my-marbles": {
 		"checks": {
@@ -1166,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "e03cba70ce62aefd38781229f2f41140d97b54727a6f3cfe8f5831ef21798887d623698cf6401a4a3b459540ec99ed8df37631490b0e090c02ad3715d56469c9",
+					"hash": "8ccd4fb86559cc566eb7c15656e978414b1656d6b3404deb712e689d3854e8aefee163d3048fa1091c2c03315860754c13512c89215b18d6dbbb6a6aae80669b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/QMWO2RU5/occmy-W_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/DlPr2Ecr/occmy-X.jar"
 				},
-				"filename": "occmy-W_.jar",
+				"filename": "occmy-X.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "6385fb36663bf1b3a81cf30ce346c8324e4c2bbbdaec991e03861768f53d310a"
+		"key": "6155a0e78eeb8c07277370736c349621c2f10e71cfdc7d0d79f72a9d7dad079f"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1256,7 +1256,7 @@
 	},
 	"power-towel": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
@@ -1778,7 +1778,7 @@
 	},
 	"yamaxanadu": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": false
 		},
 		"files": {
