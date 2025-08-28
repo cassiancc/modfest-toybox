@@ -1,7 +1,7 @@
 [
 	{
 		"id": "windup-music-box",
-		"mod_id": "windup-music-box",
+		"mod_id": "windup_music_box",
 		"name": "Wind-up Music Box",
 		"description": "Adds a wind-up music box. Made for ModFest: Toybox!",
 		"platform": {
@@ -21,7 +21,7 @@
 	},
 	{
 		"id": "flying-frisbees",
-		"mod_id": "flying-frisbees",
+		"mod_id": "flying_frisbees",
 		"name": "Flying Frisbees",
 		"description": "Adds frisbees that can be thrown and played with!",
 		"platform": {
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "spacey-figurines",
-		"mod_id": "spacey-figurines",
+		"mod_id": "figurines",
 		"name": "Spacey Figurines",
 		"description": "A simple figurines mod, made for ModFest: Toybox.",
 		"platform": {
@@ -41,7 +41,7 @@
 	},
 	{
 		"id": "wabbajack-staff",
-		"mod_id": "wabbajack-staff",
+		"mod_id": "wabbajack",
 		"name": "Wabbajack",
 		"description": "Sheogorath's infamous artifact, brought into Minecraft",
 		"platform": {
@@ -51,7 +51,7 @@
 	},
 	{
 		"id": "losing-my-marbles",
-		"mod_id": "losing-my-marbles",
+		"mod_id": "losing_my_marbles",
 		"name": "Losing My Marbles!",
 		"description": "Build your very own Marble Run with plenty of unique marbles and track pieces. Fully data-driven!",
 		"platform": {
@@ -61,7 +61,7 @@
 	},
 	{
 		"id": "paintbrush-mod",
-		"mod_id": "paintbrush-mod",
+		"mod_id": "paintbrush",
 		"name": "Paintbrush",
 		"description": "Peacefully paint your world using brushes (and paint guns)",
 		"platform": {
@@ -71,7 +71,7 @@
 	},
 	{
 		"id": "five-guys-burgers-and-fries",
-		"mod_id": "five-guys-burgers-and-fries",
+		"mod_id": "fiveguysburgersandfries",
 		"name": "5 Guys (Burgers and Fries)",
 		"description": "Adds a burger and fries worth five guys when you eat it.",
 		"platform": {
@@ -81,7 +81,7 @@
 	},
 	{
 		"id": "toil-and-trouble",
-		"mod_id": "toil-and-trouble",
+		"mod_id": "toil_and_trouble",
 		"name": "Toil and Trouble",
 		"description": "Empower Cauldrons with additional functionality, including the ability to brew Potions.",
 		"platform": {
@@ -91,7 +91,7 @@
 	},
 	{
 		"id": "chiseled-mod",
-		"mod_id": "chiseled-mod",
+		"mod_id": "chiseled",
 		"name": "Chiseled",
 		"description": "Re-shape any [modded] blocks in a vanilla friendly way!",
 		"platform": {
@@ -101,7 +101,7 @@
 	},
 	{
 		"id": "potato-head",
-		"mod_id": "potato-head",
+		"mod_id": "potatohead",
 		"name": "Mr. Potato Head",
 		"description": "Build your own Mr. Potato Head that will enhance you when sitting in your offhand!",
 		"platform": {
@@ -131,7 +131,7 @@
 	},
 	{
 		"id": "toy-water-gun",
-		"mod_id": "toy-water-gun",
+		"mod_id": "toywatergun",
 		"name": "Toy Water Gun",
 		"description": "Adds a toy water gun that can shoot either water, lava or powder snow",
 		"platform": {
@@ -141,7 +141,7 @@
 	},
 	{
 		"id": "spring-boots",
-		"mod_id": "spring-boots",
+		"mod_id": "spring_boots",
 		"name": "Spring Boots",
 		"description": "Adds spring boots",
 		"platform": {
@@ -161,7 +161,7 @@
 	},
 	{
 		"id": "boing!",
-		"mod_id": "boing!",
+		"mod_id": "boing",
 		"name": "Boing!",
 		"description": "A Mod adding rubber swords to minecraft made for modfest: toybox",
 		"platform": {
@@ -171,7 +171,7 @@
 	},
 	{
 		"id": "grand-indestructible-kingdom",
-		"mod_id": "grand-indestructible-kingdom",
+		"mod_id": "gik",
 		"name": "Grand Indestructible Kingdom",
 		"description": "The strongest fortress in the entire world!",
 		"platform": {
@@ -181,7 +181,7 @@
 	},
 	{
 		"id": "crazy-pogo",
-		"mod_id": "crazy-pogo",
+		"mod_id": "crazy_pogo",
 		"name": "Crazy Pogo",
 		"description": "Adds a pogo stick that lets you bounce off of surfaces",
 		"platform": {
@@ -211,7 +211,7 @@
 	},
 	{
 		"id": "mob-mystery-dollhouse",
-		"mod_id": "mob-mystery-dollhouse",
+		"mod_id": "mmdollhouse",
 		"name": "Mob Mystery Dollhouse",
 		"description": "A \"murder mystery\" minigame (that can be run entirely serverside, or on your own!)",
 		"platform": {
@@ -221,7 +221,7 @@
 	},
 	{
 		"id": "confetti-cannon",
-		"mod_id": "confetti-cannon",
+		"mod_id": "confetticannon",
 		"name": "Confetti Cannon",
 		"description": "This mods adds the Confetti Cannon. It deals knockback, so punch your friends around!",
 		"platform": {
@@ -231,7 +231,7 @@
 	},
 	{
 		"id": "toy-bricks",
-		"mod_id": "toy-bricks",
+		"mod_id": "toy_bricks",
 		"name": "Toy Bricks",
 		"description": "A Toy Brick themed blockset - Made for ModFest Toybox",
 		"platform": {
@@ -241,7 +241,7 @@
 	},
 	{
 		"id": "copper-cauldron",
-		"mod_id": "copper-cauldron",
+		"mod_id": "copper_cauldron",
 		"name": "Copper Cauldron",
 		"description": "Adds a copper cauldron, used for various recipes",
 		"platform": {
@@ -251,7 +251,7 @@
 	},
 	{
 		"id": "notenoughminecraft",
-		"mod_id": "notenoughminecraft",
+		"mod_id": "not-enough-minecraft",
 		"name": "NotEnoughMinecraft",
 		"description": "Did you ever want to play Minecraft inside of Minecraft without installing any mods on the client? NO??? Anyways, now you can!",
 		"platform": {
@@ -261,7 +261,7 @@
 	},
 	{
 		"id": "volo-volare",
-		"mod_id": "volo-volare",
+		"mod_id": "volare",
 		"name": "Volo Volare",
 		"description": "Step into a model glider and soar into a world of wonder.",
 		"platform": {
@@ -291,7 +291,7 @@
 	},
 	{
 		"id": "mica-runes",
-		"mod_id": "mica-runes",
+		"mod_id": "mica",
 		"name": "Mica",
 		"description": "Mica is a magic mod consisting of individual runes that can be combined to great potential.",
 		"platform": {
@@ -301,7 +301,7 @@
 	},
 	{
 		"id": "power-towel",
-		"mod_id": "power-towel",
+		"mod_id": "power_towel",
 		"name": "Power Towel",
 		"description": "End-game weapon that can transform between multiple forms",
 		"platform": {
@@ -321,7 +321,7 @@
 	},
 	{
 		"id": "rc-toys",
-		"mod_id": "rc-toys",
+		"mod_id": "rctoys",
 		"name": "RC Toys",
 		"description": "Remote controlled toys (currently just a car) in modern Minecraft!",
 		"platform": {
@@ -331,7 +331,7 @@
 	},
 	{
 		"id": "playful-planes",
-		"mod_id": "playful-planes",
+		"mod_id": "playful_planes",
 		"name": "Playful Planes",
 		"description": "Throwable Paper Planes with a few surprises",
 		"platform": {
@@ -341,7 +341,7 @@
 	},
 	{
 		"id": "maglev-minecarts",
-		"mod_id": "maglev-minecarts",
+		"mod_id": "maglev",
 		"name": "Maglev",
 		"description": "A new era of minecart technology",
 		"platform": {
@@ -351,7 +351,7 @@
 	},
 	{
 		"id": "sword-of-legend",
-		"mod_id": "sword-of-legend",
+		"mod_id": "sword_of_legend",
 		"name": "The Sword of Legend",
 		"description": "Adds four cool looking sticks to fight with.",
 		"platform": {
@@ -361,7 +361,7 @@
 	},
 	{
 		"id": "action-mobs",
-		"mod_id": "action-mobs",
+		"mod_id": "action_mobs",
 		"name": "Action Mobs",
 		"description": "A mod that adds pose-able mob statues to Minecraft.",
 		"platform": {
@@ -371,7 +371,7 @@
 	},
 	{
 		"id": "be-a-doll",
-		"mod_id": "be-a-doll",
+		"mod_id": "be_a_doll",
 		"name": "Would you be a doll?",
 		"description": "Become (slightly moreso) a doll! (a little thing that can ride around on others' shoulders, among other small tricks.)",
 		"platform": {
@@ -401,7 +401,7 @@
 	},
 	{
 		"id": "evl-toys",
-		"mod_id": "evl-toys",
+		"mod_id": "scoot",
 		"name": "EVL Toys",
 		"description": "Adds in a brand new toy, Mr Scoot! Very heavy WIP but uploading for ModFest: Toybox",
 		"platform": {
@@ -411,7 +411,7 @@
 	},
 	{
 		"id": "occipital-metonymy",
-		"mod_id": "occipital-metonymy",
+		"mod_id": "occmy",
 		"name": "Occipital Metonymy",
 		"description": "physical homology",
 		"platform": {
@@ -431,7 +431,7 @@
 	},
 	{
 		"id": "grow-your-crystal",
-		"mod_id": "grow-your-crystal",
+		"mod_id": "growyourcrystal",
 		"name": "Grow Your Crystal",
 		"description": "This mod adds a way to grow your own crystal blocks, with customizable colors and effects",
 		"platform": {
@@ -451,7 +451,7 @@
 	},
 	{
 		"id": "newinbox",
-		"mod_id": "newinbox",
+		"mod_id": "new_in_box",
 		"name": "New in Box!",
 		"description": "Sometimes, the box is more fun than the toy inside.",
 		"platform": {
@@ -471,7 +471,7 @@
 	},
 	{
 		"id": "hyper-silt",
-		"mod_id": "hyper-silt",
+		"mod_id": "hyper_silt",
 		"name": "Hyper Silt",
 		"description": "Hyper Silt lets you BLJ",
 		"platform": {
@@ -481,7 +481,7 @@
 	},
 	{
 		"id": "jack-in-the-box",
-		"mod_id": "jack-in-the-box",
+		"mod_id": "jack_in_the_box",
 		"name": "Jack In The Box",
 		"description": "A prank mod made for Modfest: Toybox",
 		"platform": {
@@ -491,7 +491,7 @@
 	},
 	{
 		"id": "manikin",
-		"mod_id": "manikin",
+		"mod_id": "mannequin",
 		"name": "Mannequin",
 		"description": "Become a doll.",
 		"platform": {
@@ -521,7 +521,7 @@
 	},
 	{
 		"id": "zip-to-it",
-		"mod_id": "zip-to-it",
+		"mod_id": "ziptoit",
 		"name": "Zip To It!",
 		"description": "Zip across the lands in style with a Zippy Sticky Hand! Made for ModFest Toybox!",
 		"platform": {
@@ -581,7 +581,7 @@
 	},
 	{
 		"id": "not-a-toy",
-		"mod_id": "not-a-toy",
+		"mod_id": "notatoy",
 		"name": "Not A Toy",
 		"description": "Adds things that are DEFINITELY not toys.\nCreated for Modfest Toybox",
 		"platform": {
@@ -621,7 +621,7 @@
 	},
 	{
 		"id": "chorus-honey",
-		"mod_id": "chorus-honey",
+		"mod_id": "chorus_honey",
 		"name": "Chorus Honey",
 		"description": "Mix Chorus Fruit and Honey to ascend to new heights!",
 		"platform": {
@@ -633,7 +633,7 @@
 		"id": "googun",
 		"mod_id": "googun",
 		"name": "Googun",
-		"description": "Adds several new types of Googun\u2122 Goo that can be shot onto terrain, changing how you traverse the world! Inspired by Portal 2's Gels.",
+		"description": "Adds several new types of Googun\u00e2\u201e\u00a2 Goo that can be shot onto terrain, changing how you traverse the world! Inspired by Portal 2's Gels.",
 		"platform": {
 			"type": "modrinth",
 			"project_id": "uDTsPbdZ"
