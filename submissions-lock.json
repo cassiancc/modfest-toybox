@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "7542b36cea1175e7d12325d927b38445a7eecf2d58394509cea5161aa09ee2da5d441315996e0263a0c1c66757c18a65b40c8a68763e15ee170bb16f7457bb6b",
+					"hash": "60d14f2c93e0f350b1b6b35d769e0f6855a092ce4e1ed80ad5949bb6f8ea7fc83cc25769c157264b22e170fd2a17c34285b56953a3f0f5f6d43c43d13271f8de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/4i0OXrfQ/action_mobs-0.3.12.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/RfhjxNly/action_mobs-0.3.13.jar"
 				},
-				"filename": "action_mobs-0.3.12.jar",
+				"filename": "action_mobs-0.3.13.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "c380620edf6bee491d73628056d420fef6343bd6105918169ff45fd743720ba9"
+		"key": "98e1a95ad06e54b0c1250b93866facdd95a5a2e55fd0c98865ffb7ded9f396cb"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -50,7 +50,7 @@
 	"bloub4mc": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/bloub4mc.pw.toml": {
@@ -205,14 +205,14 @@
 	"citsabmob": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/citsabmob.pw.toml": {
 				"download": {
-					"hash": "4d104010a7bcce7ca85ab29adc33ddd868ee71c82e8f07cd668b432924fe09ae2e51113f4471d0a315edc247b62255c3e26f6313d5eb727e8a33ec2e84a35686",
+					"hash": "5ac30aa8d0d2c360c21af5cea7b46d524cf6caedddb98b225d9fd3a2270ad19c623b322be5183ed391f5647238127c7b28ee24c69f47643e5b1577b905c22e9e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TNkUvcmR/versions/FeC6RD14/citsabmob-1.0.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/TNkUvcmR/versions/OrScTlfm/citsabmob-1.0.0%2B1.21.8.jar"
 				},
 				"filename": "citsabmob-1.0.0+1.21.8.jar",
 				"name": "citsabmoB",
@@ -229,7 +229,7 @@
 				"side": "both"
 			}
 		},
-		"key": "6b06fd63cc98efcb9ab21a07b91757c39c9875f2f581c336e4d3d323499e6ddc"
+		"key": "814cfa74a328fa6c57bcd0922da852799a6066b24408ed0f60cc946219f46170"
 	},
 	"confetti-cannon": {
 		"checks": {
@@ -497,11 +497,11 @@
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
-					"hash": "1649860c5e2056fc6ee71c58d73b55030f75e0df3e4284270a0159c01fe34e81003bafbb3d41ec788f27c451df9d6660d7c121247b4416c20ebb13fb8b8c60a3",
+					"hash": "fa892628742ce7a7e35cd7227e1952bd3435d109ee8c1ef220d9ab61379c29ddc9f65cb7805d904166b18659bcf0b35b0e7e42a4707359f9dbfbffbecd890016",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/wqjqPiQF/Flying-Frisbees-1.0.4%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/J40zPDLZ/Flying-Frisbees-1.0.5%2Bfabric-1.21.8.jar"
 				},
-				"filename": "Flying-Frisbees-1.0.4+fabric-1.21.8.jar",
+				"filename": "Flying-Frisbees-1.0.5+fabric-1.21.8.jar",
 				"name": "Flying Frisbees",
 				"side": "both"
 			},
@@ -516,7 +516,7 @@
 				"side": "both"
 			}
 		},
-		"key": "52471ea863e92aa33afce40b31119c77f021ea9376987f91377d7ff3f78e69c0"
+		"key": "574f2b58b23423a1edc5e39294e3b3915b46ced1b720decf6361bdd2425fccc9"
 	},
 	"googun": {
 		"checks": {
@@ -657,7 +657,7 @@
 	"hattened": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-language-kotlin.pw.toml": {
@@ -981,11 +981,11 @@
 		"files": {
 			"mods/mob-mystery-dollhouse.pw.toml": {
 				"download": {
-					"hash": "6a30f4c53740626313530a4b34638520b9e8f8155cf397ecdfb5f4367886492d0c7fe544e3640ae5ead003ad864880c837f280fc28929b821d7136f63dbb490e",
+					"hash": "a80527d21b38bd92c5ddc7cd8034eb72fbe4a3e6de6b9ded01537b0af608d7065723b624ad77343114ba50a739f9aee3053bce4ca9788abf98c87de9e7c52abd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/59noaiUf/versions/9hxaRwX9/MobMysteryDollhouse-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/59noaiUf/versions/Ghv5GfnM/MobMysteryDollhouse-0.1.2.jar"
 				},
-				"filename": "MobMysteryDollhouse-0.1.1.jar",
+				"filename": "MobMysteryDollhouse-0.1.2.jar",
 				"name": "Mob Mystery Dollhouse",
 				"side": "both"
 			},
@@ -1000,7 +1000,7 @@
 				"side": "server"
 			}
 		},
-		"key": "3882cc9426dd50dbd226442362917c30c5d75bdd746a672f8f91cb7338dd9f36"
+		"key": "9dc8d799c8de20e348c155b45977ca09a879d3e90729ce537296eadfb93b94ee"
 	},
 	"more_than_a_foxbox": {
 		"checks": {
@@ -1088,16 +1088,16 @@
 			},
 			"mods/not-a-toy.pw.toml": {
 				"download": {
-					"hash": "6f6048b6c9233b0b8545de0d78a4c0e6d939f6c0d4a30310c5666f6f37eb59fd0f6fe481b2643437767d1f086f93fb797e32eda6b6e49997204b6e89d7f38721",
+					"hash": "644c8a21bcd7e900d03f53c248768ab3e17607aa34b285611c924d6ada20dd77ad562cbf9670221e335747c0515b71598528b52e9bae27a1992af7cf3f563706",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/VB8MVgEF/notatoy-1.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/yMwktkWM/versions/X53o7FPy/notatoy-1.2.0.jar"
 				},
-				"filename": "notatoy-1.1.1.jar",
+				"filename": "notatoy-1.2.0.jar",
 				"name": "Not A Toy",
 				"side": "both"
 			}
 		},
-		"key": "8f1f95def499dae97a1291939b12ca89c3a789723d6ea4058b2a78cf71d08e15"
+		"key": "7c54db501457b49d3f72b0063a2029b1e876d49e448ddb4852b6eec765a197dd"
 	},
 	"notenoughminecraft": {
 		"checks": {
@@ -1166,16 +1166,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "8ccd4fb86559cc566eb7c15656e978414b1656d6b3404deb712e689d3854e8aefee163d3048fa1091c2c03315860754c13512c89215b18d6dbbb6a6aae80669b",
+					"hash": "b06623e2aee7965ccfb86e91538b610c3974fbc28b4489628ab09d3c90a6d52684c8298a52d5cfde36561348574578a2fe7e44dcc4077ae42fab1b131dfcd376",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/DlPr2Ecr/occmy-X.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/9zcyz4lR/occmy-Y.jar"
 				},
-				"filename": "occmy-X.jar",
+				"filename": "occmy-Y.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "6155a0e78eeb8c07277370736c349621c2f10e71cfdc7d0d79f72a9d7dad079f"
+		"key": "97930e839b5a5e89f71a6e5e9d654ce141743fec94450ef3030e53dd93e700af"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1257,7 +1257,7 @@
 	"power-towel": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -1779,7 +1779,7 @@
 	"yamaxanadu": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/yamaxanadu.pw.toml": {
