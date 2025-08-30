@@ -1,4 +1,40 @@
 {
+	"music.area.toybox": {
+		"sounds": [
+			{
+				"name": "music/stereo/the_six_sides_of_the_dice",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/booyah",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/booyah",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/how_i_dance",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/three",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/interloc",
+				"stream": true
+			},
+			{
+				"name": "modfest:music/stereo/ivory_throne",
+				"stream": true
+			},
+			{
+				"name": "music/stereo/notholirion",
+				"stream": true
+			}
+		]
+	},
 	"music.stereo.loop.siege": {
 		"sounds": [
 			{
