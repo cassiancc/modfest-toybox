@@ -1,0 +1,11 @@
+{
+  "type": "losing_my_marbles:marble",
+  "material": "minecraft:tnt",
+  "result": {
+    "components": {
+      "minecraft:custom_name": "Nice Try."
+    },
+    "count": 1,
+    "id": "minecraft:potato"
+  }
+}
