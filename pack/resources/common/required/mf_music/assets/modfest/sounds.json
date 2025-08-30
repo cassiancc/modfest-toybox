@@ -1,4 +1,12 @@
 {
+	"music.stereo.loop.siege": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/siege_loop",
+				"stream": true
+			}
+		]
+	},
 	"music.notholirion": {
 		"sounds": [
 			{
