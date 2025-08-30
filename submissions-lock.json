@@ -808,16 +808,16 @@
 		"files": {
 			"mods/laseredstone.pw.toml": {
 				"download": {
-					"hash": "b25b71eda8056ff2d8e4209d962f99931c95939161fc669ec368b76a2b294e05ead0e218e24074918137e853e94535ff605df08bd18a0f92742cf9384e629027",
+					"hash": "96e3fded68eb7e3a91857c4976d4d02f61cca6d7eba9e91072e2fcb1eea18aa199616aca35dfa4659cb7c04addcf62787cb98f226f7bfe23f5ce3e45a61f3447",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/wVe1MGjI/laseredstone-1.0.6%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/jlbb1hKs/versions/B3QPq8Gs/laseredstone-1.0.7%2B1.21.8.jar"
 				},
-				"filename": "laseredstone-1.0.6+1.21.8.jar",
+				"filename": "laseredstone-1.0.7+1.21.8.jar",
 				"name": "Laseredstone",
 				"side": "both"
 			}
 		},
-		"key": "b063d5e352de937b824a3d4e87a28184d5e4efe792724f910ee2f9966d3c466d"
+		"key": "15c6336679e572413874b5a756f4f6a50317c3c4405bd695bce46afb5cb1c525"
 	},
 	"lifelike": {
 		"checks": {
@@ -1157,16 +1157,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "19380f8623017cd18b4777a66a6d92a0daacc782da0f3cf4004cff5756d6f5c09e69625bfa3492ce0fa6095b8add829938040e967e458e0148707a85228d4830",
+					"hash": "5c31b3941d1eb5cb4540f124930b2633c16c37eed02467748156f16841a201ba8981b05178d0f82a6018ee9ace14c97720c3d5867834ead170b9aa0216da0e09",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/gThcAFvT/occmy-Z.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/S0IL3XyL/occmy-A_.jar"
 				},
-				"filename": "occmy-Z.jar",
+				"filename": "occmy-A_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "d5e6e5ebfde36a950166a7d167f67f7fb82e6274cda0ef7523d61b36614ed499"
+		"key": "a716c12d81cefe6461949e95797dd7e0ab06caf0ad0705f3b64aa0b4560fb5a2"
 	},
 	"paintbrush-mod": {
 		"checks": {
