@@ -1167,16 +1167,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "501aa1670902357a0bebe94640929ff9e2661a503306fd25a26fea1dcfa18421ac2ff6e02b22bd56a4e2a7238800686b186ba68c8cb91236d25fd5b2eb475eea",
+					"hash": "c905cf09e805e0a49e74e99620381c56618ee4efe22bf0b9e10dd2d15609ae9a2f9c8dd795cd572c14630276f98d42d014af800694367a62c41ae07b313eab95",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/zoVWj5Ny/occmy-D_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/AOCOB1Ik/occmy-E_.jar"
 				},
-				"filename": "occmy-D_.jar",
+				"filename": "occmy-E_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "85e66f10bb532acc67fa8841b0da5ce9a6c5d637fad1aeaa4c24f032dce9c642"
+		"key": "cb663784f197c9386994fe5c40cd235699ea5e29f77a3018948b8faf72537750"
 	},
 	"paintbrush-mod": {
 		"checks": {
