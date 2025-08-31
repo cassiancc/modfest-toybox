@@ -15,12 +15,12 @@
           "threshold": 0.6,
           "when_broken": {
             "type": "losing_my_marbles:play_sound",
-            "sound": "minecraft:entity.parrot.imitate.creeper"
+            "sound": "minecraft:entity.generic.explode"
           }
         },
         {
           "type": "losing_my_marbles:play_sound",
-          "sound": "minecraft:entity.generic.explode"
+          "sound": "minecraft:entity.parrot.imitate.creeper"
         }
       ]
     },
@@ -32,3 +32,4 @@
     "losing_my_marbles:asset": "losing_my_marbles:tnt"
   }
 }
+
