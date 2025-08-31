@@ -26,26 +26,26 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "b75063bd14bc23a0e6842cd132696980d0181511f5d4f43815f6493cde4cb10cd38d660d4e2a30efd8c5db69470c5dcbd6cd26df9a89f9e4574e9cf66ef2eccf",
+					"hash": "585aa8fcda04d6662e8eefd530d9a59701c86fcbf20ee6422646f41ef05e7880f30fa1837fafe54567c2716e26bffa23a9e50293004640dc2ee9d0af9add0c01",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/P3RCyVx9/be-a-doll-1.0.1%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/Hbghpztl/be-a-doll-1.0.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.1+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.2+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
 				},
-				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"filename": "fabric-api-0.133.0+1.21.8.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "dee7f5d868ee9f61184fb61eb5f700913653f4461e572d2a8d29299f5b6edde8"
+		"key": "1bc5eb3a2120fccc4d5bde169d6521a57cb9483e9faf3bfdd5cdf80636d203b2"
 	},
 	"bloub4mc": {
 		"checks": {
@@ -1475,16 +1475,16 @@
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
-					"hash": "da7b34c46b404b179b48e8bb5ab6e714606d7ffeb67595dc47e4605149d76e2325720617ecc60ac3951358a6cc7308c291a635525c9d2e25d8bc1b56636037b4",
+					"hash": "ebb09a0889a222364b78c5db5733c4ea4cf20f76f1523a532161187c6286779d755bb969f3015726a9442f925eab4b7c1cd012b249b82e266951f1b4efa6305c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/WrjSNDS6/surpuncher-1.0.5%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/rb98BojG/surpuncher-1.0.6%2B1.21.8.jar"
 				},
-				"filename": "surpuncher-1.0.5+1.21.8.jar",
+				"filename": "surpuncher-1.0.6+1.21.8.jar",
 				"name": "Surpuncher",
 				"side": "both"
 			}
 		},
-		"key": "d1baf28660e7b24d41fe0bfda80d544dbfe34ed320205e295e3bc73798ce658d"
+		"key": "6beaac2d7101f575b5bf8798250744918884bb10f307c51e038bb9ea10d40f11"
 	},
 	"sword-of-legend": {
 		"checks": {
