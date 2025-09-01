@@ -432,16 +432,16 @@
 		"files": {
 			"mods/dronebox.pw.toml": {
 				"download": {
-					"hash": "a714888874de6cfc3164c586e12396a92b40ed6a8ee912ee19b323e99ad9ea698566f53c90e7a54b6e156b9928940d6f9be661076ff83f38c97fade8702940ae",
+					"hash": "c1575e7eaf1789ad30f87132eb42d181acd913546d8d7d0069a9724b01e1c4c4e6be99962b5bf2d40ebdc117239d63d6b3bd3641de5666c9d11e72319c8bfbe7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/c86KnxZe/dronebox-1.1.0%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/aQJwuluL/versions/cj59E50y/dronebox-1.1.2%2Bfabric-1.21.8.jar"
 				},
-				"filename": "dronebox-1.1.0+fabric-1.21.8.jar",
+				"filename": "dronebox-1.1.2+fabric-1.21.8.jar",
 				"name": "Dronebox",
 				"side": "both"
 			}
 		},
-		"key": "094eb432977cd4c63d7320752eddb5688200d11c38d5367063a36e2b571af530"
+		"key": "10ab325480f0b15ae413065ac2acd217cddb1c4ca2991247b701630f7f53ac4b"
 	},
 	"evl-toys": {
 		"checks": {
@@ -470,16 +470,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "f7b5e22062b3007e0724525df49797208aa740921838dc00b6808511bb58cbf26414a9543970467373c7a3dd1e8f786d1aa9c5e574febf08d229f8dc0effa1cb",
+					"hash": "fdeb61989f7e4705e79046c0320245e4bf723350bce2329a61c9ec780618be93a154c00f3af15f25b6accaeb45f33760f6fd3f49ffc5a3d200621605d7de1a9c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/wfJmOIlQ/eye_of_dreams-1.0.4%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/Dhr6IsJQ/eye_of_dreams-1.0.5%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.4+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.5+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "5674888bbcc2f301c4fe9afd8c31f9fa6bc32f7292c8f4d63ee32458719b15e8"
+		"key": "2128ccd6a24a740afecfad63ead57ede21315e1c372ef50d2401e1a50543d67c"
 	},
 	"five-guys-burgers-and-fries": {
 		"checks": {
@@ -1475,16 +1475,16 @@
 		"files": {
 			"mods/surpuncher.pw.toml": {
 				"download": {
-					"hash": "ebb09a0889a222364b78c5db5733c4ea4cf20f76f1523a532161187c6286779d755bb969f3015726a9442f925eab4b7c1cd012b249b82e266951f1b4efa6305c",
+					"hash": "c82094cf8a6c3c012c95b87e18e3279008182bd63fe803aaf42c8d5c4360766f620e377a71e4c5122b8e2987ec7b51fd6bd7d77ece1c0c0fe95a522cda709503",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/rb98BojG/surpuncher-1.0.6%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/AlvIXaBX/versions/b5cntEqK/surpuncher-1.0.7%2B1.21.8.jar"
 				},
-				"filename": "surpuncher-1.0.6+1.21.8.jar",
+				"filename": "surpuncher-1.0.7+1.21.8.jar",
 				"name": "Surpuncher",
 				"side": "both"
 			}
 		},
-		"key": "6beaac2d7101f575b5bf8798250744918884bb10f307c51e038bb9ea10d40f11"
+		"key": "5b82424234307fb0c40e7730503590bcdcf595d5c9b53840164cce32162363f3"
 	},
 	"sword-of-legend": {
 		"checks": {
