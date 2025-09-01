@@ -204,7 +204,7 @@
 	},
 	"citsabmob": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
