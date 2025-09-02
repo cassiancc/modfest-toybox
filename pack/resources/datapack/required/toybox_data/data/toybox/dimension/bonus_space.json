@@ -1,0 +1,11 @@
+{
+	"type": "toybox:bonus_space",
+	"generator": {
+		"type": "flat",
+		"settings": {
+			"layers": [],
+			"biome": "void"
+		}
+
+	}
+}
