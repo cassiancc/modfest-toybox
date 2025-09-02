@@ -115,18 +115,18 @@
 			}
 		]
 	},
-	"music.tilapia": {
-		"sounds": [
-			{
-				"name": "modfest:music/tilapia",
-				"stream": true
-			}
-		]
-	},
 	"music.stereo.antiquity": {
 		"sounds": [
 			{
 				"name": "modfest:music/stereo/antiquity",
+				"stream": true
+			}
+		]
+	},
+	"music.tilapia": {
+		"sounds": [
+			{
+				"name": "modfest:music/tilapia",
 				"stream": true
 			}
 		]
