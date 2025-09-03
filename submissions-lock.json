@@ -1167,16 +1167,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "c905cf09e805e0a49e74e99620381c56618ee4efe22bf0b9e10dd2d15609ae9a2f9c8dd795cd572c14630276f98d42d014af800694367a62c41ae07b313eab95",
+					"hash": "8fc8ff08e93d2cedbb490f773d8f240b202b657d003022ab8c37fab72d528f1017e2aaacd3425e4f15b7233a6b82d2b7fbf83d7c444cd607cbf4e63db78b2ed3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/AOCOB1Ik/occmy-E_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/eznnOTSH/occmy-F_.jar"
 				},
-				"filename": "occmy-E_.jar",
+				"filename": "occmy-F_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "cb663784f197c9386994fe5c40cd235699ea5e29f77a3018948b8faf72537750"
+		"key": "8fabc82a23f7efd502761f60bc39dcdc9ccfe356c51dbf5113edac524e45a850"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1804,25 +1804,25 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
 				},
-				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"filename": "fabric-api-0.133.0+1.21.8.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/zip-to-it.pw.toml": {
 				"download": {
-					"hash": "bf2111c51cff4162c4b640fb01461b9212007a1b8f94e225b55d3d4495eaf081e676dd38d2899600456aeeda60977c8d51fba33075fdadc42d5872fc5bd98e49",
+					"hash": "e66a6631b3d1f7889cf479402d52b39211619acc2ffc77679e0b89145c9540a812fbf677e73e02c05568b85ebab97ff98a9e2aa7f2fa0ab01642336ad3d08a71",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/TLbNtq7U/zip-to-it-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/47S4akEa/versions/2fUYFVrq/zip-to-it-1.0.3.jar"
 				},
-				"filename": "zip-to-it-1.0.2.jar",
+				"filename": "zip-to-it-1.0.3.jar",
 				"name": "Zip To It!",
 				"side": "both"
 			}
 		},
-		"key": "6e83861dd15ef19989b387fea01c0847a657825e466b5b9644f085491b93bd4e"
+		"key": "bea233b5f6e850e8e9f18c518827e5cc577bd057fcb8923b82b8448e37c68eb5"
 	}
 }
