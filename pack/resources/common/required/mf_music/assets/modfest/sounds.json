@@ -147,6 +147,14 @@
 			}
 		]
 	},
+	"music.stereo.tilapia": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/tilapia",
+				"stream": true
+			}
+		]
+	},
 	"music.three": {
 		"sounds": [
 			{
