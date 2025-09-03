@@ -1,42 +1,62 @@
 {
-	"modfest.music.antiquity": "cordova - Antiquity",
+	"modfest.music.antiquity": "cordova - Antiquity (Jukebox)",
 	"modfest.music.stereo.antiquity": "cordova - Antiquity",
-	"occmy:sfx.et8": "cordova - et8",
-	"modfest.music.tilapia": "cordova - Tilapia",
-	"modfest.music.hand_me_down": "Nulb - Hand Me Down",
-	"modfest.music.stereo.hand_me_down": "Nulb - Hand Me Down",
-	"modfest.music.how_i_dance": "Nulb - And This Is How I Dance",
-	"modfest.music.stereo.how_i_dance": "Nulb - And This Is How I Dance",
-	"modfest.music.ivory_throne": "Nulb - Ivory Throne",
-	"modfest.music.stereo.ivory_throne": "Nulb - Ivory Throne",
-	"modfest.music.notholirion": "Deltarisk - Notholirion",
-	"modfest.music.stereo.notholirion": "Deltarisk - Notholirion",
-	"modfest.music.interloc": "Nulb - Interloc",
-	"modfest.music.stereo.interloc": "Nulb - Interloc",
-	"modfest.music.stereo.timeout": "Deltarisk - Timeout!",
-	"modfest.music.stereo.siege_loop": "Nulb - SIEGE!",
-	"modfest.music.timeout": "Nulb - Timeout!",
-	"modfest.music.three": "Nulb - three",
-	"modfest.music.stereo.three": "Nulb - three",
-	"modfest.music.advent": "Aethyus - Advent",
-	"modfest.music.stereo.advent": "Aethyus - Advent",
-	"modfest.music.booyah": "Superkat32 - Booyah",
-	"modfest.music.stereo.booyah": "Superkat32 - Booyah",
-	"modfest.music.childhood_promises": "Aethyus - Childhood Promises",
-	"modfest.music.stereo.childhood_promises": "Aethyus - Childhood Promises",
-	"modfest.music.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
-	"modfest.music.stereo.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
+	"lore.modfest.music.antiquity": "Hint #1 - PLACEHOLDER HINT",
 
-	"lore.modfest.music.antiquity": "Hint #1 - HINT FOR #2",
-	"lore.modfest.music.hand_me_down": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.how_i_dance": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.ivory_throne": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.notholirion": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.interloc": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.timeout": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.three": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.advent": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.booyah": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.childhood_promises": "Hint #X - PLACEHOLDER HINT",
-	"lore.modfest.music.the_six_sides_of_the_dice": "Hint #X - PLACEHOLDER HINT"
+	"modfest.music.hand_me_down": "Nulb - Hand Me Down (Jukebox)",
+	"modfest.music.stereo.hand_me_down": "Nulb - Hand Me Down",
+	"lore.modfest.music.hand_me_down": "Hint #2 - PLACEHOLDER HINT",
+
+	"modfest.music.advent": "Aethyus - Advent (Jukebox)",
+	"modfest.music.stereo.advent": "Aethyus - Advent",
+	"lore.modfest.music.advent": "Hint #3 - PLACEHOLDER HINT",
+
+	"modfest.music.booyah": "Superkat32 - Booyah (Jukebox)",
+	"modfest.music.stereo.booyah": "Superkat32 - Booyah",
+	"lore.modfest.music.booyah": "Hint #4 - PLACEHOLDER HINT",
+
+	"modfest.music.three": "Nulb - three (Jukebox)",
+	"modfest.music.stereo.three": "Nulb - three",
+	"lore.modfest.music.three": "Hint #5 - PLACEHOLDER HINT",
+
+	"modfest.music.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice (Jukebox)",
+	"modfest.music.stereo.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
+	"lore.modfest.music.the_six_sides_of_the_dice": "Hint #6 - PLACEHOLDER HINT",
+
+	"modfest.music.interloc": "Nulb - Interloc (Jukebox)",
+	"modfest.music.stereo.interloc": "Nulb - Interloc",
+	"lore.modfest.music.interloc": "Hint #7 - PLACEHOLDER HINT",
+
+	"lore.hyper_silt.hyper_silt": "Hint #8 - PLACEHOLDER HINT",
+
+	"modfest.music.notholirion": "Deltarisk - Notholirion (Jukebox)",
+	"modfest.music.stereo.notholirion": "Deltarisk - Notholirion",
+	"lore.modfest.music.notholirion": "Hint #9 - PLACEHOLDER HINT",
+
+	"modfest.music.timeout": "Nulb - Timeout! (Jukebox)",
+	"modfest.music.stereo.timeout": "Deltarisk - Timeout!",
+	"lore.modfest.music.timeout": "Hint #10 - PLACEHOLDER HINT",
+
+	"modfest.music.how_i_dance": "Nulb - And This Is How I Dance (Jukebox)",
+	"modfest.music.stereo.how_i_dance": "Nulb - And This Is How I Dance",
+	"lore.modfest.music.how_i_dance": "Hint #11 - PLACEHOLDER HINT",
+
+	"modfest.music.ivory_throne": "Nulb - Ivory Throne (Jukebox)",
+	"modfest.music.stereo.ivory_throne": "Nulb - Ivory Throne",
+	"lore.modfest.music.ivory_throne": "Hint #12 - PLACEHOLDER HINT",
+
+	"modfest.music.stereo.siege_loop": "Nulb - SIEGE!",
+	"lore.modfest.music.siege": "Hint #13 - PLACEHOLDER HINT",
+
+	"lore.modfest.music.a_thousand_eyes_stare": "Hint #14 - PLACEHOLDER HINT",
+
+	"modfest.music.childhood_promises": "Aethyus - Childhood Promises (Jukebox)",
+	"modfest.music.stereo.childhood_promises": "Aethyus - Childhood Promises",
+	"lore.modfest.music.childhood_promises": "Hint #15 - PLACEHOLDER HINT",
+
+	"occmy:sfx.et8": "cordova - et8 (Jukebox)",
+	"lore.modfest.music.et8": "Hint #16* - PLACEHOLDER HINT",
+
+	"modfest.music.tilapia": "cordova - Tilapia (Jukebox)",
+	"lore.modfest.music.tilapia": "Hint #17* - PLACEHOLDER HINT"
 }
