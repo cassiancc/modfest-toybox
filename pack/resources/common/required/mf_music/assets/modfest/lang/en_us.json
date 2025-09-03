@@ -1,62 +1,64 @@
 {
 	"modfest.music.antiquity": "cordova - Antiquity (Jukebox)",
 	"modfest.music.stereo.antiquity": "cordova - Antiquity",
-	"lore.modfest.music.antiquity": "Hint #1 - PLACEHOLDER HINT",
+	"lore.modfest.music.antiquity": "Hint #1 - Betray your eyes, Become where you started and test what you know",
 
 	"modfest.music.hand_me_down": "Nulb - Hand Me Down (Jukebox)",
 	"modfest.music.stereo.hand_me_down": "Nulb - Hand Me Down",
-	"lore.modfest.music.hand_me_down": "Hint #2 - PLACEHOLDER HINT",
+	"lore.modfest.music.hand_me_down": "Hint #2 - PLACEHOLDER",
 
 	"modfest.music.advent": "Aethyus - Advent (Jukebox)",
 	"modfest.music.stereo.advent": "Aethyus - Advent",
-	"lore.modfest.music.advent": "Hint #3 - PLACEHOLDER HINT",
+	"lore.modfest.music.advent": "Hint #3 - PLACEHOLDER",
 
 	"modfest.music.booyah": "Superkat32 - Booyah (Jukebox)",
 	"modfest.music.stereo.booyah": "Superkat32 - Booyah",
-	"lore.modfest.music.booyah": "Hint #4 - PLACEHOLDER HINT",
+	"lore.modfest.music.booyah": "Hint #4 - PLACEHOLDER",
 
 	"modfest.music.three": "Nulb - three (Jukebox)",
 	"modfest.music.stereo.three": "Nulb - three",
-	"lore.modfest.music.three": "Hint #5 - PLACEHOLDER HINT",
+	"lore.modfest.music.three": "Hint #5 - PLACEHOLDER",
 
 	"modfest.music.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice (Jukebox)",
 	"modfest.music.stereo.the_six_sides_of_the_dice": "Aethyus - The Six Sides of the Dice",
-	"lore.modfest.music.the_six_sides_of_the_dice": "Hint #6 - PLACEHOLDER HINT",
+	"lore.modfest.music.the_six_sides_of_the_dice": "Hint #6 - PLACEHOLDER",
 
 	"modfest.music.interloc": "Nulb - Interloc (Jukebox)",
 	"modfest.music.stereo.interloc": "Nulb - Interloc",
-	"lore.modfest.music.interloc": "Hint #7 - PLACEHOLDER HINT",
+	"lore.modfest.music.interloc": "Hint #7 - A mod of silt and song...",
 
-	"lore.hyper_silt.hyper_silt": "Hint #8 - PLACEHOLDER HINT",
+	"lore.hyper_silt.hyper_silt": "Hint #8 - PLACEHOLDER",
 
 	"modfest.music.notholirion": "Deltarisk - Notholirion (Jukebox)",
 	"modfest.music.stereo.notholirion": "Deltarisk - Notholirion",
-	"lore.modfest.music.notholirion": "Hint #9 - PLACEHOLDER HINT",
+	"lore.modfest.music.notholirion": "Hint #9 - PLACEHOLDER",
 
 	"modfest.music.timeout": "Nulb - Timeout! (Jukebox)",
 	"modfest.music.stereo.timeout": "Deltarisk - Timeout!",
-	"lore.modfest.music.timeout": "Hint #10 - PLACEHOLDER HINT",
+	"lore.modfest.music.timeout": "Hint #10 - PLACEHOLDER",
 
 	"modfest.music.how_i_dance": "Nulb - And This Is How I Dance (Jukebox)",
 	"modfest.music.stereo.how_i_dance": "Nulb - And This Is How I Dance",
-	"lore.modfest.music.how_i_dance": "Hint #11 - PLACEHOLDER HINT",
+	"lore.modfest.music.how_i_dance": "Hint #11 - Where art is made, capture the purple one",
 
 	"modfest.music.ivory_throne": "Nulb - Ivory Throne (Jukebox)",
 	"modfest.music.stereo.ivory_throne": "Nulb - Ivory Throne",
-	"lore.modfest.music.ivory_throne": "Hint #12 - PLACEHOLDER HINT",
+	"lore.modfest.music.ivory_throne": "Hint #12 - PLACEHOLDER",
 
+	"modfest.music.siege": "Nulb - SIEGE! (Jukebox)",
+	"modfest.music.stereo.siege": "Nulb - SIEGE!",
 	"modfest.music.stereo.siege_loop": "Nulb - SIEGE!",
-	"lore.modfest.music.siege": "Hint #13 - PLACEHOLDER HINT",
+	"lore.modfest.music.siege": "Hint #13 - PLACEHOLDER",
 
-	"lore.modfest.music.a_thousand_eyes_stare": "Hint #14 - PLACEHOLDER HINT",
+	"lore.modfest.music.a_thousand_eyes_stare": "Hint #14 - PLACEHOLDER",
 
 	"modfest.music.childhood_promises": "Aethyus - Childhood Promises (Jukebox)",
 	"modfest.music.stereo.childhood_promises": "Aethyus - Childhood Promises",
-	"lore.modfest.music.childhood_promises": "Hint #15 - PLACEHOLDER HINT",
+	"lore.modfest.music.childhood_promises": "Hint #15 - PLACEHOLDER",
 
 	"occmy:sfx.et8": "cordova - et8 (Jukebox)",
-	"lore.modfest.music.et8": "Hint #16* - PLACEHOLDER HINT",
+	"lore.modfest.music.et8": "Hint #16* - PLACEHOLDER",
 
 	"modfest.music.tilapia": "cordova - Tilapia (Jukebox)",
-	"lore.modfest.music.tilapia": "Hint #17* - PLACEHOLDER HINT"
+	"lore.modfest.music.tilapia": "Hint #17* - A free gift from a bony friend"
 }
