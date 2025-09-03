@@ -35,6 +35,22 @@
 			}
 		]
 	},
+	"music.siege": {
+		"sounds": [
+			{
+				"name": "modfest:music/siege",
+				"stream": true
+			}
+		]
+	},
+	"music.stereo.siege": {
+		"sounds": [
+			{
+				"name": "modfest:music/stereo/siege",
+				"stream": true
+			}
+		]
+	},
 	"music.stereo.loop.siege": {
 		"sounds": [
 			{
