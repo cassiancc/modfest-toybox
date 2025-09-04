@@ -55,16 +55,16 @@
 		"files": {
 			"mods/bloub4mc.pw.toml": {
 				"download": {
-					"hash": "513377d2f76ea5207bc0d49160bbb94123c08a137422ace69330a72876a6ae4ed1a79ba3921710762b7c6a0ce034fabacac0fbcd81aca39172ff5795276ea6b4",
+					"hash": "575d345734fe5456ab897377e34a548087aee5b5852a42bb6e87c565783274d313afb472011d8fbc3ad3069525007fc887649af94cadd6c7dc4fb6ca856a2921",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Xx7t493Q/versions/mfYGJAuw/bloub4mc-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/Xx7t493Q/versions/P4EDlfgd/bloub4mc-1.1.0.jar"
 				},
-				"filename": "bloub4mc-1.0.0.jar",
+				"filename": "bloub4mc-1.1.0.jar",
 				"name": "Bloub 4 MC",
 				"side": "client"
 			}
 		},
-		"key": "f2c696a77d152b773ff171f7fead8a83783aa34b2e646674341062320001e455"
+		"key": "0bcf49c6dea8d599c6977f87b4714a6a3eb364aa1db838e62edc96b087f66864"
 	},
 	"blowing-bubbles": {
 		"checks": {
@@ -1167,16 +1167,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "8fc8ff08e93d2cedbb490f773d8f240b202b657d003022ab8c37fab72d528f1017e2aaacd3425e4f15b7233a6b82d2b7fbf83d7c444cd607cbf4e63db78b2ed3",
+					"hash": "4cbb546fef240aacfa1ba3056c57e0a41fcf30333a9d1e266d38d57f7858618ec5ad98a18eb55a51b14df795c7c19d5fb6d3ff522123512eb6504b6dd0ab2685",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/eznnOTSH/occmy-F_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/Zl34LMYF/occmy-G_.jar"
 				},
-				"filename": "occmy-F_.jar",
+				"filename": "occmy-G_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "8fabc82a23f7efd502761f60bc39dcdc9ccfe356c51dbf5113edac524e45a850"
+		"key": "74189ba6d3dde99fe55dcc6f29ea45b41febb4679d21b006eb9f80e0bd23aeed"
 	},
 	"paintbrush-mod": {
 		"checks": {
@@ -1215,26 +1215,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "af781f8e06b1fff86c0b7055c9e696552555d5fbc71298447f816689756fe598b2ced182fbf6687c9457472352118e5052fa66de116e7a818584fd8f6e523a7d",
+					"hash": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/jjBL6OsN/fabric-api-0.132.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
 				},
-				"filename": "fabric-api-0.132.0+1.21.8.jar",
+				"filename": "fabric-api-0.133.0+1.21.8.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/playful-planes.pw.toml": {
 				"download": {
-					"hash": "76bf52bc6cc4c69c37b8dedea6d1637b3e08a1c8312985a18f80bc6da9051da08f784bce1c4bb31d8ffd9e896b4d742defdc6e632d8052668a59971d1e1db459",
+					"hash": "ab609de34e15e3529cf2bdae5b3c68d8e2189785712fc818e0395ac5078f2123e24dbfa918f2eb8646629784513418c60dc8cd76e860baf680f8fba81c70f5bc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/WvjxhgxA/playful-planes-0.1.2%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/uhBXuNH2/versions/LAsMblh0/playful-planes-0.1.3%2Bfabric-1.21.8.jar"
 				},
-				"filename": "playful-planes-0.1.2+fabric-1.21.8.jar",
+				"filename": "playful-planes-0.1.3+fabric-1.21.8.jar",
 				"name": "Playful Planes",
 				"side": "both"
 			}
 		},
-		"key": "375da66991c5cdfba416a742c040d34b92c9ae2f7a57fbcc37f51bf00607443e"
+		"key": "c6f0066755ba0960ac5d96511ead15bcfb687400123aa9e3b643efd172f17485"
 	},
 	"potato-head": {
 		"checks": {
@@ -1292,16 +1292,16 @@
 		"files": {
 			"mods/rc-toys.pw.toml": {
 				"download": {
-					"hash": "19a9ad4bf2f2b22ae1885a9d8b3869a62a4ad32628bfdf9ebea8fb11e7700de3ba7295d28465d0bbcfbed448e55d81e6be34d10ee75dcdcfc60cabfc262ef842",
+					"hash": "ea867c792520c7843886491251dfa44950bf3daa1b44fd6552e1d0bf5cf4ab1625079f58a44a0e8cbda12c3f49e1b813bf8835f86ae2d9bcc365b93910ce015e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9YKCmF3w/versions/c2klJlf1/rc-toys-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/9YKCmF3w/versions/toHnmuQb/rc-toys-1.0.2.jar"
 				},
-				"filename": "rc-toys-1.0.1.jar",
+				"filename": "rc-toys-1.0.2.jar",
 				"name": "RC Toys",
 				"side": "both"
 			}
 		},
-		"key": "ea2301a82ee7f213cc31ac6150ac1ce7597c922ca318be6baaac4385550b1d7b"
+		"key": "fca0280bec03553ba1b52d3d781a24f702e3d5ac1a066cdfe0bac011df239640"
 	},
 	"showtime": {
 		"checks": {
