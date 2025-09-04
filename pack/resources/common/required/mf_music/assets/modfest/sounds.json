@@ -2,7 +2,7 @@
 	"music.area.toybox": {
 		"sounds": [
 			{
-				"name": "music/stereo/the_six_sides_of_the_dice",
+				"name": "modfest:music/stereo/the_six_sides_of_the_dice",
 				"stream": true
 			},
 			{
@@ -30,7 +30,7 @@
 				"stream": true
 			},
 			{
-				"name": "music/stereo/notholirion",
+				"name": "modfest:music/stereo/notholirion",
 				"stream": true
 			}
 		]
