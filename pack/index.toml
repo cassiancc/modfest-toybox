@@ -276,6 +276,10 @@ file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/default-components.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/defaulted-hotkeys.pw.toml"
 metafile = true
 
