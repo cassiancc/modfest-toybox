@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "c87604ace55ca11b15ec36d84c098748ebb9391704a87ba3109ead62b6213e4926627b325ce5df23d7a51c0417d176ebc9520d5102844e5f6f4914700d1b84b3",
+					"hash": "eb75e3f09fea2619acbde55607bd13272f9c96743625b3b740b7daf0a6b7417a4ea4b263f8d8a2970ef63abb8bef5a9bb91d6822e98ba0118bb6ea6a92cf26bd",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/e7uoem7X/action_mobs-0.3.16.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/woXdsM0l/action_mobs-0.3.17.jar"
 				},
-				"filename": "action_mobs-0.3.16.jar",
+				"filename": "action_mobs-0.3.17.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "d813f220d9c616025b9f623ae86a51013abca35c63e2cb5c68090e7577cdb921"
+		"key": "be51bb6c538b666a7611bf156fdfec40862e808482c8f64aa98d99b2af2cd5e4"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -69,7 +69,7 @@
 	"blowing-bubbles": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/blowing-bubbles.pw.toml": {
