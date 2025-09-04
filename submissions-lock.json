@@ -26,11 +26,11 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "23c4fe3f021c7abee7d7e1eebb67a2886bdb7dde05c5487dfad5806cb07d479721ee8bbb622b77f4bde4824a18e25cc4f4629c39a048b0515d7294334d8ace45",
+					"hash": "df2d3d5af5d2457cd3110f47db3fed43aace520cb21ba59f680b328145216407ec03ba7c4ee013c7fb2196a24ae5f7ce03569623a3ae68915e6bdfefbef2ec50",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/aNryeCte/be-a-doll-1.0.4%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/1i44vsRm/be-a-doll-1.0.5%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.4+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.5+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
@@ -45,7 +45,7 @@
 				"side": "both"
 			}
 		},
-		"key": "62191416610c655894bd691c177f7e21a3846f01897c89b57163343e52be8ab7"
+		"key": "7c011a3b9f50e955af94b37e12c10295d4e67446e609c0987b14a5534ff543ec"
 	},
 	"bloub4mc": {
 		"checks": {
