@@ -1,0 +1,28 @@
+{
+	"values": [
+		"#losing_my_marbles:track_pieces",
+
+		"#toy_bricks:toy_brick_blocks",
+
+		"dominoes:domino",
+		"occmy:antimonic_domino",
+
+		"more_than_a_foxbox:polyfill_block",
+		"more_than_a_foxbox:cardboard_box",
+		"more_than_a_foxbox:plushie",
+
+		"minecraft:redstone_wire",
+		"minecraft:redstone_torch",
+		"minecraft:redstone_block",
+		"minecraft:repeater",
+		"minecraft:comparator",
+		"minecraft:waxed_copper_bulb",
+		"minecraft:oak_button",
+		"minecraft:oak_pressure_plate",
+		"minecraft:sculk_sensor",
+		"minecraft:redstone_lamp",
+		"minecraft:lantern",
+		"minecraft:chain",
+		"minecraft:scaffolding"
+	]
+}
