@@ -26,11 +26,11 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "8d999923cb63950ad3d4bdf4a1b2293cde54fbc2ad94889f120140cf72d31e5e76250b50be831af894d9b79be75364b184c6995df9c01c9cb70c2a1ca72db5cd",
+					"hash": "23c4fe3f021c7abee7d7e1eebb67a2886bdb7dde05c5487dfad5806cb07d479721ee8bbb622b77f4bde4824a18e25cc4f4629c39a048b0515d7294334d8ace45",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/e4sKcs5G/be-a-doll-1.0.3%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/aNryeCte/be-a-doll-1.0.4%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.3+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.4+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
@@ -45,7 +45,7 @@
 				"side": "both"
 			}
 		},
-		"key": "ac171bbf3f1d6c5314d24d047b5440593f59e17d2d2e002ef61d70861b4729c2"
+		"key": "62191416610c655894bd691c177f7e21a3846f01897c89b57163343e52be8ab7"
 	},
 	"bloub4mc": {
 		"checks": {
@@ -537,16 +537,16 @@
 		"files": {
 			"mods/googun.pw.toml": {
 				"download": {
-					"hash": "c10c4e61f1812d04b5c264c1effa0a846607c3193a6dfd1d15a1a3cee29ec5aa15c232939327135a993dbd1a627a78f98592f7877868217e70da72f0c2984fc5",
+					"hash": "2e322bac3ba8c114c3f93e45de7f08fa1e688dbfa4f18ee8e12a3a9b9dda4fa5403a9a2e8f3ffcbb80485d6b08ae8bebc98637eeb2e3c06fd2cf0cb5f2fe60ca",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/L2yBBiyL/googun-0.1.2b.jar"
+					"url": "https://cdn.modrinth.com/data/uDTsPbdZ/versions/OO0wSWeK/googun-0.1.3.jar"
 				},
-				"filename": "googun-0.1.2b.jar",
+				"filename": "googun-0.1.3.jar",
 				"name": "Googun",
 				"side": "both"
 			}
 		},
-		"key": "c6a5bb2a039ad72d94819ee5dbe566b65235c72a32010ab91e65224e4f264776"
+		"key": "826d8556b77316fefeac69e4cb039a0ed0e8a9c5e70bc3e034ef5accbb60a596"
 	},
 	"grand-indestructible-kingdom": {
 		"checks": {
@@ -1766,16 +1766,16 @@
 			},
 			"mods/windup-music-box.pw.toml": {
 				"download": {
-					"hash": "68de44bbc4f013f166e39cc9ceb7b5175faf189ecb65c9b2118496f61dbe653190d328e789de73722a2d2d1c1af89e44667454f5b148dde7b6de835a4ca4cd34",
+					"hash": "0c2223b86b2ee18404b70e7ee5e749c873bebf312c4ebebe89f4428826993a07f5b50b772bc3e7df50f4d50eabce0ebfdcdd9c89e6b3d8b7795cdd9caba4d394",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/LXAWvbzy/windup_music_box-0.3.1.jar"
+					"url": "https://cdn.modrinth.com/data/1UK6vyVH/versions/sHj7tSoj/windup_music_box-0.3.1.jar"
 				},
 				"filename": "windup_music_box-0.3.1.jar",
 				"name": "Wind-up Music Box",
 				"side": "both"
 			}
 		},
-		"key": "44686a9e91c699690374403d48cbb7780a6af1e79ef06e7cd9c0061e6d29db49"
+		"key": "0db91f586dd80d2d0e1e9dccf55900d00cb3fe201659a2500b0f7935a7b66370"
 	},
 	"yamaxanadu": {
 		"checks": {
