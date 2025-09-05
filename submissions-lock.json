@@ -26,11 +26,11 @@
 		"files": {
 			"mods/be-a-doll.pw.toml": {
 				"download": {
-					"hash": "c0355763e88b4ded226f0dc3338e9e6454db463ad59a95d106178172abffa3bbe9a4cca3ccfd00a6893af75b1f1a499d17b9ec69a3525fdcc0bb48ed386a7de0",
+					"hash": "4a0dffbe3b356d9f025ae7f45a5e204556697be5c27b746e422f94fb98e63ab53a4caf8607c41b527733bf542a2b9bbe973d1d730945e3e5d6b71cc6ca90894f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/HVd9nX0x/be-a-doll-1.0.6%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/MAd0Z2MD/versions/q1LbMWtw/be-a-doll-1.0.7%2Bfabric-1.21.8.jar"
 				},
-				"filename": "be-a-doll-1.0.6+fabric-1.21.8.jar",
+				"filename": "be-a-doll-1.0.7+fabric-1.21.8.jar",
 				"name": "Would you be a doll?",
 				"side": "both"
 			},
@@ -45,7 +45,7 @@
 				"side": "both"
 			}
 		},
-		"key": "990d97f451e83a4b1a2e446f5860e26cbfe551a47aafc6e9341e2a74b9b60223"
+		"key": "e389516f5d92f1ec81e8b2c5c49bb1aebda37ce81a2b7e4bbc65ba1fb1f7a600"
 	},
 	"bloub4mc": {
 		"checks": {
@@ -1021,16 +1021,16 @@
 			},
 			"mods/more_than_a_foxbox.pw.toml": {
 				"download": {
-					"hash": "caf1b597eb9883f21f07c682f7b4ae31dd883bb3a0d8284ced6ee61f136fe1806ca29f45aa5c63ec47df9c63caa39a8e2006d44bc01773ee8f0e9be22489f4aa",
+					"hash": "73d147e9d540e4778a2c43aac3ccb722c32e365b0480516894a380c61d705898f8e072a0bb96580c94ca56cf4b25d2f35b85a0822c3d28387c990376f2b1a592",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/fgjyBWLF/more_than_a_foxbox-1.0.6%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/OQ7P6zcP/versions/eU1JptqC/more_than_a_foxbox-1.0.7%2Bfabric-1.21.8.jar"
 				},
-				"filename": "more_than_a_foxbox-1.0.6+fabric-1.21.8.jar",
+				"filename": "more_than_a_foxbox-1.0.7+fabric-1.21.8.jar",
 				"name": "More Than A Foxbox",
 				"side": "both"
 			}
 		},
-		"key": "ecbee37d43390d426e09ca08db1566092140bb6ef25e879650d547f1196e16e7"
+		"key": "3ecf37b962da44495c5b443ec339658d39361a7ef2147cc929694a2c8ddfd9d5"
 	},
 	"newinbox": {
 		"checks": {
