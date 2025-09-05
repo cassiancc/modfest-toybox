@@ -1,0 +1,110 @@
+# Whether The Wabbajack! should have a cooldown between uses
+# default: false
+cooldown = false
+# The cooldown, in seconds
+# range: 0.1 - 10.0
+# default: 1.0
+cooldownSeconds = 1.0
+# range: 0.1 - 100.0
+# default: 3.0
+aoeSize = 3.0
+# Whether the area of effect spells should target other players
+# default: true
+pvp = false
+
+[spellToggles]
+	# default: true
+	attributeScramble = true
+	# default: true
+	confetti = true
+	# default: true
+	disintegration = true
+	# default: true
+	fear = true
+	# default: true
+	fireball = true
+	# default: true
+	freeze = true
+	# default: true
+	frenzy = true
+	# default: true
+	fury = true
+	# default: true
+	heal = true
+	# default: true
+	magicMissiles = true
+	# default: true
+	teleportation = true
+	# default: true
+	thunderbolt = true
+	# default: true
+	transformation = true
+
+# Controls the probability of throwing specific spells when using The Wabbajack!
+# Higher weighted spells are more likely to be thrown
+[spellWeights]
+	# range: 1 - 100
+	# default: 1
+	attributeScramble = 1
+	# range: 1 - 100
+	# default: 1
+	confetti = 1
+	# range: 1 - 100
+	# default: 1
+	disintegration = 1
+	# range: 1 - 100
+	# default: 1
+	fear = 1
+	# range: 1 - 100
+	# default: 1
+	fireball = 1
+	# range: 1 - 100
+	# default: 1
+	freeze = 1
+	# range: 1 - 100
+	# default: 1
+	frenzy = 1
+	# range: 1 - 100
+	# default: 1
+	fury = 1
+	# range: 1 - 100
+	# default: 1
+	heal = 1
+	# range: 1 - 100
+	# default: 1
+	magicMissiles = 1
+	# range: 1 - 100
+	# default: 1
+	teleportation = 1
+	# range: 1 - 100
+	# default: 1
+	thunderbolt = 1
+	# range: 1 - 100
+	# default: 1
+	transformation = 1
+
+[attributeScrambleSpell]
+	# How many attributes to scramble
+	# default: 7
+	attributes = 7
+	# How much can the attribute be multiplied by
+	# The final multiplier is randomly chosen between [-Magnitude, Magnitude]
+	# default: 2.0
+	magnitude = 2.0
+
+[fireballSpell]
+	# default: 3.0
+	explosionPower = 3.0
+
+[freezeSpell]
+	# Whether the freeze spell should encase entities in frozen ice
+	# default: true
+	placesBlocks = true
+
+[magicMissilesSpell]
+	# The damage dealt per magic missile
+	# default: 5.0
+	damage = 5.0
+	# How many magic missiles to throw per spell cast
+	# default: 5
+	projectiles = 5
