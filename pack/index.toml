@@ -232,10 +232,6 @@ file = "config/waila/waila.json5"
 file = "config/waila/waila_plugins.json5"
 
 [[files]]
-file = "mods/area-tools.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/area_lib.pw.toml"
 metafile = true
 
