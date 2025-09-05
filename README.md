@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/Y2eudDRB/images/042e5e20c9bc7aa42b82d268a09b8e2c8b3aabb6.webp" /></center>
 
 <center>
 Welcome to the Toybox!<br/>
@@ -20,7 +20,7 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Discover secrets through walls, below floors, and hidden in plain sight
 
 <center>
-<img width="50%" alt="spawn preview" src=""/><br/>
+<img width="50%" alt="spawn preview" src="https://cdn.modrinth.com/data/Y2eudDRB/images/6f20dd52fbe36a1d6a8742818308fa46cc71d57a.png"/><br/>
 <i>What will you find to inspire you?</i>
 </center>
 
