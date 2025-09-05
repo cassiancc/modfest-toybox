@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "8df8eb22d9ff261b9fef07d1c090793aa7fe1c18518a38b002756316ae98303346bc332aa24e344546b8bdfc026a3dbe0b71eec4e13a47883ce5f47b398d35f0",
+					"hash": "f39cb633a1e7956cac01b9dfcf426df8222130a4c1ce7250b98bcf3b482882946eea892aad7556f251196248bc4c599ac657119a158c106adbf4cc7eb070fba1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/QMBGkdE0/action_mobs-0.3.18.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/J1qHBb8M/action_mobs-0.3.19.jar"
 				},
-				"filename": "action_mobs-0.3.18.jar",
+				"filename": "action_mobs-0.3.19.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "2451a9f5fa8f0bec5bb193c7a09ff8a85c2834e0c77647be6ab1997625b1cf23"
+		"key": "841436768459b9c157e9d6b0befd123116b1a671ebcdfdaca3c9461240826044"
 	},
 	"be-a-doll": {
 		"checks": {
@@ -470,16 +470,16 @@
 		"files": {
 			"mods/eye_of_dreams.pw.toml": {
 				"download": {
-					"hash": "fdeb61989f7e4705e79046c0320245e4bf723350bce2329a61c9ec780618be93a154c00f3af15f25b6accaeb45f33760f6fd3f49ffc5a3d200621605d7de1a9c",
+					"hash": "43da55ceec90520f4f908f7d2d68257c5d1cab8b7d3520f3b70e727dc7841c2c93067059fb80692f4529de31fa1bd556a8cae568542b4af0ce3c673069a3a5c8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/Dhr6IsJQ/eye_of_dreams-1.0.5%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/4hpv2SxP/versions/BZjY5ZAH/eye_of_dreams-1.0.6%2B1.21.8.jar"
 				},
-				"filename": "eye_of_dreams-1.0.5+1.21.8.jar",
+				"filename": "eye_of_dreams-1.0.6+1.21.8.jar",
 				"name": "Eye of Dreams",
 				"side": "both"
 			}
 		},
-		"key": "2128ccd6a24a740afecfad63ead57ede21315e1c372ef50d2401e1a50543d67c"
+		"key": "6fcb76fe78b0634213f7a91585c6688c844b6e2455726e42ff273ed08559d652"
 	},
 	"five-guys-burgers-and-fries": {
 		"checks": {
@@ -1167,16 +1167,16 @@
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "4cbb546fef240aacfa1ba3056c57e0a41fcf30333a9d1e266d38d57f7858618ec5ad98a18eb55a51b14df795c7c19d5fb6d3ff522123512eb6504b6dd0ab2685",
+					"hash": "61831adc84786aed5e2e9b4cc25cedcbd3b0b295f212626c19e0b71afb642144545c45a892ff5588e0330dc11e38804f4dd4f1a4d91588bbb504f63332eabc14",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/Zl34LMYF/occmy-G_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/TIMk8EDs/occmy-H_.jar"
 				},
-				"filename": "occmy-G_.jar",
+				"filename": "occmy-H_.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "74189ba6d3dde99fe55dcc6f29ea45b41febb4679d21b006eb9f80e0bd23aeed"
+		"key": "4560909787946b65bf6c9e4ab25b5ebd7f9141b50680ee1960caa93b0576678e"
 	},
 	"paintbrush-mod": {
 		"checks": {
