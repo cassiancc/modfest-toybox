@@ -1,0 +1,22 @@
+{
+	// Boost duration in ticks. A value of 0 disables boosting.
+	boostTicks: 60,
+	// Maximum boosted speed in blocks per second. A value of 0 disables boosting.
+	boostMaxSpeed: 2.0,
+	// Boost force in newtons. A value of 0 disables boosting.
+	boostForce: 0.5,
+	// Vertical extent of thermals in blocks. A value of 0 disables thermals.
+	thermalsHeight: 32,
+	// Thermal strength is constant until this height, then follows inverse-squared falloff.
+	thermalsFullStrengthHeight: 8,
+	// Thermal strength in blocks per second. A value of 0 disables thermals.
+	thermalsStrength: 2.5,
+	// Maximum number of passengers on a glider.
+	maxPassengers: 5,
+	// Prevent mobs bigger than a glider from riding it.
+	restrictPassengerSize: true,
+	// Server-side glider interpolation ticks. A value of 0 disables interpolation.
+	serverInterpolationTicks: 1,
+	// Client-side glider interpolation ticks. A value of 0 disables interpolation.
+	clientInterpolationTicks: 3
+}
