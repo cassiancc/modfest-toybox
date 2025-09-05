@@ -121,6 +121,7 @@ def create_mmc_meta(packwiz_info, unsup_stable, unsup_experimental):
 	components.append({
 		"cachedName": "Una's Simple Updater (stable)",
 		"cachedVersion": unsup_stable,
+		"disabled": True,
 		"uid": "com.unascribed.unsup.stable"
 	})
 
@@ -128,7 +129,6 @@ def create_mmc_meta(packwiz_info, unsup_stable, unsup_experimental):
 	components.append({
 		"cachedName": "Una's Simple Updater (experimental)",
 		"cachedVersion": unsup_experimental,
-		"disabled": True,
 		"uid": "com.unascribed.unsup.experimental"
 	})
 
