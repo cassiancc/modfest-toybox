@@ -3,21 +3,21 @@
 
 <center>
 Welcome to the Toybox!<br/>
-A collaboration between ??? modders, as hosted by <a href="https://modfest.net">ModFest</a>.
+A collaboration between 76 modders, as hosted by <a href="https://modfest.net">ModFest</a>.
 </center>
 
 ---
 
-**ModFest: Toybox** is a mod development jam that ran from ??? through ???.
+**ModFest: Toybox** is a mod development jam that ran from August 2nd, 2025 through August 18th, 2025
 
 This modpack contains all submissions, as well as a showcase world built by participants to show off their mods!
 
 **Key Features**:
-- Witness the dawn of ??? mods, including ???!
-- Explore a ??? world ???!
-- ????? original music made just for the event!
-- Find and earn ??? collectible "shards", tracking booth visits, exploration, and mastery!
-- ????
+- Witness the dawn of 64 mods, including Occipital Metonymy, Would you be a doll?, and Zip To it!
+- Explore a Fantastical bedroom-shaped world full of toys!
+- Jam out to 18 original tracks composed just for the event!
+- Find and earn ~200 collectible "shards", tracking booth visits, exploration, and mastery!
+- Discover secrets through walls, below floors, and hidden in plain sight
 
 <center>
 <img width="50%" alt="spawn preview" src=""/><br/>
