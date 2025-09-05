@@ -7,16 +7,16 @@
 		"files": {
 			"mods/action-mobs.pw.toml": {
 				"download": {
-					"hash": "eb75e3f09fea2619acbde55607bd13272f9c96743625b3b740b7daf0a6b7417a4ea4b263f8d8a2970ef63abb8bef5a9bb91d6822e98ba0118bb6ea6a92cf26bd",
+					"hash": "8df8eb22d9ff261b9fef07d1c090793aa7fe1c18518a38b002756316ae98303346bc332aa24e344546b8bdfc026a3dbe0b71eec4e13a47883ce5f47b398d35f0",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/woXdsM0l/action_mobs-0.3.17.jar"
+					"url": "https://cdn.modrinth.com/data/8vB3SrXr/versions/QMBGkdE0/action_mobs-0.3.18.jar"
 				},
-				"filename": "action_mobs-0.3.17.jar",
+				"filename": "action_mobs-0.3.18.jar",
 				"name": "Action Mobs",
 				"side": "both"
 			}
 		},
-		"key": "be51bb6c538b666a7611bf156fdfec40862e808482c8f64aa98d99b2af2cd5e4"
+		"key": "2451a9f5fa8f0bec5bb193c7a09ff8a85c2834e0c77647be6ab1997625b1cf23"
 	},
 	"be-a-doll": {
 		"checks": {
