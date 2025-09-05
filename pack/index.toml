@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".pteroignore"
+
+[[files]]
 file = "config/ballotbox.toml"
 
 [[files]]
@@ -190,6 +193,12 @@ file = "config/modfest_sync/behaviour.properties"
 file = "config/modmenu.json"
 
 [[files]]
+file = "config/music-moods.properties"
+
+[[files]]
+file = "config/not-enough-minecraft.json"
+
+[[files]]
 file = "config/polymer/common.json"
 
 [[files]]
@@ -223,6 +232,9 @@ file = "config/surveyor.toml"
 file = "config/teabridge.json"
 
 [[files]]
+file = "config/wabbajack/wabbajack.toml"
+
+[[files]]
 file = "config/waila/blacklist.json5"
 
 [[files]]
@@ -236,15 +248,10 @@ file = "mods/area_lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/area_tools-0.1.9+1.21.8.jar"
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/axiom-client.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/axiom-server.pw.toml"
 metafile = true
 
 [[files]]
@@ -270,6 +277,9 @@ metafile = true
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/crystalline-sky-0.1.1+fabric-1.21.8.jar"
 
 [[files]]
 file = "mods/default-components.pw.toml"
@@ -303,10 +313,13 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.8.5+toybox-1.21.7.jar"
+file = "mods/fireblanket-0.8.8+toybox-1.21.7.jar"
 
 [[files]]
-file = "mods/glowcase-2.3.2+1.21.7.jar"
+file = "mods/fireblanket-0.8.9+toybox-1.21.7.jar"
+
+[[files]]
+file = "mods/glowcase-2.3.4+1.21.7.jar"
 
 [[files]]
 file = "mods/hoofprint.pw.toml"
@@ -425,14 +438,6 @@ file = "mods/worldborderfix.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/worldedit-cui.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-server.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 metafile = true
 
@@ -474,10 +479,16 @@ file = "resources/common/required/mf_music/assets/modfest/items/music/ivory_thro
 file = "resources/common/required/mf_music/assets/modfest/items/music/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/siege.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/the_six_sides_of_the_dice.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/items/music/tilapia.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/items/music/timeout.json"
@@ -513,10 +524,16 @@ file = "resources/common/required/mf_music/assets/modfest/models/item/music/ivor
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/siege.json"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/the_six_sides_of_the_dice.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/models/item/music/tilapia.json"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/models/item/music/timeout.json"
@@ -552,6 +569,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/ivory_thr
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/notholirion.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/siege.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/advent.ogg"
 
 [[files]]
@@ -579,10 +599,19 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/iv
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/notholirion.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/siege.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/siege_loop.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/the_six_sides_of_the_dice.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/three.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/tilapia.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/timeout.ogg"
@@ -592,6 +621,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/the_six_s
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/three.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/tilapia.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/timeout.ogg"
@@ -624,10 +656,16 @@ file = "resources/common/required/mf_music/assets/modfest/textures/item/music/iv
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/notholirion.png"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/siege.png"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/the_six_sides_of_the_dice.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/three.png"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/textures/item/music/tilapia.png"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/textures/item/music/timeout.png"
@@ -645,6 +683,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/booyah.json
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/childhood_promises.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/et8.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/hand_me_down.json"
 
 [[files]]
@@ -658,6 +699,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/ivory_thron
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/notholirion.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/siege.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/advent.json"
@@ -687,10 +731,16 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/ivor
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/notholirion.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/siege.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/the_six_sides_of_the_dice.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/tilapia.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/timeout.json"
@@ -700,6 +750,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/the_six_sid
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/three.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/tilapia.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/timeout.json"
@@ -786,6 +839,33 @@ file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushie
 file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/spamton.json"
 
 [[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_ashen.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_black.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_chestnut.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_rusty.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_snowy.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_spotted.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_striped.json"
+
+[[files]]
+file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/more_than_a_foxbox/plushie_variant/wolf_woods.json"
+
+[[files]]
 file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushies/recipe/plushie/bdubs.json"
 
 [[files]]
@@ -805,6 +885,102 @@ file = "resources/datapack/required/ModfestPlushiesDataPack/data/modfest_plushie
 
 [[files]]
 file = "resources/datapack/required/ModfestPlushiesDataPack/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/default_components/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/block/free_build_surfaces.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/block/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/data/free_build/tags/item/free_buildables.json"
+
+[[files]]
+file = "resources/datapack/required/free_build/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/losing_my_marbles/marble_type/tnt.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/bee_nest_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/blue_egg_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/brown_egg_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/egg_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/fire_charge_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_black.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_blue.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_brown.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_cyan.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_gray.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_green.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_light_blue.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_light_gray.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_lime.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_magenta.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_orange.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_pink.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_purple.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_red.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_white.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/paint_marble_yellow.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/sniffer_egg_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/tnt_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/turtle_egg_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/data/losing_my_marbles/recipe/wind_charge_marble.json"
+
+[[files]]
+file = "resources/datapack/required/lmm_no_fun_allowed_recipes/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
@@ -831,6 +1007,18 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/not-enough-minecraft/data/not-enough-minecraft/function/player_setup.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/not-enough-minecraft/data/not-enough-minecraft/function/world_setup.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/not-enough-minecraft/data/not-enough-minecraft/structure/demo.nbt"
+
+[[files]]
+file = "resources/datapack/required/not-enough-minecraft/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/toil_and_trouble_toybox/data/toil_and_trouble/recipe/cobblestone_from_lava.json"
 
 [[files]]
@@ -841,6 +1029,15 @@ file = "resources/datapack/required/toil_and_trouble_toybox/data/toil_and_troubl
 
 [[files]]
 file = "resources/datapack/required/toil_and_trouble_toybox/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/toybox_data/data/toybox/dimension/bonus_space.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_data/data/toybox/dimension_type/bonus_space.json"
+
+[[files]]
+file = "resources/datapack/required/toybox_data/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/toybox_paintings/data/minecraft/tags/painting_variant/placeable.json"
@@ -861,6 +1058,12 @@ file = "resources/datapack/required/toybox_paintings/data/toybox_paintings/paint
 file = "resources/datapack/required/toybox_paintings/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/windup_demo/data/modfest/windup_music_box/music_box_data/rick.json"
+
+[[files]]
+file = "resources/datapack/required/windup_demo/pack.mcmeta"
+
+[[files]]
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/bdubs.json"
 
 [[files]]
@@ -871,6 +1074,33 @@ file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfe
 
 [[files]]
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/spamton.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_ashen.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_black.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_chestnut.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_rusty.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_snowy.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_spotted.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_striped.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/items/more_than_a_foxbox/wolf_woods.json"
 
 [[files]]
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/lang/en_us.json"
@@ -915,6 +1145,114 @@ file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfe
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/spamton.json"
 
 [[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_ashen/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_ashen/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_ashen/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_ashen/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_black/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_black/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_black/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_black/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_chestnut/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_chestnut/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_chestnut/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_chestnut/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_rusty/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_rusty/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_rusty/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_rusty/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_snowy/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_snowy/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_snowy/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_snowy/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_spotted/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_spotted/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_spotted/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_spotted/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_striped/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_striped/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_striped/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_striped/stand.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_woods/box.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_woods/lay.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_woods/sit.json"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/models/more_than_a_foxbox/wolf_woods/stand.json"
+
+[[files]]
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/sounds.json"
 
 [[files]]
@@ -945,10 +1283,43 @@ file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfe
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/spamton.png"
 
 [[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_ashen.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_black.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_chestnut.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_rusty.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_snowy.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_spotted.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_striped.png"
+
+[[files]]
+file = "resources/resourcepack/required/ModfestPlushiesResourcePack/assets/modfest_plushies/textures/item/plushie/wolf_woods.png"
+
+[[files]]
 file = "resources/resourcepack/required/ModfestPlushiesResourcePack/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+
+[[files]]
+file = "resources/resourcepack/required/hero_statue/assets/hero-statue/models/item/hero_statue_vanity.json"
+
+[[files]]
+file = "resources/resourcepack/required/hero_statue/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
@@ -1123,6 +1494,12 @@ file = "resources/resourcepack/required/mf_emoji/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/styled_chat_emoji.json"
+
+[[files]]
+file = "resources/resourcepack/required/mod_descriptions/assets/modfest/lang/en_us.json"
+
+[[files]]
+file = "resources/resourcepack/required/mod_descriptions/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/toybox_paintings/assets/toybox_paintings/textures/painting/bnuiy.png"
