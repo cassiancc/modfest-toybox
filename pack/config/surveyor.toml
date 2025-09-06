@@ -2,7 +2,7 @@
 # DISABLED prevents loading, FROZEN loads but prevents updates, DYNAMIC loads with addons or on servers, ENABLED always loads
 # options: DISABLED, FROZEN, DYNAMIC, ENABLED
 # default: DYNAMIC
-terrain = "DYNAMIC"
+terrain = "FROZEN"
 # Structure system - records structure identifiers and piece data for specialized maps and utilities to render
 # DISABLED prevents loading, FROZEN loads but prevents updates, DYNAMIC loads with addons or on servers, ENABLED always loads
 # options: DISABLED, FROZEN, DYNAMIC, ENABLED
