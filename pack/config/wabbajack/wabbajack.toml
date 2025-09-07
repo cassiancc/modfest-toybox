@@ -75,7 +75,7 @@ pvp = false
 	magicMissiles = 1
 	# range: 1 - 100
 	# default: 1
-	teleportation = 1
+	teleportation = 2
 	# range: 1 - 100
 	# default: 1
 	thunderbolt = 1
