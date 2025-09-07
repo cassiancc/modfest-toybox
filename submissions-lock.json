@@ -508,11 +508,11 @@
 		"files": {
 			"mods/flying-frisbees.pw.toml": {
 				"download": {
-					"hash": "0123cd7484dd655e55ddbffbb22269d78cba8ad5d14868da048107ddfdf49c24a85ef13222e1b45b70e2e087de9f7c8a50f17227106508935bef465fb2f35fcf",
+					"hash": "3ff41122bb58cccb1f3d2ce3df472da75e4906682d7dc6414c0116abdeae1c2313376a773e5f1d0b519d94a46c15937725269ad740881232399de7b4e68753bb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/wrDVYqO6/Flying-Frisbees-1.0.7%2Bfabric-1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/ml0TxaCD/versions/jHeEPZct/Flying-Frisbees-1.0.8%2Bfabric-1.21.8.jar"
 				},
-				"filename": "Flying-Frisbees-1.0.7+fabric-1.21.8.jar",
+				"filename": "Flying-Frisbees-1.0.8+fabric-1.21.8.jar",
 				"name": "Flying Frisbees",
 				"side": "both"
 			},
@@ -527,7 +527,7 @@
 				"side": "both"
 			}
 		},
-		"key": "89ebc93dc2d1e28aefa4be12dedee08a61cf1fec9c23e5806132180892e21853"
+		"key": "b544e5d8471c2dd191280fd5704b42465beb887830b0d079c574d9790d402667"
 	},
 	"googun": {
 		"checks": {
