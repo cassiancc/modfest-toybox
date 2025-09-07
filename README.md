@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="https://cdn.modrinth.com/data/Y2eudDRB/images/042e5e20c9bc7aa42b82d268a09b8e2c8b3aabb6.webp" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/Y2eudDRB/images/9d9519c81006962739523c3fb0e01275f6cbabf9.png" /></center>
 
 <center>
 Welcome to the Toybox!<br/>
@@ -16,12 +16,12 @@ This modpack contains all submissions, as well as a showcase world built by part
 - Witness the dawn of 64 mods, including Occipital Metonymy, Would you be a doll?, and Zip To it!
 - Explore a Fantastical bedroom-shaped world full of toys!
 - Jam out to 18 original tracks composed just for the event!
-- Find and earn ~200 collectible "shards", tracking booth visits, exploration, and mastery!
+- Find and earn 136 collectible "shards", tracking booth visits, exploration, and mastery!
 - Discover secrets through walls, below floors, and hidden in plain sight
 
 <center>
 <img width="50%" alt="spawn preview" src="https://cdn.modrinth.com/data/Y2eudDRB/images/6f20dd52fbe36a1d6a8742818308fa46cc71d57a.png"/><br/>
-<i>What will you find to inspire you?</i>
+<i>En garde!?</i>
 </center>
 
 ---
