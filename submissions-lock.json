@@ -1157,26 +1157,26 @@
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f",
+					"hash": "e3cc9f8f60d655c916b2d31ca2a77fc15187e443e3bb8a5977dcff7a704401e8a39d633e12a649207a5923e540b6474e90f08c95655d07ae1c790d5c8aff41a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/CF23l2iP/fabric-api-0.133.4%2B1.21.8.jar"
 				},
-				"filename": "fabric-api-0.133.0+1.21.8.jar",
+				"filename": "fabric-api-0.133.4+1.21.8.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/occipital-metonymy.pw.toml": {
 				"download": {
-					"hash": "61831adc84786aed5e2e9b4cc25cedcbd3b0b295f212626c19e0b71afb642144545c45a892ff5588e0330dc11e38804f4dd4f1a4d91588bbb504f63332eabc14",
+					"hash": "289c8a1da0e8069ced6dbcddb97618608dd634ccee1e81e8070e4340b2da97fc9949ecde2a33b48dfd10c8684010c41f28c40eb9f2222c3430768b28d1cffec3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/TIMk8EDs/occmy-H_.jar"
+					"url": "https://cdn.modrinth.com/data/AswI3srw/versions/Mfv3l6BK/occmy-H__.jar"
 				},
-				"filename": "occmy-H_.jar",
+				"filename": "occmy-H__.jar",
 				"name": "Occipital Metonymy",
 				"side": "both"
 			}
 		},
-		"key": "4560909787946b65bf6c9e4ab25b5ebd7f9141b50680ee1960caa93b0576678e"
+		"key": "eba22d6401e8d10afc82aab70763c6bf711c7f63fa4422d888e4dee5e1aab7c9"
 	},
 	"paintbrush-mod": {
 		"checks": {
