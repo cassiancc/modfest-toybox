@@ -282,6 +282,10 @@ metafile = true
 file = "mods/crystalline-sky-0.1.1+fabric-1.21.8.jar"
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/default-components.pw.toml"
 metafile = true
 
