@@ -9,7 +9,7 @@ autoJump:false
 showNowPlayingToast:true
 musicFrequency:"DEFAULT"
 soundCategory_master:0.7
-soundCategory_music:0.7
+soundCategory_music:0.25
 soundCategory_record:0.7
 soundCategory_weather:0.7
 soundCategory_block:0.7
