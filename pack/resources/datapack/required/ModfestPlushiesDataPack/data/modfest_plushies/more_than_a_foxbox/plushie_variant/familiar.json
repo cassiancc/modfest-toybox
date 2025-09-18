@@ -1,0 +1,9 @@
+{
+	"mob_sounds": "entity.fox.ambient",
+	"poses": {
+		"sit": "modfest_plushies:more_than_a_foxbox/familiar/sit",
+		"stand": "modfest_plushies:more_than_a_foxbox/familiar/stand",
+		"lay": "modfest_plushies:more_than_a_foxbox/familiar/lay",
+		"box": "modfest_plushies:more_than_a_foxbox/familiar/box"
+	}
+}
