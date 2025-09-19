@@ -1,6 +1,6 @@
 name = "ModFest - Toybox"
 author = "ModFest"
-version = "0.1.1"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
