@@ -4,10 +4,8 @@ import subprocess
 
 from scripts import common
 
-
-# Run this script twice and validate for errors
-# Delete any regions where chunk indices cant be deleted by mca (usually poi)
-# Validate player initial position works in singleplayer afterwards
+# Copy world into specified folder from backup
+# Run this script twice and validate for errors - delete any MCASelector "failed to delete" stuff (usually poi)
 
 def trim_world():
 	# Event-Specific Data
