@@ -14,8 +14,8 @@ def trim_world():
 	folder_name  = "ModFest Toybox Showcase"
 	level_name = "ModFest: Toybox Showcase World"
 	spawn = [54, 222, 85]
-	dim_borders = { # chunk coordinates to keep, start-inclusive end-exclusive.
-		"": [0, 0, 32, 32], # Overworld
+	dim_borders = { # chunk coordinates to keep, inclusive-inclusive.
+		"": [0, 0, 31, 31], # Overworld
 	}
 	dim_time_prune = { # min time inhabited to keep chunks. good for natural gen areas where you want to keep booth-only
 		# Must always define these 3 because they're not in dimension
@@ -35,6 +35,7 @@ def trim_world():
 		# unused dimensions
 		"DIM1",
 		"DIM-1",
+		"dimensions/fantasy"
 	]
 
 	# directories
@@ -52,6 +53,8 @@ def trim_world():
 						remove.append(dim)
 					elif dim not in dim_time_prune.keys():
 						dim_time_prune[dim] = "10 seconds"
+
+	shutil.copyfile(repo_root / "pack" / "server-icon.png", world_dir / "icon.png")
 
 	for file in remove:
 		path = f"{world_dir}/{file}"
@@ -88,6 +91,8 @@ def trim_world():
 	for path, dirs, files in list(os.walk(world_dir))[1:]:
 		if not files and not dirs:
 			os.removedirs(path)
+
+	# todo maybe a system where you can target folders (e.g. worldcomment, surveyor) that should match whether regions exist in the actual region folder?
 
 	print(f"Tweaking level.dat for world \"{level_name}\"")
 	subprocess.run(f"java -jar \"{unbted_jar}\" \"{world_dir}/level.dat\"", input=f"""
